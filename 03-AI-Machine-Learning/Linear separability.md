@@ -1,0 +1,31 @@
+---
+title: "Linear separability"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Linear_separability"
+wikipedia_categories: ["Convex analysis", "Geometry", "Machine learning"]
+related: ["[[80 Million Tiny Images]]", "[[A Logical Calculus of the Ideas Immanent in Nervous Activity]]", "[[Absolutely convex set]]", "[[Accelerated Linear Algebra]]", "[[Active learning (machine learning)]]", "[[Adversarial machine learning]]", "[[AI data center]]", "[[AI observability]]", "[[AIOps]]", "[[AIXI]]"]
+---
+
+# Linear separability
+
+In Euclidean geometry, linear separability is a property of two sets of points. This is most easily visualized in two dimensions (the Euclidean plane) by thinking of one set of points as being colored blue and the other set of points as being colored red. These two sets are linearly separable if there exists at least one line in the plane with all of the blue points on one side of the line and all the red points on the other side. This idea immediately generalizes to higher-dimensional Euclidean spaces if the line is replaced by a hyperplane.
+The problem of determining if a pair of sets is linearly separable and finding a separating hyperplane if they are, arises in several areas.  In statistics and machine learning, classifying certain types of data is a problem for which good algorithms exist that are based on this concept.
+
+## Related
+
+- [[80 Million Tiny Images]]
+- [[A Logical Calculus of the Ideas Immanent in Nervous Activity]]
+- [[Absolutely convex set]]
+- [[Accelerated Linear Algebra]]
+- [[Active learning (machine learning)]]
+- [[Adversarial machine learning]]
+- [[AI data center]]
+- [[AI observability]]
+- [[AIOps]]
+- [[AIXI]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Linear_separability

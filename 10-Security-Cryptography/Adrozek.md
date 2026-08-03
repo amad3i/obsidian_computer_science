@@ -1,0 +1,32 @@
+---
+title: "Adrozek"
+tags: ["cs", "security-cryptography", "intermediate"]
+domain: Security & Cryptography
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Adrozek"
+wikipedia_categories: ["2020 in computing", "2020s in hacking", "Computer security"]
+related: ["[[CovidLock]]", "[[SMBGhost]]", "[[Thunderspy]]", "[[2018 Google data breach]]", "[[2024 National Public Data breach]]", "[[2026 OpenAI agent cyberattacks]]", "[[Adversarial machine learning]]", "[[Anderson's rule (computer science)]]", "[[Anomaly Detection at Multiple Scales]]", "[[Anthem medical data breach]]"]
+---
+
+# Adrozek
+
+Adrozek is malware that injects fake ads into online search results. Microsoft announced the malware threat on 10 December 2020, and noted that many different browsers are affected, including  Google Chrome, Microsoft Edge, Mozilla Firefox and Yandex Browser. The malware was first detected in May 2020 and, at its peak in August 2020, controlled over 30,000 devices a day. But during the December 2020 announcement, Microsoft claimed "hundreds of thousands" of infected devices worldwide between May and September 2020. 
+According to Microsoft, if not detected and blocked, Adrozek adds browser extensions, modifies a specific DLL per target browser, and changes browser settings to insert additional, unauthorized ads into web pages, often on top of legitimate ads from search engines. For each user tricked into clicking on the fake ads, the scammers earn affiliate advertising dollars. The malware has been observed to extract device data and, in some cases, steal credentials, sending them to remote servers. 
+Users may unintentionally install the malware because of a drive-by download, by visiting a tampered website, opening an e-mail attachment, or clicking on a deceptive link or a deceptive pop-up window. The main malware program is downloaded to the “Programs Files” folder using file names such as Audiolava.exe, QuickAudio.exe, and converter.exe. According to PC Magazine, a good way to avoid, or mitigate, infection by Adrozek is to keep browser and related software programs up to date.
+
+## Related
+
+- [[CovidLock]]
+- [[SMBGhost]]
+- [[Thunderspy]]
+- [[2018 Google data breach]]
+- [[2024 National Public Data breach]]
+- [[2026 OpenAI agent cyberattacks]]
+- [[Adversarial machine learning]]
+- [[Anderson's rule (computer science)]]
+- [[Anomaly Detection at Multiple Scales]]
+- [[Anthem medical data breach]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Adrozek

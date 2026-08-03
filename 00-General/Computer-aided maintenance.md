@@ -1,0 +1,30 @@
+---
+title: "Computer-aided maintenance"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Computer-aided_maintenance"
+wikipedia_categories: ["Computer systems", "Help desk", "Product lifecycle management"]
+related: ["[[3D Content Retrieval]]", "[[Aladdin (BlackRock)]]", "[[Alert correlation]]", "[[Altos 586]]", "[[Automotive navigation system]]", "[[CAD data exchange]]", "[[Computer bureau]]", "[[Computer-aided industrial design]]", "[[Computer-aided manufacturing]]", "[[Continuous availability]]"]
+---
+
+# Computer-aided maintenance
+
+Computer-aided maintenance (not to be confused with CAM which usually stands for Computer Aided Manufacturing) refers to systems that utilize software to organize planning, scheduling, and support of maintenance and repair.  A common application of such systems is the maintenance of computers, either hardware or software, themselves.  It can also apply to the maintenance of other complex systems that require periodic maintenance, such as reminding operators that preventive maintenance is due or even predicting when such maintenance should be performed based on recorded past experience.
+
+## Related
+
+- [[3D Content Retrieval]]
+- [[Aladdin (BlackRock)]]
+- [[Alert correlation]]
+- [[Altos 586]]
+- [[Automotive navigation system]]
+- [[CAD data exchange]]
+- [[Computer bureau]]
+- [[Computer-aided industrial design]]
+- [[Computer-aided manufacturing]]
+- [[Continuous availability]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Computer-aided_maintenance

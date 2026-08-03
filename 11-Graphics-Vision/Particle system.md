@@ -1,0 +1,32 @@
+---
+title: "Particle system"
+tags: ["cs", "graphics-vision", "intermediate"]
+domain: Graphics & Vision
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Particle_system"
+wikipedia_categories: ["3D computer graphics", "Computer physics engines", "Virtual reality"]
+related: ["[[AGX Dynamics]]", "[[Digital Molecular Matter]]", "[[Draw distance]]", "[[Havok (software)]]", "[[Horizon mapping]]", "[[Inverse kinematics]]", "[[Kinematic chain]]", "[[OpenFlight]]", "[[PhysX]]", "[[Polygon mesh]]"]
+---
+
+# Particle system
+
+A particle system is a technique in game physics, motion graphics, and computer graphics that uses many minute sprites, 3D models, or other graphic objects to simulate certain kinds of "fuzzy" phenomena, which are otherwise very hard to reproduce with conventional rendering techniques – usually highly chaotic systems, natural phenomena, or processes caused by chemical reactions.
+Introduced in the 1982 film Star Trek II: The Wrath of Khan for the fictional "Genesis effect", other examples include replicating the phenomena of fire, explosions, smoke, moving water (such as a waterfall), sparks, falling leaves, rock falls, clouds, fog, snow, dust, meteor tails, stars and galaxies, or abstract visual effects like glowing trails, magic spells, etc. – these use particles that fade out quickly and are then re-emitted from the effect's source. Another technique can be used for things that contain many strands – such as fur, hair, and grass – involving rendering an entire particle's lifetime at once, which can then be drawn and manipulated as a single strand of the material in question.
+Particle systems are defined as a group of points in space, guided by a collection of rules defining behavior and appearance. Particle systems model phenomena as a cloud of particles, using stochastic processes to simplify the definition of dynamical system and fluid mechanics with that are difficult to represent with affine transformations.
+
+## Related
+
+- [[AGX Dynamics]]
+- [[Digital Molecular Matter]]
+- [[Draw distance]]
+- [[Havok (software)]]
+- [[Horizon mapping]]
+- [[Inverse kinematics]]
+- [[Kinematic chain]]
+- [[OpenFlight]]
+- [[PhysX]]
+- [[Polygon mesh]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Particle_system

@@ -1,0 +1,32 @@
+---
+title: "RIPEMD"
+tags: ["cs", "algorithms-data-structures", "intermediate"]
+domain: Algorithms & Data Structures
+level: intermediate
+source: "https://en.wikipedia.org/wiki/RIPEMD"
+wikipedia_categories: ["Cryptographic hash functions"]
+related: ["[[Argon2]]", "[[Ascon (cipher)]]", "[[Bcrypt]]", "[[Collision attack]]", "[[Comparison of cryptographic hash functions]]", "[[Crypt (C)]]", "[[Cryptographic hash function]]", "[[Elliptic curve only hash]]", "[[Fast syndrome-based hash]]", "[[FORK-256]]"]
+---
+
+# RIPEMD
+
+RIPEMD (RIPE Message Digest) is a family of cryptographic hash functions developed in 1992 (the original RIPEMD) and 1996 (other variants). There are five functions in the family: RIPEMD, RIPEMD-128, RIPEMD-160, RIPEMD-256, and RIPEMD-320, of which RIPEMD-160 is the most common.
+The original RIPEMD, as well as RIPEMD-128, is not considered secure because 128-bit result is too small and also (for the original RIPEMD) because of design weaknesses. The 256- and 320-bit versions of RIPEMD provide the same level of security as RIPEMD-128 and RIPEMD-160, respectively; they are designed for applications where the security level is sufficient, but a longer hash result is necessary.
+While RIPEMD functions are less popular than SHA-1 and SHA-2, they are used, among others, in Bitcoin and other cryptocurrencies based on Bitcoin.
+
+## Related
+
+- [[Argon2]]
+- [[Ascon (cipher)]]
+- [[Bcrypt]]
+- [[Collision attack]]
+- [[Comparison of cryptographic hash functions]]
+- [[Crypt (C)]]
+- [[Cryptographic hash function]]
+- [[Elliptic curve only hash]]
+- [[Fast syndrome-based hash]]
+- [[FORK-256]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/RIPEMD

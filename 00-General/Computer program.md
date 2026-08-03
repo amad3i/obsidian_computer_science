@@ -1,0 +1,33 @@
+---
+title: "Computer program"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Computer_program"
+wikipedia_categories: ["Computer programming", "Software"]
+related: ["[[Entry point]]", "[[Skeleton (computer programming)]]", "[[Algorave]]", "[[Asynchronous procedure call]]", "[[Asynchrony (computer programming)]]", "[[Bayesian program synthesis]]", "[[Boolean flag]]", "[[Breakpoint]]", "[[Cheat sheet]]", "[[Code Club]]"]
+---
+
+# Computer program
+
+A computer program is a sequence or set of instructions in a programming language for a computer to execute. It is one component of software, which also includes documentation and other intangible components.
+A computer program in its human-readable form is called source code. Source code needs another computer program to execute because computers can only execute their native machine instructions. Therefore, source code may be translated to machine instructions using a compiler written for the language. (Assembly language programs are translated using an assembler.) The resulting file is called an executable. Alternatively, source code may execute within an interpreter written for the language.
+If the executable is requested for execution, then the operating system loads it into memory and starts a process. The central processing unit will soon switch to this process so it can fetch, decode, and then execute each machine instruction.
+If the source code is requested for execution, then the operating system loads the corresponding interpreter into memory and starts a process. The interpreter then loads the source code into memory to translate and execute each statement. Running the source code is slower than running an executable. Moreover, the interpreter must be installed on the computer.
+
+## Related
+
+- [[Entry point]]
+- [[Skeleton (computer programming)]]
+- [[Algorave]]
+- [[Asynchronous procedure call]]
+- [[Asynchrony (computer programming)]]
+- [[Bayesian program synthesis]]
+- [[Boolean flag]]
+- [[Breakpoint]]
+- [[Cheat sheet]]
+- [[Code Club]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Computer_program

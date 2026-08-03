@@ -1,0 +1,37 @@
+---
+title: "Proof (truth)"
+tags: ["cs", "algorithms-data-structures", "advanced"]
+domain: Algorithms & Data Structures
+level: advanced
+source: "https://en.wikipedia.org/wiki/Proof_(truth)"
+wikipedia_categories: ["Automated theorem proving", "Computational complexity theory", "Concepts in epistemology", "Evidence", "Formal languages", "Formal systems", "Legal reasoning", "Logical truth"]
+related: ["[[Formal proof]]", "[[Formal system]]", "[[Formation rule]]", "[[Proof complexity]]", "[[Propositional proof system]]", "[[Sparse language]]", "[[Substitution (logic)]]", "[[Unary language]]", "[[Aanderaa–Karp–Rosenberg conjecture]]", "[[Abstract family of acceptors]]"]
+---
+
+# Proof (truth)
+
+A proof is  sufficient evidence or a sufficient argument for the truth of a proposition.
+The concept applies in a variety of disciplines,
+with both the nature of the evidence or justification and the criteria for sufficiency being area-dependent. In the area of oral and written communication such as conversation, dialog, rhetoric, etc., a proof is a persuasive perlocutionary speech act, which demonstrates the truth of a proposition. In any area of mathematics defined by its assumptions or axioms, a proof is an argument establishing a theorem of that area via accepted rules of inference starting from those axioms and from other previously established theorems.  The subject of logic, in particular proof theory, formalizes and studies the notion of formal proof.  In some areas of epistemology and theology, the notion of justification plays approximately the role of proof, while in jurisprudence the corresponding term is evidence,
+with "burden of proof" as a concept common to both philosophy and law.
+In most disciplines, evidence is required to prove something. Evidence is drawn from the experience of the world around us, with science obtaining its evidence from nature, law obtaining its evidence from witnesses and forensic investigation, and so on.   A notable exception is mathematics, whose proofs are drawn from a mathematical world begun with axioms and further developed and enriched by theorems proved earlier.
+Exactly what evidence is sufficient to prove something is also strongly area-dependent, usually with no absolute threshold of sufficiency at which evidence becomes proof. In law, the same evidence that may convince one jury may not persuade another.  Formal proof provides the main exception, where the criteria for proofhood are ironclad and it is impermissible to defend any step in the reasoning as "obvious" (except for the necessary ability of the one proving and the one being proven to, to correctly identify any symbol used in the proof.); for a well-formed formula to qualify as part of a formal proof, it must be the result of applying a rule of the deductive apparatus of some formal system to the previous well-formed formulae in the proof sequence.
+Proofs have been presented since antiquity. Aristotle used the observation that patterns of nature never display the machine-like uniformity of determinism as proof that chance is an inherent part of nature. On the other hand, Thomas Aquinas used the observation of the existence of rich patterns in nature as proof that nature is not ruled by chance.
+Proofs need not be verbal.  Before Copernicus, people took the apparent motion of the Sun across the sky as proof that the Sun went round the Earth.  Suitably incriminating evidence left at the scene of a crime may serve as proof of the identity of the perpetrator.  Conversely, a verbal entity need not assert a proposition to constitute a proof of that proposition.  For example, a signature constitutes direct proof of authorship; less directly, handwriting analysis may be submitted as proof of authorship of a document.  Privileged information in a document can serve as proof that the document's author had access to that information; such access might in turn establish the location of the author at certain time, which might then provide the author with an alibi.
+
+## Related
+
+- [[Formal proof]]
+- [[Formal system]]
+- [[Formation rule]]
+- [[Proof complexity]]
+- [[Propositional proof system]]
+- [[Sparse language]]
+- [[Substitution (logic)]]
+- [[Unary language]]
+- [[Aanderaa–Karp–Rosenberg conjecture]]
+- [[Abstract family of acceptors]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Proof_(truth)

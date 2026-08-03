@@ -1,0 +1,32 @@
+---
+title: "Rc (Unix shell)"
+tags: ["cs", "programming-languages", "intermediate"]
+domain: Programming & Languages
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Rc_(Unix_shell)"
+wikipedia_categories: ["Free system software", "Inferno (operating system)", "Plan 9 from Bell Labs", "Procedural programming languages", "Programming languages created in 1989", "Scripting languages", "Text-oriented programming languages", "Unix shells"]
+related: ["[[Almquist shell]]", "[[Bash (Unix shell)]]", "[[Bourne shell]]", "[[CLIST]]", "[[Perl]]", "[[PHP]]", "[[PowerShell]]", "[[PWB shell]]", "[[Tcl (programming language)]]", "[[Tcsh]]"]
+---
+
+# Rc (Unix shell)
+
+rc (for "run commands") is the command-line interpreter for Version 10 Unix and Plan 9 from Bell Labs operating systems. It resembles the Bourne shell, but its syntax is somewhat simpler. It was created by Tom Duff, who is better known for an unusual C programming language construct ("Duff's device").
+A port of the original rc to Unix is part of Plan 9 from User Space.  A rewrite of rc for Unix-like operating systems by Byron Rakitzis is also available but includes some incompatible changes.
+Rc uses C-like control structures instead of the original Bourne shell's ALGOL-like structures, except that it uses an if not construct instead of else in the original implementation but uses else in Byron Rakitzis' implementation, and has a Bourne-like for loop to iterate over lists. In rc, all variables are lists of strings, which eliminates the need for constructs like "$@". Variables are not re-split when expanded. The language is described in Duff's paper.
+
+## Related
+
+- [[Almquist shell]]
+- [[Bash (Unix shell)]]
+- [[Bourne shell]]
+- [[CLIST]]
+- [[Perl]]
+- [[PHP]]
+- [[PowerShell]]
+- [[PWB shell]]
+- [[Tcl (programming language)]]
+- [[Tcsh]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Rc_(Unix_shell)

@@ -1,0 +1,32 @@
+---
+title: "IBM Quantum Platform"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/IBM_Quantum_Platform"
+wikipedia_categories: ["IBM cloud services", "Quantum computing", "Quantum programming"]
+related: ["[[Cloud-based quantum computing]]", "[[OpenQASM]]", "[[Quantum programming]]", "[[Quil (instruction set architecture)]]", "[[1QBit]]", "[[Adiabatic quantum computation]]", "[[Algorithmic qubits]]", "[[Andrea Morello]]", "[[Bacon–Shor code]]", "[[BQP]]"]
+---
+
+# IBM Quantum Platform
+
+IBM Quantum Platform (previously known as IBM Quantum Experience) is an online platform allowing public and premium access to cloud-based quantum computing services provided by IBM. This includes access to a set of IBM's quantum processors, a set of tutorials on quantum computation, and access to interactive courses. As of June 2025, there are 12 devices on the service, all of which are freely accessible by the public. This service can be used to run algorithms and experiments, and explore tutorials and simulations around what might be possible with quantum computing.
+IBM's quantum processors are made up of superconducting transmon qubits, located in dilution refrigerators at the IBM Research headquarters at the Thomas J. Watson Research Center.  Users interact with a quantum processor through the quantum circuit model of computation, typically through code written in Qiskit. This code can be compiled down to OpenQASM for execution on real quantum systems.
+Circuits can be created either graphically with the Quantum Composer, or programmatically through Jupyter notebooks on IBM's approved platforms for cloud-based quantum computing: qBraid and OVHCloud.
+
+## Related
+
+- [[Cloud-based quantum computing]]
+- [[OpenQASM]]
+- [[Quantum programming]]
+- [[Quil (instruction set architecture)]]
+- [[1QBit]]
+- [[Adiabatic quantum computation]]
+- [[Algorithmic qubits]]
+- [[Andrea Morello]]
+- [[Bacon–Shor code]]
+- [[BQP]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/IBM_Quantum_Platform

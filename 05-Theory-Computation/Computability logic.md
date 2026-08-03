@@ -1,0 +1,34 @@
+---
+title: "Computability logic"
+tags: ["cs", "theory-of-computation", "advanced"]
+domain: Theory of Computation
+level: advanced
+source: "https://en.wikipedia.org/wiki/Computability_logic"
+wikipedia_categories: ["Computability theory", "Logic in computer science", "Non-classical logic"]
+related: ["[[Combs method]]", "[[Constructive logic]]", "[[Dynamic logic (modal logic)]]", "[[Fuzzy logic]]", "[[Intuitionistic logic]]", "[[Normal form (abstract rewriting)]]", "[[Preferential entailment]]", "[[Undecidable problem]]", "[[1-in-3-SAT]]", "[[Abstract rewriting system]]"]
+---
+
+# Computability logic
+
+Computability logic (CoL) is a research program and mathematical framework for redeveloping logic as a systematic formal theory of computability, as opposed to classical logic, which is a formal theory of truth. It was introduced and so named by Giorgi Japaridze in 2003. 
+In classical logic, formulas represent true/false statements. In CoL, formulas represent computational problems. In classical logic, the validity of an argument depends only on its form, not on its meaning. In CoL, validity means being always computable. More generally, classical logic tells us when the truth of a given statement always follows from the truth of a given set of other statements. Similarly, CoL tells us when the computability of a given problem  A always follows from the computability of other given problems B1,...,Bn. Moreover, it provides a uniform way to actually construct a solution (algorithm) for such an A from any known solutions of B1,...,Bn.
+CoL formulates computational problems in their most general—interactive—sense. CoL defines a computational problem as a game played by a machine against its environment. Such a problem is computable if there is a machine that wins the game against every possible behavior of the environment. Such a game-playing machine generalizes the Church–Turing thesis to the interactive level. The classical concept of truth turns out to be a special, zero-interactivity-degree case of computability. This makes classical logic a special fragment of CoL. Thus CoL is a conservative extension of classical logic. Computability logic is more expressive, constructive and computationally meaningful than classical logic. Besides classical logic, independence-friendly (IF) logic  and certain proper extensions of linear logic and intuitionistic logic also turn out to be natural fragments of CoL. Hence meaningful concepts of "intuitionistic truth", "linear-logic truth" and "IF-logic truth" can be derived from the semantics of CoL.
+CoL systematically answers the fundamental question of what can be computed and how; thus CoL has many applications, such as constructive applied theories, knowledge base systems, systems for planning and action. Out of these, only applications in constructive applied theories have been extensively explored so far: a series of CoL-based number theories, termed "clarithmetics", have been constructed as computationally and complexity-theoretically meaningful alternatives to the classical-logic-based first-order Peano arithmetic and its variations such as systems of bounded arithmetic.
+Traditional proof systems such as natural deduction and sequent calculus are insufficient for axiomatizing nontrivial fragments of CoL. This has necessitated developing alternative, more general and flexible methods of proof, such as cirquent calculus.
+
+## Related
+
+- [[Combs method]]
+- [[Constructive logic]]
+- [[Dynamic logic (modal logic)]]
+- [[Fuzzy logic]]
+- [[Intuitionistic logic]]
+- [[Normal form (abstract rewriting)]]
+- [[Preferential entailment]]
+- [[Undecidable problem]]
+- [[1-in-3-SAT]]
+- [[Abstract rewriting system]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Computability_logic

@@ -1,0 +1,34 @@
+---
+title: "Charge-coupled device"
+tags: ["cs", "architecture-hardware", "intermediate"]
+domain: Architecture & Hardware
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Charge-coupled_device"
+wikipedia_categories: ["American inventions", "Astronomical imaging", "Image processing", "Image scanners", "Image sensors", "Integrated circuits", "MOSFETs"]
+related: ["[[Drizzle (image processing)]]", "[[Integrated circuit]]", "[[Kernel-phase]]", "[[Lucy–Hook coaddition method]]", "[[Minimum resolvable contrast]]", "[[Time delay and integration]]", "[[3D selfie]]", "[[Abel transform]]", "[[ActionShot]]", "[[Acutance]]"]
+---
+
+# Charge-coupled device
+
+A charge-coupled device (CCD) is an integrated circuit containing an array of linked, or coupled, capacitors. Under the control of an external circuit, each capacitor can transfer its electric charge to a neighboring capacitor. CCD sensors are a major technology used in digital imaging.
+In a CCD image sensor, pixels are represented by p-doped metal–oxide–semiconductor (MOS) capacitors. These MOS capacitors, the basic building blocks of a CCD, are biased above the threshold for inversion when image acquisition begins, allowing the conversion of incoming photons into electron charges at the semiconductor-oxide interface; the CCD is then used to read out these charges.
+Although CCDs are not the only technology to allow for light detection, CCD image sensors are widely used in professional, medical, and scientific applications where high-quality image data are required.
+In applications with less exacting quality demands, such as consumer and professional digital cameras, active pixel sensors, also known as CMOS sensors (complementary MOS sensors), are generally used.
+However, the large quality advantage CCDs enjoyed early on has narrowed over time and since the late 2010s CMOS sensors are the dominant technology, having largely if not completely replaced CCD image sensors.
+
+## Related
+
+- [[Drizzle (image processing)]]
+- [[Integrated circuit]]
+- [[Kernel-phase]]
+- [[Lucy–Hook coaddition method]]
+- [[Minimum resolvable contrast]]
+- [[Time delay and integration]]
+- [[3D selfie]]
+- [[Abel transform]]
+- [[ActionShot]]
+- [[Acutance]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Charge-coupled_device

@@ -1,0 +1,35 @@
+---
+title: "Open port"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Open_port"
+wikipedia_categories: ["Internet protocols"]
+related: ["[[Asynchronous Layered Coding]]", "[[Automatic Certificate Management Environment]]", "[[BEEP]]", "[[Berkeley r-commands]]", "[[BGP Monitoring Protocol]]", "[[Bidirectional Forwarding Detection]]", "[[Binkp]]", "[[Bootstrap Protocol]]", "[[Border Gateway Multicast Protocol]]", "[[Border Gateway Protocol]]"]
+---
+
+# Open port
+
+In security parlance, the term open port is used to mean a TCP or UDP port number that is configured to accept packets. In contrast, a port which rejects connections or ignores all packets directed at it is called a closed port.
+Ports are an integral part of the Internet's communication model — they are the channel through which applications on the client computer can reach the software on the server. Services, such as web pages or FTP, require their respective ports to be "open" on the server in order to be publicly reachable.
+The above use of the terms "open" and "closed" can sometimes be misleading, though; it blurs the distinction between a given port being reachable (unfiltered) and whether there is an application actually listening on that port. Technically, a given port being "open" (in this context, reachable) is not enough for a communication channel to be established. There needs to be an application (service) listening on that port, accepting the incoming packets and processing them. If there is no application listening on a port, incoming packets to that port will simply be rejected by the computer's operating system.
+Ports can be "closed" (in this context, filtered) through the use of a firewall. The firewall will filter incoming packets, only letting through those packets for which it has been configured. Packets directed at a port which the firewall is configured to "close" will simply be dropped in transit, as though they never existed.
+Some malicious software acts as a service, waiting for connections from a remote attacker in order to give them information or control over the machine. It is common security practice to close unused ports in personal computers, so as to block public access to any services which might be running on the computer without the user's knowledge, whether due to legitimate services being misconfigured, or the presence of malicious software.
+Malicious ("black hat") hackers commonly use port scanning software to find which ports are "open" (unfiltered) in a given computer, and whether or not an actual service is listening on that port. They can then attempt to exploit potential vulnerabilities in any services they find.
+
+## Related
+
+- [[Asynchronous Layered Coding]]
+- [[Automatic Certificate Management Environment]]
+- [[BEEP]]
+- [[Berkeley r-commands]]
+- [[BGP Monitoring Protocol]]
+- [[Bidirectional Forwarding Detection]]
+- [[Binkp]]
+- [[Bootstrap Protocol]]
+- [[Border Gateway Multicast Protocol]]
+- [[Border Gateway Protocol]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Open_port

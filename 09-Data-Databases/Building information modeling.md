@@ -1,0 +1,31 @@
+---
+title: "Building information modeling"
+tags: ["cs", "data-databases", "intermediate"]
+domain: Data & Databases
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Building_information_modeling"
+wikipedia_categories: ["Architecture", "Building engineering", "Building information modeling", "Computer-aided design", "Construction", "Data modeling"]
+related: ["[[COBie]]", "[[Sonata (building design software)]]", "[[Virtual design and construction]]", "[[BIM Collaboration Format]]", "[[BuildingSMART Data Dictionary]]", "[[Cadwork]]", "[[Facility condition index]]", "[[Reflex (building design software)]]", "[[Applied element method]]", "[[BIMx]]"]
+---
+
+# Building information modeling
+
+Building information modeling  (BIM) is an approach involving the generation and management of digital representations of the physical and functional characteristics of buildings or other physical assets and facilities. BIM is supported by various tools, processes, technologies and contracts. Building information models (BIMs) are computer files (often but not always in proprietary formats and containing proprietary data) which can be extracted, exchanged or networked to support decision-making regarding a built asset. BIM software is used by individuals, businesses and government agencies who plan, design, construct, operate and maintain buildings and diverse physical infrastructures, such as water, refuse, electricity, gas, communication utilities, roads, railways, bridges, ports and tunnels.
+The concept of BIM has been in development since the 1970s, but it only became an agreed term in the early 2000s. The development of standards and the adoption of BIM has progressed at different speeds in different countries. Developed by buildingSMART, Industry Foundation Classes (IFCs) – data structures for representing information – became an international standard, ISO 16739, in 2013, and BIM process standards developed in the United Kingdom from 2007 onwards formed the basis of an international standard, ISO 19650, launched in December 2018.
+
+## Related
+
+- [[COBie]]
+- [[Sonata (building design software)]]
+- [[Virtual design and construction]]
+- [[BIM Collaboration Format]]
+- [[BuildingSMART Data Dictionary]]
+- [[Cadwork]]
+- [[Facility condition index]]
+- [[Reflex (building design software)]]
+- [[Applied element method]]
+- [[BIMx]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Building_information_modeling

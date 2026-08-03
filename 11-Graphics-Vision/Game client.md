@@ -1,0 +1,30 @@
+---
+title: "Game client"
+tags: ["cs", "graphics-vision", "intermediate"]
+domain: Graphics & Vision
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Game_client"
+wikipedia_categories: ["Clients (computing)", "Multiplayer video games", "Video game development", "Video game platforms"]
+related: ["[[Game server]]", "[[Netcode]]", "[[Mac gaming]]", "[[2.5D]]", "[[2022–2026 video game industry layoffs]]", "[[AAA (video game industry)]]", "[[AbleGamers]]", "[[Academy of Interactive Arts & Sciences]]", "[[Amazon Lumberyard]]", "[[Artificial intelligence in video games]]"]
+---
+
+# Game client
+
+A game client is a network client that connects an individual user to the main game server, used mainly in multiplayer video games. It collects data such as score, player status, position and movement from a single player and send it to the game server, which allows the server to collect each individual's data and show every player in game, whether it is an arena game on a smaller scale or a massive game with thousands of players on the same map. Even though the game server displays each player's information for every player in a game, players still have their own unique perspective from the information collected by the game client, so that every player's perspective of the game is different, even though the world for every player is the same. The game client also allows the information sharing among users. An example would be item exchange in many MMORPG games where a player exchange an item he/she doesn't want for an item he/she wants, the game clients interconnect with each other and allows the sharing of information, in this exchanging items. Since many games requires a centralized space for players to gather and a way for users to exchange their information, many game clients are a hybrid of client-server and peer-to-peer application structures.
+
+## Related
+
+- [[Game server]]
+- [[Netcode]]
+- [[Mac gaming]]
+- [[2.5D]]
+- [[2022–2026 video game industry layoffs]]
+- [[AAA (video game industry)]]
+- [[AbleGamers]]
+- [[Academy of Interactive Arts & Sciences]]
+- [[Amazon Lumberyard]]
+- [[Artificial intelligence in video games]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Game_client

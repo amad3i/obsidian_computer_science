@@ -1,0 +1,34 @@
+---
+title: "Discrete Fourier transform"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Discrete_Fourier_transform"
+wikipedia_categories: ["Digital signal processing", "Discrete transforms", "Fourier analysis", "Numerical analysis", "Unitary operators"]
+related: ["[[Discrete cosine transform]]", "[[Discrete wavelet transform]]", "[[Finite Legendre transform]]", "[[Almost periodic function]]", "[[Basis function]]", "[[DFT matrix]]", "[[Dirac delta function]]", "[[Discrete-time Fourier transform]]", "[[Fast Fourier transform]]", "[[Fourier analysis]]"]
+---
+
+# Discrete Fourier transform
+
+In mathematics, the discrete Fourier transform (DFT) is a discrete version of the Fourier transform that converts a finite sequence of numbers into another sequence of the same length, representing the amplitude and phase of different frequency components. In this way, it changes data from a description in terms of sampled values to a description in terms of oscillations. The inverse discrete Fourier transform reverses this process and recovers the original sequence.
+For data sampled at equally spaced points, the DFT can be understood more precisely as converting between sample values and the coefficients of a trigonometric polynomial that interpolates those values. It is therefore a basic tool for numerical work with smooth periodic functions, which can often be approximated well by trigonometric polynomials. In practice, the DFT is usually computed by efficient fast Fourier transform (FFT) algorithms.
+
+The DFT is used in many practical applications of Fourier analysis. In digital signal processing, the input is often a sampled quantity or signal that varies over time, such as the pressure of a sound wave, a radio signal, or daily temperature readings, sampled over a finite time interval (often defined by a window function). In image processing, the samples can be the values of pixels along a row or column of a raster image. The DFT is also used to efficiently solve partial differential equations, and to perform other operations such as convolutions or multiplying large integers.
+Since the DFT deals with a finite amount of data, it can be implemented in computers by numerical algorithms or even dedicated hardware. These implementations usually employ efficient fast Fourier transform (FFT) algorithms; so much so that the terms "FFT" and "DFT" are often used interchangeably. Prior to its current usage, the "FFT" initialism may have also been used for the ambiguous term "finite Fourier transform".
+
+## Related
+
+- [[Discrete cosine transform]]
+- [[Discrete wavelet transform]]
+- [[Finite Legendre transform]]
+- [[Almost periodic function]]
+- [[Basis function]]
+- [[DFT matrix]]
+- [[Dirac delta function]]
+- [[Discrete-time Fourier transform]]
+- [[Fast Fourier transform]]
+- [[Fourier analysis]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Discrete_Fourier_transform

@@ -1,0 +1,33 @@
+---
+title: "Windows XP"
+tags: ["cs", "operating-systems", "intermediate"]
+domain: Operating Systems
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Windows_XP"
+wikipedia_categories: ["2001 software", "IA-32 operating systems", "Microsoft Windows", "Obsolete technologies", "Products and services discontinued in 2014", "Products and services discontinued in 2019", "Products introduced in 2001", "Windows NT"]
+related: ["[[Windows 10]]", "[[Windows 2000]]", "[[Windows 7]]", "[[Windows 8]]", "[[Windows NT 3.1]]", "[[Windows NT 3.5]]", "[[Windows NT 3.51]]", "[[Windows NT 4.0]]", "[[Windows Vista]]", "[[Windows 8.1]]"]
+---
+
+# Windows XP
+
+Windows XP (stylized as Windowsxp) is a major release of Microsoft's Windows NT operating system. It was released to manufacturing on August 24, 2001, and later to retail on October 25, 2001. It is a direct successor to Windows 2000 for high-end and business users and Windows Me for home users.
+Development of Windows XP began in the late 1990s under the codename "Neptune", built on the Windows NT kernel, and explicitly intended for mainstream consumer use. An updated version of Windows 2000 was also initially planned for the business market. However, in January 2000, both projects were scrapped in favor of a single OS codenamed "Whistler", which would serve as a single platform for both consumer and business markets. As a result, Windows XP is the first consumer edition of Windows not based on the Windows 95 kernel or MS-DOS.
+Upon its release, Windows XP received critical acclaim, noting increased performance and stability (especially compared to Windows Me), a more intuitive user interface, improved hardware support and expanded multimedia capabilities. Windows XP and Windows Server 2003 were succeeded by Windows Vista and Windows Server 2008, released in 2007 and 2008, respectively. 
+Mainstream support for Windows XP ended on April 14, 2009, and extended support ended on April 8, 2014. Embedded versions of Windows XP received support up until 2019, with Windows Embedded POSReady 2009, based on Windows XP Professional, being the last version to receive updates until April 2019. Unofficial methods were available to apply the updates from the embedded versions to other editions of Windows XP, however Microsoft has discouraged this practice, citing compatibility issues. All other security updates for Windows XP past the end-of-support date were released up until May 14, 2019.
+
+## Related
+
+- [[Windows 10]]
+- [[Windows 2000]]
+- [[Windows 7]]
+- [[Windows 8]]
+- [[Windows NT 3.1]]
+- [[Windows NT 3.5]]
+- [[Windows NT 3.51]]
+- [[Windows NT 4.0]]
+- [[Windows Vista]]
+- [[Windows 8.1]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Windows_XP

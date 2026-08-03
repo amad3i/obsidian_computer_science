@@ -1,0 +1,32 @@
+---
+title: "Nanorobotics"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Nanorobotics"
+wikipedia_categories: ["Medical robotics", "Nanomachines", "Nanotechnology", "Robotics"]
+related: ["[[Molecular nanotechnology]]", "[[5D optical data storage]]", "[[Afghan Girls Robotics Team]]", "[[Ameca (robot)]]", "[[Anthrobotics]]", "[[Automated restaurant]]", "[[Automaton]]", "[[Autonomous aircraft]]", "[[Autonomous logistics]]", "[[Autonomous things]]"]
+---
+
+# Nanorobotics
+
+Nanoid robotics (nanorobotics or nanobotics for short) is an emerging technology field creating robots whose components are at or near the scale of a nanometer (10−9 meters). More specifically, nanorobotics (as opposed to microrobotics) refers to the nanotechnology engineering discipline of designing and building nanorobots with devices ranging in size from 0.1 to 10 micrometres and constructed of nanoscale or molecular components. The terms nanobot, nanoid, nanite, nanomachine and nanomite have also been used to describe such devices currently under research and development.
+Nanomachines are largely in the research and development phase, but some primitive molecular machines and nanomotors have been tested. An example is a sensor having a switch approximately 1.5 nanometers across, able to count specific molecules in the chemical sample. The first useful applications of nanomachines may be in nanomedicine. For example, biological machines could be used to identify and destroy cancer cells. Another potential application is the detection of toxic chemicals, and the measurement of their concentrations, in the environment. Rice University has demonstrated a single-molecule car developed by a chemical process and including Buckminsterfullerenes (buckyballs) for wheels. It is actuated by controlling the environmental temperature and by positioning a scanning tunneling microscope tip.
+Another definition is a robot that allows precise interactions with nanoscale objects, or can manipulate with nanoscale resolution. Such devices are more related to microscopy or scanning probe microscopy, instead of the description of nanorobots as molecular machines. Using the microscopy definition, even a large apparatus such as an atomic force microscope can be considered a nanorobotic instrument when configured to perform nanomanipulation. For this viewpoint, macroscale robots or microrobots that can move with nanoscale precision can also be considered nanorobots.
+
+## Related
+
+- [[Molecular nanotechnology]]
+- [[5D optical data storage]]
+- [[Afghan Girls Robotics Team]]
+- [[Ameca (robot)]]
+- [[Anthrobotics]]
+- [[Automated restaurant]]
+- [[Automaton]]
+- [[Autonomous aircraft]]
+- [[Autonomous logistics]]
+- [[Autonomous things]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Nanorobotics

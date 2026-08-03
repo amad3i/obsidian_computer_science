@@ -1,0 +1,308 @@
+---
+title: "Linear relation"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Linear_relation"
+wikipedia_categories: ["Commutative algebra", "Homological algebra", "Linear algebra", "Polynomials"]
+related: ["[[Hilbert–Poincaré series]]", "[[Annihilating polynomial]]", "[[Characteristic polynomial]]", "[[Delta operator]]", "[[Dual number]]", "[[Faddeev–LeVerrier algorithm]]", "[[Integer-valued polynomial]]", "[[Linear equation over a ring]]", "[[Samuelson–Berkowitz algorithm]]", "[[3D projection]]"]
+---
+
+# Linear relation
+
+In linear algebra, a linear relation, or simply relation, between elements of a vector space or a module is a linear equation that has these elements as a solution. 
+More precisely, if 
+  
+    
+      
+        
+          e
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            n
+          
+        
+      
+    
+    
+  
+ are elements of a (left) module M over a ring R (the case of a vector space over a field is a special case), a relation between 
+  
+    
+      
+        
+          e
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            n
+          
+        
+      
+    
+    
+  
+ is a sequence 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          f
+          
+            n
+          
+        
+      
+    
+    
+  
+ of elements of R such that  
+
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        
+          e
+          
+            1
+          
+        
+        ⋯
+        
+          f
+          
+            n
+          
+        
+        
+          e
+          
+            n
+          
+        
+        0.
+      
+    
+    
+  
+
+The relations between 
+  
+    
+      
+        
+          e
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            n
+          
+        
+      
+    
+    
+  
+ form a module. One is generally interested in the case where 
+  
+    
+      
+        
+          e
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            n
+          
+        
+      
+    
+    
+  
+ is a generating set of a finitely generated module M, in which case the module of the relations is often called a syzygy module of M. The syzygy module depends on the choice of a generating set, but it is unique up to the direct sum with a free module. That is, if 
+  
+    
+      
+        
+          S
+          
+            1
+          
+        
+      
+    
+    
+  
+ and 
+  
+    
+      
+        
+          S
+          
+            2
+          
+        
+      
+    
+    
+  
+ are syzygy modules corresponding to two generating sets of the same module, then they are stably isomorphic, which means that there exist two free modules 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    
+  
+ and 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    
+  
+ such that 
+  
+    
+      
+        
+          S
+          
+            1
+          
+        
+        ⊕
+        
+          L
+          
+            1
+          
+        
+      
+    
+    
+  
+ and 
+  
+    
+      
+        
+          S
+          
+            2
+          
+        
+        ⊕
+        
+          L
+          
+            2
+          
+        
+      
+    
+    
+  
+ are isomorphic.
+Higher order syzygy modules are defined recursively: a first syzygy module of a module M is simply its syzygy module. For k > 1, a kth syzygy module of M is a syzygy module of a (k – 1)-th syzygy module. Hilbert's syzygy theorem states that, if 
+  
+    
+      
+        R
+        K
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+      
+    
+    
+  
+ is a polynomial ring in n indeterminates over a field, then every nth syzygy module is free. The case n = 0 is the fact that every finite dimensional vector space has a basis, and the case n = 1 is the fact that K[x] is a principal ideal domain and that every submodule of a finitely generated free K[x] module is also free.
+The construction of higher order syzygy modules is generalized as the definition of free resolutions, which allows restating Hilbert's syzygy theorem as a polynomial ring in n indeterminates over a field has global homological dimension n.
+If a and b are two elements of the commutative ring R, then (b, –a) is a relation that is said trivial. The module of trivial relations of an ideal is the submodule of the first syzygy module of the ideal that is generated by the trivial relations between the elements of a generating set of an ideal. The concept of trivial relations can be generalized to higher order syzygy modules, and this leads to the concept of the Koszul complex of an ideal, which provides information on the non-trivial relations between the generators of an ideal.
+
+## Related
+
+- [[Hilbert–Poincaré series]]
+- [[Annihilating polynomial]]
+- [[Characteristic polynomial]]
+- [[Delta operator]]
+- [[Dual number]]
+- [[Faddeev–LeVerrier algorithm]]
+- [[Integer-valued polynomial]]
+- [[Linear equation over a ring]]
+- [[Samuelson–Berkowitz algorithm]]
+- [[3D projection]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Linear_relation

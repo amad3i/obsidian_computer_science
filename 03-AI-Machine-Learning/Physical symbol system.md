@@ -1,0 +1,35 @@
+---
+title: "Physical symbol system"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Physical_symbol_system"
+wikipedia_categories: ["Cognitive modeling", "Cognitive science", "Formal systems", "Philosophy of artificial intelligence"]
+related: ["[[4E cognition]]", "[[AI alignment]]", "[[Algorithmic bias]]", "[[Artificial intelligence in spirituality]]", "[[Artificial psychology]]", "[[Behavior informatics]]", "[[Blockhead (thought experiment)]]", "[[Blue Brain Project]]", "[[Bongard problem]]", "[[Category utility]]"]
+---
+
+# Physical symbol system
+
+A physical symbol system (also called a formal system) takes physical patterns (symbols), combining them into structures (expressions) and manipulating them (using processes) to produce new expressions.
+The physical symbol system hypothesis (PSSH) is a position in the philosophy of artificial intelligence formulated by Allen Newell and Herbert A. Simon. They wrote:
+
+"A physical symbol system has the necessary and sufficient means for general intelligent action."
+This claim implies both that human thinking is a kind of symbol manipulation (because a symbol system is necessary for intelligence) and that machines can be intelligent (because a symbol system is sufficient for intelligence).
+The idea has philosophical roots in Thomas Hobbes (who claimed reasoning was "nothing more than reckoning"), Gottfried Wilhelm Leibniz (who attempted to create a logical calculus of all human ideas),  David Hume (who thought perception could be reduced to "atomic impressions") and even Immanuel Kant (who analyzed all experience as controlled by formal rules). The latest version is called the computational theory of mind, associated with philosophers Hilary Putnam and Jerry Fodor.
+
+## Related
+
+- [[4E cognition]]
+- [[AI alignment]]
+- [[Algorithmic bias]]
+- [[Artificial intelligence in spirituality]]
+- [[Artificial psychology]]
+- [[Behavior informatics]]
+- [[Blockhead (thought experiment)]]
+- [[Blue Brain Project]]
+- [[Bongard problem]]
+- [[Category utility]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Physical_symbol_system

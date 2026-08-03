@@ -1,0 +1,28 @@
+---
+title: "World-systems theory"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/World-systems_theory"
+wikipedia_categories: ["Development economics", "Economic globalization", "Economic systems", "History of capitalism", "Imperialism studies", "International relations theory", "Neo-Marxism", "Political science theories"]
+related: ["[[World-system]]", "[[Banzhaf power index]]", "[[Digital economy]]", "[[Heresthetic]]", "[[Intention economy]]", "[[Median voter theorem]]"]
+---
+
+# World-systems theory
+
+World-systems theory (also known as world-systems analysis or the world-systems perspective) is a multidisciplinary approach to world history and social change which emphasizes the world-system (and not nation states) as the primary (but not exclusive) unit of social analysis. World-systems theorists argue that their theory explains the rise and fall of states, income inequality, social unrest, and imperialism.
+The "world-system" refers to the inter-regional and transnational division of labor, which divides the world into core countries, semi-periphery countries, and periphery countries. Core countries have higher-skill, capital-intensive industries, and the rest of the world has low-skill, labor-intensive industries and extraction of raw materials. This constantly reinforces the dominance of the core countries. This structure is unified by the division of labour. It is a world-economy rooted in a capitalist economy. For a time, certain countries have become the world hegemon; during the last few centuries, as the world-system has extended geographically and intensified economically, this status has passed from the Netherlands, to the United Kingdom and (most recently) to the United States.
+Immanuel Wallerstein is the main proponent of world systems theory. Components of the world-systems analysis are longue durée by Fernand Braudel, "development of underdevelopment" by Andre Gunder Frank, and the single-society assumption. Longue durée is the concept of the gradual change through the day-to-day activities by which social systems are continually reproduced. "Development of underdevelopment" describes the economic processes in the periphery as the opposite of the development in the core. Poorer countries are impoverished to enable a few countries to get richer. Lastly, the single-society assumption opposes the multiple-society assumption and includes looking at the world as a whole.
+
+## Related
+
+- [[World-system]]
+- [[Banzhaf power index]]
+- [[Digital economy]]
+- [[Heresthetic]]
+- [[Intention economy]]
+- [[Median voter theorem]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/World-systems_theory

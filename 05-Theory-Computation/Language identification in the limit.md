@@ -1,0 +1,36 @@
+---
+title: "Language identification in the limit"
+tags: ["cs", "theory-of-computation", "intermediate"]
+domain: Theory of Computation
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Language_identification_in_the_limit"
+wikipedia_categories: ["Computational learning theory", "Formal languages"]
+related: ["[[Algorithmic learning theory]]", "[[Induction of regular languages]]", "[[Abstract family of acceptors]]", "[[Abstract family of languages]]", "[[Abstract rewriting system]]", "[[Abstract semantic graph]]", "[[Abstract syntax tree]]", "[[Action algebra]]", "[[Adaptive grammar]]", "[[Affix grammar]]"]
+---
+
+# Language identification in the limit
+
+Language identification in the limit is a formal model for inductive inference of formal languages, mainly by computers (see machine learning and induction of regular languages). It was introduced by E. Mark Gold in a technical report and a journal article with the same title.
+In this model, a teacher provides to a learner some presentation (i.e. a sequence of strings) of some formal language. The learning is seen as an infinite process. Each time the learner reads an element of the presentation, it should provide a representation (e.g. a formal grammar) for the language. 
+Gold defines that a learner can identify in the limit a class of languages if, given any presentation of any language in the class, the learner will produce only a finite number of wrong representations, and then stick with the correct representation. However, the learner need not be able to announce its correctness; and the teacher might present a counterexample to any representation arbitrarily long after.
+Gold defined two types of presentations:
+
+Text (positive information): an enumeration of all strings the language consists of.
+Complete presentation (positive and negative information): an enumeration of all possible strings, each with a label indicating if the string belongs to the language or not.
+
+## Related
+
+- [[Algorithmic learning theory]]
+- [[Induction of regular languages]]
+- [[Abstract family of acceptors]]
+- [[Abstract family of languages]]
+- [[Abstract rewriting system]]
+- [[Abstract semantic graph]]
+- [[Abstract syntax tree]]
+- [[Action algebra]]
+- [[Adaptive grammar]]
+- [[Affix grammar]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Language_identification_in_the_limit

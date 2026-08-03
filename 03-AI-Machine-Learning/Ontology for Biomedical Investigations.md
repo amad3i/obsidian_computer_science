@@ -1,0 +1,30 @@
+---
+title: "Ontology for Biomedical Investigations"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Ontology_for_Biomedical_Investigations"
+wikipedia_categories: ["Bioinformatics", "Information science", "Knowledge engineering", "Ontology (information science)", "Semantic Web", "Technical communication"]
+related: ["[[Ontology engineering]]", "[[Conceptualization (information science)]]", "[[ISO 15926]]", "[[Ontology (information science)]]", "[[Controlled vocabulary]]", "[[Ontology alignment]]", "[[Integrated Operations in the High North]]", "[[Knowledge engineering]]", "[[Semantic interoperability]]", "[[Semantic reasoner]]"]
+---
+
+# Ontology for Biomedical Investigations
+
+The Ontology for Biomedical Investigations (OBI) is an open-access, integrated ontology for the description of biological and clinical investigations.  OBI provides a model for the design of an investigation, the protocols and instrumentation used, the materials used, the data generated and the type of analysis performed on it.  The project is being developed as part of the OBO Foundry and as such adheres to all the principles therein such as orthogonal coverage (i.e. clear delineation from other foundry member ontologies) and the use of a common formal language.  In OBI the common formal language used is the Web Ontology Language (OWL).  As of March 2008, a pre-release version of the ontology was made available at the project's SVN repository.
+
+## Related
+
+- [[Ontology engineering]]
+- [[Conceptualization (information science)]]
+- [[ISO 15926]]
+- [[Ontology (information science)]]
+- [[Controlled vocabulary]]
+- [[Ontology alignment]]
+- [[Integrated Operations in the High North]]
+- [[Knowledge engineering]]
+- [[Semantic interoperability]]
+- [[Semantic reasoner]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Ontology_for_Biomedical_Investigations

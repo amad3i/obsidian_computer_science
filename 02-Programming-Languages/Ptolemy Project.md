@@ -1,0 +1,33 @@
+---
+title: "Ptolemy Project"
+tags: ["cs", "programming-languages", "intermediate"]
+domain: Programming & Languages
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Ptolemy_Project"
+wikipedia_categories: ["Free science software", "Software projects", "Software using the BSD license", "Systems engineering", "Visual programming languages"]
+related: ["[[Emergent (software)]]", "[[Pure Data]]", "[[PyTorch]]", "[[SimThyr]]", "[[Theano (software)]]", "[[ACL2]]", "[[AgentCubes]]", "[[AgentSheets]]", "[[Alice (software)]]", "[[AMBIT]]"]
+---
+
+# Ptolemy Project
+
+The Ptolemy Project is an ongoing project aimed at modeling, simulating, and designing concurrent, real-time, embedded systems. The focus of the Ptolemy Project is on assembling concurrent components. The principal product of the project is the Ptolemy II model based design and simulation tool. The Ptolemy Project is conducted in the Industrial Cyber-Physical Systems Center (iCyPhy) in the Department of Electrical Engineering and Computer Sciences of the University of California, Berkeley, and is directed by Prof. Edward A. Lee.
+The key underlying principle in the project is the use of well-defined models of computation that govern the interaction between components. A major problem area being addressed is the use of heterogeneous mixtures of models of computation.
+The project is named after Claudius Ptolemaeus, the 2nd century Greek astronomer, mathematician, and geographer.
+The Kepler Project, a community-driven collaboration among researchers at three other University of California campuses has created the Kepler scientific workflow system which is based on Ptolemy II.
+
+## Related
+
+- [[Emergent (software)]]
+- [[Pure Data]]
+- [[PyTorch]]
+- [[SimThyr]]
+- [[Theano (software)]]
+- [[ACL2]]
+- [[AgentCubes]]
+- [[AgentSheets]]
+- [[Alice (software)]]
+- [[AMBIT]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Ptolemy_Project

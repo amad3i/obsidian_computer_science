@@ -1,0 +1,31 @@
+---
+title: "VoID"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/VoID"
+wikipedia_categories: ["Knowledge representation", "Metadata", "Semantic Web", "XML-based standards"]
+related: ["[[Resource Description Framework]]", "[[Folksonomy]]", "[[AgMES]]", "[[Conceptualization (information science)]]", "[[Controlled vocabulary]]", "[[Data custodian]]", "[[Data dictionary]]", "[[Data steward]]", "[[DOAP]]", "[[Dublin Core]]"]
+---
+
+# VoID
+
+The Vocabulary of Interlinked Datasets (VoID) is a vocabulary for providing concise summaries (metadata) of Resource Description Framework (RDF) datasets—meaningful collections of semantic triples—using the syntax of RDF Schema. It can be used for general metadata (such as information about the license of the dataset), access metadata (information about how to access the dataset), structural metadata (information about how the dataset is structured), and linking metadata (information about links between datasets).
+A linked dataset is a collection of data, published and maintained by a single provider, available as RDF on the Web, where at least some of the resources in the dataset are identified by dereferencable Uniform Resource Identifiers (URIs). VoID is used to provide metadata on RDF datasets to facilitate query processing on a graph of interlinked datasets in the Semantic Web.
+
+## Related
+
+- [[Resource Description Framework]]
+- [[Folksonomy]]
+- [[AgMES]]
+- [[Conceptualization (information science)]]
+- [[Controlled vocabulary]]
+- [[Data custodian]]
+- [[Data dictionary]]
+- [[Data steward]]
+- [[DOAP]]
+- [[Dublin Core]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/VoID

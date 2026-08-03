@@ -1,0 +1,31 @@
+---
+title: "Pattern language"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Pattern_language"
+wikipedia_categories: ["Architectural theory", "Cybernetics", "Design", "Knowledge representation"]
+related: ["[[Mind map]]", "[[4E cognition]]", "[[Advanced process control]]", "[[Affect control theory]]", "[[Agent Communications Language]]", "[[Agentive logic]]", "[[AgMES]]", "[[Agricultural Information Management Standards]]", "[[AGROVOC]]", "[[AI alignment]]"]
+---
+
+# Pattern language
+
+A pattern language is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. The term was coined by architect Christopher Alexander and popularized by his 1977 book A Pattern Language.
+A pattern language can also be an attempt to express the deeper wisdom of what brings aliveness within a particular field of human endeavor, through a set of interconnected patterns. Aliveness is one placeholder term for "the quality that has no name": a sense of wholeness, spirit, or grace, that while of varying form, is precise and empirically verifiable. Alexander claims that ordinary people can use this design approach to successfully solve very large, complex design problems.
+
+## Related
+
+- [[Mind map]]
+- [[4E cognition]]
+- [[Advanced process control]]
+- [[Affect control theory]]
+- [[Agent Communications Language]]
+- [[Agentive logic]]
+- [[AgMES]]
+- [[Agricultural Information Management Standards]]
+- [[AGROVOC]]
+- [[AI alignment]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Pattern_language

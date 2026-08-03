@@ -1,0 +1,209 @@
+---
+title: "Process management (computing)"
+tags: ["cs", "operating-systems", "core"]
+domain: Operating Systems
+level: core
+source: "https://en.wikipedia.org/wiki/Process_management_(computing)"
+wikipedia_categories: ["Operating system technology", "Process (computing)"]
+related: ["[[Chain loading]]", "[[Process (computing)]]", "[[ALTQ]]", "[[Application binary interface]]", "[[Apptainer]]", "[[Asynchronous system trap]]", "[[Attached Support Processor]]", "[[Background process]]", "[[Binary Application Markup Language]]", "[[Busdma]]"]
+---
+
+# Process management (computing)
+
+A process is a program in execution, and an integral part of any modern-day operating system (OS). The OS must allocate resources to processes, enable processes to share and exchange information, protect the resources of each process from other processes and enable synchronization among processes. To meet these requirements, The OS must maintain a data structure for each process, which describes the state and resource ownership of that process, and which enables the operating system to exert control over each process.
+
+== Multiprogramming ==
+In any modern operating system, there can be more than one instance of a program loaded in memory at the same time. For example, more than one user can be executing the same program, with each user having separate copies of the program loaded into memory. With some programs, it is possible to have one copy loaded into memory, while several users have shared access to it so that they can each execute the same program-code. Such a program is called re-entrant. At a given instant, the processor can only be executing one instruction from one program, but several processes can be sustained over a period of time by assigning each process to the processor at intervals while the remainder become temporarily inactive. The execution of multiple processes over a period of time, rather than simultaneously, is known as concurrent execution.
+A multiprogramming or multitasking O.S. is an Operating System that can execute many processes concurrently. Multiprogramming requires that the processor be allocated to each process for a period of time and de-allocated or issued at an appropriate moment. If the processor is de-allocated during the execution of a process, it must be done in a way that the process can restart later as efficiently as possible.
+There are two ways for an OS to regain control of the processor during a program's execution in order for the OS to perform de-allocation or allocation:
+
+The process issues a system call (sometimes called a software interrupt); for example, an I/O request occurs requesting to access a file on a hard disk.
+A hardware interrupt occurs; for example, a key was pressed on the keyboard, or a timer runs out (used in preemptive multitasking).
+The stopping of one process and starting (or restarting) of another process is called a context switch or context change. In many modern operating systems, processes can consist of many sub-processes. This introduces the concept of a thread. A thread may be viewed as a sub-process; that is, a separate, independent sequence of execution within the code of one process. Threads are becoming increasingly important in the design of distributed and client–server systems and in software run on multi-processor systems.
+
+== How multiprogramming increases efficiency ==
+A common trait observed among processes associated with most computer programs is that they alternate between CPU cycles and I/O cycles. For the portion of the time required for CPU cycles, the process is being executed and is occupying the CPU. During the time required for I/O cycles, the process is not using the processor. Instead, it is either waiting to perform Input/Output, or is actually performing Input/Output. An example of this is reading from or writing to a file on disk. Prior to the advent of multiprogramming, computers operated as single-user systems. Users of such systems quickly become aware that for much of the time that a computer was allocated to a single user – for example, when a user was entering information or debugging programs – the processor was idle. Computer scientists observed that the overall performance of the machine could be improved by letting a different process use the processor whenever one process was waiting for input/output. In a uni-programming system, if N users were to execute programs with individual execution times of t1, t2, ..., tN, then the total time, tuni, to service the N processes (consecutively) of all N users would be:
+
+tuni = t1 + t2 + ... + tN.
+However, because each process consumes both CPU cycles and I/O cycles, the time which each process actually uses the CPU is a very small fraction of the total execution time for the process. So, for process i:
+
+ti (processor) ≪ ti (execution)
+where
+ti (processor) is the time process i spends using the CPU, and ti (execution) is the total execution time for the process; i.e. the time for CPU cycles plus I/O cycles to be carried out (executed) until completion of the process.
+In fact, usually, the sum of all the processor time, used by N processes, rarely exceeds a small fraction of the time to execute any one of the processes;
+
+  
+    
+      
+        
+          ∑
+          
+            j
+            1
+          
+          
+            N
+          
+        
+        
+          t
+          
+            j
+            
+            
+              p
+              r
+              o
+              c
+              e
+              s
+              s
+              o
+              r
+            
+          
+        
+        
+          t
+          
+            i
+            
+            
+              e
+              x
+              e
+              c
+              u
+              t
+              i
+              o
+              n
+            
+            
+          
+        
+      
+    
+    
+  
+
+Therefore, in uni-programming systems, the processor lays idle for a considerable proportion of the time. To overcome this inefficiency, multiprogramming is now implemented in modern operating systems such as Linux, UNIX and Microsoft Windows. This enables the processor to switch from one process, X, to another, Y, whenever X is involved in the I/O phase of its execution. Since the processing time is much less than a single job's runtime, the total time to service all N users with a multiprogramming system can be reduced to approximately:
+
+tmulti = max(t1, t2, ..., tN)
+
+== Process creation ==
+
+Operating systems need some ways to create processes. In a very simple system designed for running only a single application (e.g., the controller in a microwave oven), it may be possible to have all the processes that will ever be needed present when the system comes up. In general-purpose systems, however, some way is needed to create and terminate processes as needed during operation.
+There are four principal events that cause a process to be created:
+
+System initialization.
+Execution of process creation system call by a running process.
+A user request to create a new process.
+Initiation of a batch job.
+When an operating system is booted, several essential processes are typically initiated to prepare the system for operation. Some of these are foreground processes, that interact with a (human) user and perform work for them. Others are background processes, which are not associated with particular users, but instead have some specific function. For example, one background process may be designed to accept incoming e-mails, sleeping most of the day but suddenly springing to life when an incoming e-mail arrives. An alternative background process could be designed to accept incoming requests for web pages hosted on the machine, waking up only when a request arrives to service it.
+Process creation in UNIX and Linux is done through fork() or clone() system calls. There are several steps involved in process creation. The first step is the validation of whether the parent process has sufficient authorization to create a process. Upon successful validation, the parent process is copied almost entirely, with changes only to the unique process id, parent process, and user-space. Each new process gets its own user space.
+Process creation in Windows is done through the CreateProcessA() system call. A new process runs in the security context of the calling process, but otherwise runs independently of the calling process. Methods exist to alter the security context in which a new processes runs. New processes are assigned identifiers by which they can be accessed. Functions are provided to synchronize calling threads to newly created processes.
+
+== Process termination ==
+
+There are many reasons for process termination:
+
+Batch job issues halt instruction
+User logs off
+Process executes a service request to terminate
+Error and fault conditions
+Normal completion
+Time limit exceeded
+Memory unavailable
+Bounds violation; for example: attempted access of (non-existent) 11th element of a 10-element array
+Protection error; for example: attempted to write to a read-only file
+Arithmetic error; for example: attempted division by zero
+Time overrun; for example: the process waited longer than a specified maximum for an event
+I/O failure
+Invalid instruction; for example: when a process tries to execute data (text)
+Privileged instruction
+Data misuse
+Operating system intervention; for example: to resolve a deadlock
+Parent terminates so child processes terminate (cascading termination)
+Parent request
+
+== Two-state process management model ==
+
+The operating system's principal responsibility is to control the execution of processes. This includes determining the interleaving pattern for execution and allocation of resources to processes. One part of designing an OS is to describe the behavior that we would like each process to exhibit. The simplest model is based on the fact that a process is either being executed by a processor or it is not. Thus, a process may be considered to be in one of two states, RUNNING or NOT RUNNING. When the operating system creates a new process, that process is initially labeled as NOT RUNNING, and is placed into a queue in the system in the NOT RUNNING state. The process (or some portion of it) then exists in main memory, and it waits in the queue for an opportunity to be executed. After some period of time, the currently RUNNING process will be interrupted, and moved from the RUNNING state to the NOT RUNNING state, making the processor available for a different process. The dispatch portion of the OS will then select, from the queue of NOT RUNNING processes, one of the waiting processes to transfer to the processor. The chosen process is then relabeled from a NOT RUNNING state to a RUNNING state, and its execution is either begun if it is a new process, or is resumed if it is a process which was interrupted at an earlier time.
+From this model, we can identify some design elements of the OS:
+
+The need to represent, and keep track of each process
+The state of a process
+The queuing of NON RUNNING processes
+
+== Three-state process management model ==
+
+Although the two-state process management model is a perfectly valid design for an operating system, the absence of a BLOCKED state means that the processor lies idle when the active process changes from CPU cycles to I/O cycles. This design does not make efficient use of the processor. The three-state process management model is designed to overcome this problem, by introducing a new state called the BLOCKED state. This state describes any process which is waiting for an I/O event to take place. In this case, an I/O event can mean the use of some device or a signal from another process. The three states in this model are:
+
+RUNNING: The process that is currently being executed.
+READY: A process that is queuing and prepared to execute when given the opportunity.
+BLOCKED: A process that cannot execute until some event occurs, such as the completion of an I/O operation.
+At any instant, a process is in one and only one of the three states. For a single processor computer, only one process can be in the RUNNING state at any one instant. There can be many processes in the READY and BLOCKED states, and each of these states will have an associated queue for processes.
+Processes entering the system must go initially into the READY state, and processes can only enter the RUNNING state via the READY state. Processes normally leave the system from the RUNNING state. For each of the three states, the process occupies space in the main memory.  While the reason for most transitions from one state to another might be obvious, some may not be so clear.
+
+RUNNING → READY: The most common reason for this transition is that the running process has reached the maximum allowable time for uninterrupted execution; i.e. time-out occurs. Other reasons can be the imposition of priority levels as determined by the scheduling policy used for the Low Level Scheduler, and the arrival of a higher priority process into the READY state.
+RUNNING → BLOCKED: A process is put into the BLOCKED state if it requests something for which it must wait. A request to the OS is usually in the form of a system call, (i.e. a call from the running process to a function that is part of the OS code). For example, a process might become BLOCKED if it is requesting a file from disk or a saving a section of code or data from memory to a file on disk.
+
+== Process description and control ==
+Each process in the system is represented by a data structure called a Process Control Block (PCB), or Process Descriptor in Linux.
+Process Identification: Each process is uniquely identified by the user's identification and a pointer connecting it to its descriptor.
+Process Status: This indicates the current status of the process;
+READY, RUNNING, BLOCKED, READY SUSPEND, BLOCKED SUSPEND.
+Process State: This contains all of the information needed to indicate the current state of the job.
+Accounting: This contains information used mainly for billing purposes and for performance measurement. It indicates what kind of resources the process has used and for how long.
+
+== Processor modes ==
+
+Contemporary processors incorporate a mode bit to define the execution capability of a program in the processor. This bit can be set to kernel mode or user mode. Kernel mode is also commonly referred to as supervisor mode, monitor mode or ring 0.
+In kernel mode, the processor can execute every instruction in its hardware repertoire, whereas in user mode, it can only execute a subset of the instructions. Instructions that can be executed only in kernel mode are called kernel, privileged, or protected instructions to distinguish them from the user mode instructions. For example, I/O instructions are privileged. As such, if an application program executes in user mode, it cannot perform its own I/O. Instead, it must request the OS to perform I/O on its behalf.
+
+== The Kernel system concept ==
+The critical parts of the OS run in kernel mode, while other software (such as system utilities and application programs) run in user mode. This serves as the fundamental distinction between the OS and other system software. The part of the system executing in the kernel mode is called the kernel, or nucleus, of the OS. The kernel is designed as trusted software, meaning it implements protection mechanisms that cannot be covertly modified by untrusted software running in user mode. Extensions to the OS operate in user mode, so the core functionality of the OS does not depend on these extensions for its correct operation.
+A key design decision for any OS function is determining whether it should be implemented in the kernel. If implemented in the kernel, it operates in kernel mode, gaining access to other parts of the kernel and being trusted by them. Conversely, if the function executes in user mode, it lacks access to kernel data structures but requires minimal effort to invoke. Although functions implemented in the kernel can be straightforward, the trap mechanism and authentication process required during the call can be relatively resource-intensive. While the kernel code itself runs efficiently, the overhead associated with the call can be significant. This is a subtle but important distinction.
+
+== Requesting system services ==
+There are two techniques by which a program executing in user mode can request the kernel's services:
+
+System call
+Message passing
+Operating systems are designed with one or the other of these two facilities, but not both. First, assume that a user process wishes to invoke a particular target system function. For the system call approach, the user process uses the trap instruction. The idea is that the system call should appear to be an ordinary procedure call to the application program; the OS provides a library of user functions with names corresponding to each actual system call. Each of these stub functions contains a trap to the OS function. When the application program calls the stub, it executes the trap instruction, which switches the CPU to kernel mode, and then branches (indirectly through an OS table), to the entry point of the function which is to be invoked. When the function completes, it switches the processor to user mode and then returns control to the user process, thus simulating a normal procedure return.
+In the message passing approach, the user process constructs a message that describes the desired service. Then it uses a trusted send function to pass the message to a trusted OS process. The send function serves the same purpose as the trap; that is, it carefully checks the message, switches the processor to kernel mode, and then delivers the message to a process that implements the target functions. Meanwhile, the user process waits for the result of the service request with a message receive operation. When the OS process completes the operation, it sends a message back to the user process.
+The distinction between the two approaches has important consequences regarding the independence of the OS behavior from the application process behavior, and the resulting performance. As a rule of thumb, operating systems based on a system call interface can be made more efficient than those requiring messages to be exchanged between distinct processes. This is the case even though the system call must be implemented with a trap instruction; that is, even though the trap is relatively expensive to perform, it is more efficient than the message-passing approach, where there are generally higher costs associated with the process multiplexing, message formation and message copying. The system call approach has the interesting property that there is not necessarily any OS process. Instead, a process executing in user mode changes to kernel mode when it is executing kernel code, and switches back to user mode when it returns from the OS call. If, on the other hand, the OS is designed as a set of separate processes, it is usually easier to design it so that it gets control of the machine in special situations, than if the kernel is simply a collection of functions executed by user processes in kernel mode. Procedure-based operating systems usually include at least a few system processes (called daemons in UNIX) to handle situations whereby the machine is otherwise idle such as scheduling and handling the network.
+
+== See also ==
+Process isolation
+
+== References ==
+
+== Sources ==
+Operating System incorporating Windows and UNIX, Colin Ritchie. ISBN 0-8264-6416-5
+Operating Systems, William Stallings, Prentice Hall, (4th Edition, 2000)
+Multiprogramming, Process Description and Control
+Operating Systems – A Modern Perspective, Gary Nutt, Addison Wesley, (2nd Edition, 2001).
+Process Management Models, Scheduling, UNIX System V Release 4:
+Modern Operating Systems, Andrew Tanenbaum, Prentice Hall, (2nd Edition, 2001).
+Operating System Concepts, Silberschatz & Galvin & Gagne (https://codex.cs.yale.edu/avi/os-book/OS9/slide-dir/), John Wiley & Sons, (6th Edition, 2003)
+
+*(note truncated for size; full article at the source link below)*
+
+## Related
+
+- [[Chain loading]]
+- [[Process (computing)]]
+- [[ALTQ]]
+- [[Application binary interface]]
+- [[Apptainer]]
+- [[Asynchronous system trap]]
+- [[Attached Support Processor]]
+- [[Background process]]
+- [[Binary Application Markup Language]]
+- [[Busdma]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Process_management_(computing)

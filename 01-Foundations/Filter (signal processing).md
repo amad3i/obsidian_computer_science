@@ -1,0 +1,39 @@
+---
+title: "Filter (signal processing)"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Filter_(signal_processing)"
+wikipedia_categories: ["Filter theory", "Signal processing", "Telecommunication theory"]
+related: ["[[Bandwidth (signal processing)]]", "[[Blind equalization]]", "[[Causal filter]]", "[[Coherence (signal processing)]]", "[[Comb filter]]", "[[Detection theory]]", "[[Hilbert–Huang transform]]", "[[Multidimensional empirical mode decomposition]]", "[[Pulse duration]]", "[[Pulse shaping]]"]
+---
+
+# Filter (signal processing)
+
+In signal processing, a filter is a device or process that removes some unwanted components or features from a signal. Filtering is a class of signal processing, the defining feature of filters being the complete or partial suppression of some aspect of the signal. Most often, this means removing some frequencies or frequency bands. However, filters do not exclusively act in the frequency domain; especially in the field of image processing many other targets for filtering exist. Correlations can be removed for certain frequency components and not for others without having to act in the frequency domain.  Filters are widely used in electronics and telecommunication, in radio, television, audio recording, radar, control systems, music synthesis, image processing, computer graphics, and structural dynamics.
+There are many different bases of classifying filters and these overlap in many different ways; there is no simple hierarchical classification. Filters may be:
+
+non-linear or linear
+time-variant or time-invariant, also known as shift invariance. If the filter operates in a spatial domain then the characterization is space invariance.
+causal or non-causal: A filter is non-causal if its present output depends on future input. Filters processing time-domain signals in real time must be causal, but not filters acting on spatial domain signals or deferred-time processing of time-domain signals.
+analog or digital
+discrete-time (sampled) or continuous-time
+passive or active type of continuous-time filter
+infinite impulse response (IIR) or finite impulse response (FIR) type of discrete-time or digital filter.
+
+## Related
+
+- [[Bandwidth (signal processing)]]
+- [[Blind equalization]]
+- [[Causal filter]]
+- [[Coherence (signal processing)]]
+- [[Comb filter]]
+- [[Detection theory]]
+- [[Hilbert–Huang transform]]
+- [[Multidimensional empirical mode decomposition]]
+- [[Pulse duration]]
+- [[Pulse shaping]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Filter_(signal_processing)

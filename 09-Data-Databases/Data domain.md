@@ -1,0 +1,34 @@
+---
+title: "Data domain"
+tags: ["cs", "data-databases", "intermediate"]
+domain: Data & Databases
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Data_domain"
+wikipedia_categories: ["Data modeling", "Database stubs"]
+related: ["[[Column groups and row groups]]", "[[Entity integrity]]", "[[Relvar]]", "[[Transition constraint]]", "[[Anchor modeling]]", "[[Armstrong's axioms]]", "[[Bernhard Thalheim]]", "[[BIM Collaboration Format]]", "[[Bitemporal modeling]]", "[[Building information modeling]]"]
+---
+
+# Data domain
+
+In database theory, a data domain is the collection of values that a data element may contain. The rule for determining the domain boundary may be as simple as a data type with an enumerated list of values.
+For example, a database table that has information about people, with one record per person, might have a "marital status" column. This column might be declared as a string data type, and allowed to have one of two known code values: "M" for married, "S" for single, and NULL  for records where marital status is unknown or not applicable. The data domain for the marital status column is: "M", "S".
+In a normalized data model, the reference domain is typically specified in a reference table. Following the previous example, a Marital Status reference table would have exactly two records, one per allowed value—excluding NULL. Reference tables are formally related to other tables in a database by the use of foreign keys.
+Simple domain boundary rules, if database-enforced, may be implemented through a check constraint or, in more complex cases, in a database trigger.  For example, a column requiring positive numeric values may have a check constraint declaring that the values must be greater than zero.
+This definition combines the concepts of domain as an area over which control is exercised and the mathematical idea of a set of values of an independent variable for which a function is defined, as in Domain of a function.
+
+## Related
+
+- [[Column groups and row groups]]
+- [[Entity integrity]]
+- [[Relvar]]
+- [[Transition constraint]]
+- [[Anchor modeling]]
+- [[Armstrong's axioms]]
+- [[Bernhard Thalheim]]
+- [[BIM Collaboration Format]]
+- [[Bitemporal modeling]]
+- [[Building information modeling]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Data_domain

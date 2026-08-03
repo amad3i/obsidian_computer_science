@@ -1,0 +1,32 @@
+---
+title: "Video game design"
+tags: ["cs", "graphics-vision", "intermediate"]
+domain: Graphics & Vision
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Video_game_design"
+wikipedia_categories: ["Video game design", "Video game development"]
+related: ["[[CG artist]]", "[[Console (computer games)]]", "[[Elemental tetrad]]", "[[MDA framework]]", "[[Parallax scrolling]]", "[[Sprite (computer graphics)]]", "[[2.5D]]", "[[2022–2026 video game industry layoffs]]", "[[3D modeling]]", "[[AAA (video game industry)]]"]
+---
+
+# Video game design
+
+Video game design is the process of designing the rules and content of video games in the pre-production stage and designing the gameplay, environment, storyline and characters in the production stage. Some common video game design subdisciplines are world design, level design, system design, content design, and user interface design. Within the video game industry, video game design is usually just referred to as "game design", which is a more general term elsewhere.
+The video game designer is like the director of a film; the designer is the visionary of the game and controls the artistic and technical elements of the game in fulfillment of their vision. However, with complex games, such as MMORPGs or a big budget action or sports title, designers may number in the dozens. In these cases, there are generally one or two principal designers and multiple junior designers who specify subsets or subsystems of the game. As the industry has aged and embraced alternative production methodologies such as agile, the role of a principal game designer has begun to separate - some studios emphasizing the auteur model while others emphasizing a more team oriented model. In larger companies like Electronic Arts, each aspect of the game (control, level design) may have a separate producer, lead designer and several general designers.
+Video game design requires artistic and technical competence as well as sometimes including writing skills. Historically, video game programmers have sometimes comprised the entire design team. This is the case of such noted designers as Sid Meier, John Romero, Chris Sawyer and Will Wright. A notable exception to this policy was Coleco, which from its very start separated the function of design and programming. As video games became more complex, computers and consoles became more powerful, the job of the game designer became separate from the lead programmer. Soon, game complexity demanded team members focused on game design. A number of early veterans chose the game design path eschewing programming and delegating those tasks to others.
+
+## Related
+
+- [[CG artist]]
+- [[Console (computer games)]]
+- [[Elemental tetrad]]
+- [[MDA framework]]
+- [[Parallax scrolling]]
+- [[Sprite (computer graphics)]]
+- [[2.5D]]
+- [[2022–2026 video game industry layoffs]]
+- [[3D modeling]]
+- [[AAA (video game industry)]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Video_game_design

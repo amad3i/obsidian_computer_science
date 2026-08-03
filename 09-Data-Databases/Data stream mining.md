@@ -1,0 +1,36 @@
+---
+title: "Data stream mining"
+tags: ["cs", "data-databases", "intermediate"]
+domain: Data & Databases
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Data_stream_mining"
+wikipedia_categories: ["Data mining"]
+related: ["[[Action model learning]]", "[[Adamic–Adar index]]", "[[Affinity analysis]]", "[[Agent mining]]", "[[AMiner (database)]]", "[[Anomaly detection]]", "[[Archetypal analysis]]", "[[Argument mining]]", "[[Association rule learning]]", "[[Astrostatistics]]"]
+---
+
+# Data stream mining
+
+Data stream mining (also known as stream learning) is the process of extracting knowledge structures from continuous, rapid data records. A data stream is an ordered sequence of instances that in many applications of data stream mining can be read only once or a small number of times using limited computing and storage capabilities.
+In many data stream mining applications, the goal is to predict the class or value of new instances in the data stream given some knowledge about the class membership or values of previous instances in the data stream.
+Machine learning techniques can be used to learn this prediction task from labeled examples in an automated fashion.
+Often, concepts from the field of incremental learning are applied to cope with structural changes, on-line learning and real-time demands. 
+In many applications, especially operating within non-stationary environments, the distribution underlying the instances or the rules underlying their labeling may change over time, i.e. the goal of the prediction, the class to be predicted or the target value to be predicted, may change over time. This problem is referred to as concept drift. Detecting concept drift is a central issue to data stream mining. Other challenges that arise when applying machine learning to streaming data include: partially and delayed labeled data, recovery from concept drifts, and temporal dependencies.
+Examples of data streams include computer network traffic, phone conversations, ATM transactions, web searches, and sensor data.
+Data stream mining can be considered a subfield of data mining, machine learning, and knowledge discovery.
+
+## Related
+
+- [[Action model learning]]
+- [[Adamic–Adar index]]
+- [[Affinity analysis]]
+- [[Agent mining]]
+- [[AMiner (database)]]
+- [[Anomaly detection]]
+- [[Archetypal analysis]]
+- [[Argument mining]]
+- [[Association rule learning]]
+- [[Astrostatistics]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Data_stream_mining

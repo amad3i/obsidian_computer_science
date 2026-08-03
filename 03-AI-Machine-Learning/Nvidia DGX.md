@@ -1,0 +1,32 @@
+---
+title: "Nvidia DGX"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Nvidia_DGX"
+wikipedia_categories: ["GPGPU", "Neural processing units", "Nvidia products", "Parallel computing"]
+related: ["[[AMD Instinct]]", "[[CUDA]]", "[[General-purpose computing on graphics processing units]]", "[[Graphics Core Next]]", "[[IWOCL]]", "[[Multidimensional DSP with GPU acceleration]]", "[[Nvidia Tesla]]", "[[OpenCL]]", "[[RCUDA]]", "[[Single instruction, multiple threads]]"]
+---
+
+# Nvidia DGX
+
+The Nvidia DGX (Deep GPU Xceleration) is a series of servers and workstations designed by Nvidia, primarily geared towards enhancing deep learning applications through the use of general-purpose computing on graphics processing units (GPGPU). These systems typically come in a rackmount format, initially using high-performance x86 server CPUs, switching to ARMs around 2018, and releasing NUCs in 2025.
+The core feature of a DGX system is its inclusion of 4 to 8 Nvidia Tesla GPU modules, which are housed on an independent system board. These GPUs can be connected either via a version of the SXM socket or a PCIe x16 slot, facilitating flexible integration within the system architecture. To manage the substantial thermal output, DGX units are equipped with heatsinks and fans designed to maintain optimal operating temperatures.
+Nvidia GPGPUs are featured in TOP500 supercomputers.
+
+## Related
+
+- [[AMD Instinct]]
+- [[CUDA]]
+- [[General-purpose computing on graphics processing units]]
+- [[Graphics Core Next]]
+- [[IWOCL]]
+- [[Multidimensional DSP with GPU acceleration]]
+- [[Nvidia Tesla]]
+- [[OpenCL]]
+- [[RCUDA]]
+- [[Single instruction, multiple threads]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Nvidia_DGX

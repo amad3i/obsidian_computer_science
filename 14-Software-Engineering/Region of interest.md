@@ -1,0 +1,30 @@
+---
+title: "Region of interest"
+tags: ["cs", "software-engineering", "intermediate"]
+domain: Software Engineering
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Region_of_interest"
+wikipedia_categories: ["Geographic information systems", "Medical imaging", "Optical character recognition"]
+related: ["[[3D structure change detection]]", "[[Address geocoding]]", "[[AM-FM-GIS]]", "[[Android Team Awareness Kit]]", "[[Aphelion (software)]]", "[[Automatic label placement]]", "[[Book of Roads and Kingdoms]]", "[[Buffer analysis]]", "[[Canada Geographic Information System]]", "[[Cartographic generalization]]"]
+---
+
+# Region of interest
+
+A region of interest (often abbreviated ROI) is a sample within a data set identified for a particular purpose. The concept of a ROI is commonly used in many application areas. Existing as a vicinity, or within one. For example, in medical imaging, the boundaries of a tumor may be defined on an image or in a volume, for the purpose of measuring its size. The endocardial border may be defined on an image, perhaps during different phases of the cardiac cycle, for example, end-systole and end-diastole, for the purpose of assessing cardiac function. In geographical information systems (GIS), a ROI can be taken literally as a polygonal selection from a 2D map. In computer vision and optical character recognition, the ROI defines the borders of an object under consideration. In many applications, symbolic (textual) labels are added to a ROI, to describe its content in a compact manner. Within a ROI may lie individual points of interest (POIs).
+
+## Related
+
+- [[3D structure change detection]]
+- [[Address geocoding]]
+- [[AM-FM-GIS]]
+- [[Android Team Awareness Kit]]
+- [[Aphelion (software)]]
+- [[Automatic label placement]]
+- [[Book of Roads and Kingdoms]]
+- [[Buffer analysis]]
+- [[Canada Geographic Information System]]
+- [[Cartographic generalization]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Region_of_interest

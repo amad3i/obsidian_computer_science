@@ -1,0 +1,34 @@
+---
+title: "Education by algorithm"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Education_by_algorithm"
+wikipedia_categories: ["Algorithms", "Applications of artificial intelligence", "Education by method", "Technology in society"]
+related: ["[[Adaptive algorithm]]", "[[Agentic commerce]]", "[[AI boom]]", "[[AIVA]]", "[[Algorism]]", "[[Algorithm]]", "[[Algorithm characterizations]]", "[[Algorithm engineering]]", "[[Algorithm IMED]]", "[[Algorithmic amplification]]"]
+---
+
+# Education by algorithm
+
+Education by algorithm refers to automated solutions that algorithmic agents or social bots offer to education, to assist with mundane educational tasks.  These are often instrumentalist “educational reforms” or “curriculum transformations”, which have been implemented by  policy makers and are supported by proprietary education technologies. New educational policies, mandated by transnational governance forums (like the OECD), have manufactured a connection between economies and education.
+Governments, schools and universities are expected to introduce or prepare students for an “unknown future”, to “future proof” them against an identified issue or to mitigate a national crisis. Technologies are seen as a catalyst to effect these changes. However, these policies mask a deeper problem, which include the assetization of education and the use of technologies as a means for surveillance and behavior modification.
+The traces that students and leave, through cookies, logins learning activities, assignments and tests,  are collected, facetted, and shared with commercial organizations by these agents, to both predict future behavior and shape it. Techno solutionist thinking has led to managers  adopting educational policies and reforms, and looking towards technologies to act as disrupters, liberators or agents to improve efficiency.
+During the COVID-19 pandemic, many more students had to modify their learning and working circumstances to protect themselves. Academics shifted their assessment practices from the dominant assessment of learning paradigm to an orientation that saw value in "assessment for learning".  
+Big tech assisted, and teaching infrastructure became further privatized, and unbundling of education provision went a step further. Following the return to class, this assessment paradigm became rationalised in education. Leaving the space for algorithmic agents to step in. Academics work was increasingly driven by learning experience platforms and student understanding was extended through interleaving, behavior modification nudges and rewards and scheduled high stakes assessments. This data collection may also be construed as surveillance., or perceived as evidence of a Fourth Industrial Revolution
+
+## Related
+
+- [[Adaptive algorithm]]
+- [[Agentic commerce]]
+- [[AI boom]]
+- [[AIVA]]
+- [[Algorism]]
+- [[Algorithm]]
+- [[Algorithm characterizations]]
+- [[Algorithm engineering]]
+- [[Algorithm IMED]]
+- [[Algorithmic amplification]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Education_by_algorithm

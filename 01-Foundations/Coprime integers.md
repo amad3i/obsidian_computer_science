@@ -1,0 +1,31 @@
+---
+title: "Coprime integers"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Coprime_integers"
+wikipedia_categories: ["Number theory"]
+related: ["[[3x + 1 semigroup]]", "[[Abc conjecture]]", "[[Abel's summation formula]]", "[[Algebraic number theory]]", "[[Amenable number]]", "[[Amicable triple]]", "[[An Introduction to the Theory of Numbers]]", "[[Arithmetic derivative]]", "[[Arithmetic group]]", "[[Arithmetic hyperbolic 3-manifold]]"]
+---
+
+# Coprime integers
+
+In number theory, two integers a and b are coprime, relatively prime or mutually prime if the only positive integer that is a divisor of both of them is 1. Consequently, any prime number that divides a does not divide b, and vice versa. This is equivalent to their greatest common divisor (GCD) being 1. One says also a is prime to b or a is coprime with b.
+The numbers 8 and 9 are coprime, despite the fact that neither—considered individually—is a prime number, since 1 is their only common divisor. On the other hand, 6 and 9 are not coprime, because they are both divisible by 3. The numerator and denominator of a reduced fraction are coprime, by definition.
+
+## Related
+
+- [[3x + 1 semigroup]]
+- [[Abc conjecture]]
+- [[Abel's summation formula]]
+- [[Algebraic number theory]]
+- [[Amenable number]]
+- [[Amicable triple]]
+- [[An Introduction to the Theory of Numbers]]
+- [[Arithmetic derivative]]
+- [[Arithmetic group]]
+- [[Arithmetic hyperbolic 3-manifold]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Coprime_integers

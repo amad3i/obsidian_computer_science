@@ -1,0 +1,35 @@
+---
+title: "Bueno-Orovio–Cherry–Fenton model"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Bueno-Orovio–Cherry–Fenton_model"
+wikipedia_categories: ["Cardiac electrophysiology", "Mathematical modeling", "Numerical analysis"]
+related: ["[[Bidomain model]]", "[[Forward problem of electrocardiology]]", "[[Iterative rational Krylov algorithm]]", "[[Model order reduction]]", "[[Movable cellular automaton]]", "[[Proper generalized decomposition]]", "[[Surrogate model]]", "[[Variational multiscale method]]", "[[Vector field reconstruction]]", "[[2Sum]]"]
+---
+
+# Bueno-Orovio–Cherry–Fenton model
+
+The Bueno-Orovio–Cherry–Fenton model, also simply called Bueno-Orovio model, is a minimal ionic model for human ventricular cells. It belongs to the category of phenomenological models, because of its characteristic of describing the electrophysiological behaviour of cardiac muscle cells without taking into account in a detailed way the underlying physiology and the specific mechanisms occurring inside the cells.
+This mathematical model reproduces both single cell and important tissue-level properties, accounting for physiological action potential development and conduction velocity estimations. 
+It also provides specific parameters choices, derived from parameter-fitting algorithms of the MATLAB Optimization Toolbox, for the modeling of epicardial, endocardial and myd-myocardial tissues. 
+In this way it is possible to match the action potential morphologies, observed from experimental data, in the three different regions of the human ventricles.
+The Bueno-Orovio–Cherry–Fenton model is also able to describe reentrant and spiral wave dynamics, which occurs for instance during tachycardia or other types of arrhythmias.
+From the mathematical perspective, it consists of a system of four differential equations. One PDE, similar to the monodomain model, for an adimensional version of the transmembrane potential, and three ODEs that define the evolution of the so-called gating variables, i.e. probability density functions whose aim is to model the fraction of open ion channels across a cell membrane.
+
+## Related
+
+- [[Bidomain model]]
+- [[Forward problem of electrocardiology]]
+- [[Iterative rational Krylov algorithm]]
+- [[Model order reduction]]
+- [[Movable cellular automaton]]
+- [[Proper generalized decomposition]]
+- [[Surrogate model]]
+- [[Variational multiscale method]]
+- [[Vector field reconstruction]]
+- [[2Sum]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Bueno-Orovio–Cherry–Fenton_model

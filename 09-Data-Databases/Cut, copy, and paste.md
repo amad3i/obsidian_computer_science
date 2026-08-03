@@ -1,0 +1,34 @@
+---
+title: "Cut, copy, and paste"
+tags: ["cs", "data-databases", "intermediate"]
+domain: Data & Databases
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Cut,_copy,_and_paste"
+wikipedia_categories: ["Clipboard (computing)", "Copying", "Data management", "User interface techniques"]
+related: ["[[Bracketed-paste]]", "[[Clipboard (computing)]]", "[[3D human–computer interaction]]", "[[Abstraction (computer science)]]", "[[Accelerator table]]", "[[Address space]]", "[[ADO.NET]]", "[[Alt-Tab]]", "[[Altitude3.Net]]", "[[ANSI 834 Enrollment Implementation Format]]"]
+---
+
+# Cut, copy, and paste
+
+Cut, copy, and paste are essential commands of modern human–computer interaction and user interface design. They offer an interprocess communication technique for transferring data through a computer's user interface. The cut command removes the selected data from its original position, and the copy command creates a duplicate; in both cases the selected data is kept in temporary storage called the clipboard. Clipboard data is later inserted wherever a paste command is issued. The data remains available to any application supporting the feature, thus allowing easy data transfer between applications.
+The command names are a (skeuomorphic) interface metaphor based on the physical procedure used in manuscript print editing to create a page layout, like with paper.
+The commands were pioneered into computing by Xerox PARC in 1974, popularized by Apple Computer in the 1983 Lisa workstation and the 1984 Macintosh computer, and in a few home computer applications such as the 1984 word processor Cut & Paste.
+This interaction technique has close associations with related techniques in graphical user interfaces (GUIs) that use pointing devices such as a computer mouse (by drag and drop, for example). Typically, clipboard support is provided by an operating system as part of its GUI and widget toolkit.
+The capability to replicate information with ease, changing it between contexts and applications, involves privacy concerns because of the risks of disclosure when handling sensitive information. Terms like cloning, copy forward, carry forward, or re-use refer to the dissemination of such information through documents, and may be subject to regulation by administrative bodies.
+
+## Related
+
+- [[Bracketed-paste]]
+- [[Clipboard (computing)]]
+- [[3D human–computer interaction]]
+- [[Abstraction (computer science)]]
+- [[Accelerator table]]
+- [[Address space]]
+- [[ADO.NET]]
+- [[Alt-Tab]]
+- [[Altitude3.Net]]
+- [[ANSI 834 Enrollment Implementation Format]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Cut,_copy,_and_paste

@@ -1,0 +1,32 @@
+---
+title: "Bioimage informatics"
+tags: ["cs", "hci-interdisciplinary", "intermediate"]
+domain: HCI & Interdisciplinary
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Bioimage_informatics"
+wikipedia_categories: ["Bioinformatics"]
+related: ["[[100,000 Genomes Project]]", "[[1000 Genomes Project]]", "[[3D-Jury]]", "[[ABCD Schema]]", "[[Accession number (bioinformatics)]]", "[[Actino-ugpB RNA motif]]", "[[Adaptive sampling]]", "[[Algae DNA barcoding]]", "[[Align-m]]", "[[Alignment-free sequence analysis]]"]
+---
+
+# Bioimage informatics
+
+Bioimage informatics is a subfield of bioinformatics and computational biology. It focuses on the use of computational techniques to analyze bioimages, especially cellular and molecular images, at large scale and high throughput. The  goal is to obtain useful knowledge out of complicated and heterogeneous image and related metadata.
+Automated microscopes are able to collect large numbers of images with minimal intervention. This has led to a data explosion, which absolutely requires automatic processing. Additionally, and surprisingly, for several of these tasks, there is evidence that automated systems can perform better than humans. In addition, automated systems are unbiased, unlike human based analysis whose evaluation may (even unconsciously) be influenced by the desired outcome.
+There has been an increasing focus on developing novel image processing, computer vision, data mining, database and visualization techniques to extract, compare, search and manage the biological knowledge in these data-intensive problems.
+
+## Related
+
+- [[100,000 Genomes Project]]
+- [[1000 Genomes Project]]
+- [[3D-Jury]]
+- [[ABCD Schema]]
+- [[Accession number (bioinformatics)]]
+- [[Actino-ugpB RNA motif]]
+- [[Adaptive sampling]]
+- [[Algae DNA barcoding]]
+- [[Align-m]]
+- [[Alignment-free sequence analysis]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Bioimage_informatics

@@ -1,0 +1,34 @@
+---
+title: "Affine space"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Affine_space"
+wikipedia_categories: ["Affine geometry", "Linear algebra", "Space (mathematics)"]
+related: ["[[Barycentric coordinate system]]", "[[Flat (geometry)]]", "[[Hyperplane]]", "[[Trilinear coordinates]]", "[[3D projection]]", "[[Absolutely convex set]]", "[[Adjugate matrix]]", "[[Affine arithmetic]]", "[[Amitsur–Levitzki theorem]]", "[[Angles between flats]]"]
+---
+
+# Affine space
+
+In mathematics, an affine space is a geometric structure that generalizes some of the properties of Euclidean spaces in such a way that these are independent of the concepts of distance and measure of angles, keeping only the properties related to parallelism and ratio of lengths for parallel line segments. Affine space is the setting for affine geometry. 
+As in Euclidean space, the fundamental objects in an affine space are called points, which can be thought of as locations in the space without any size or shape: zero-dimensional. Through any pair of points an infinite straight line can be drawn, a one-dimensional set of points; through any three points that are not collinear, a two-dimensional plane can be drawn; and, in general, through k + 1 points in general position, a k-dimensional flat or affine subspace can be drawn. Affine space is characterized by a notion of pairs of parallel lines that lie within the same plane but never meet each-other (non-parallel lines within the same plane intersect in a point). Given any line, a line parallel to it can be drawn through any point in the space, and the equivalence class of parallel lines are said to share a direction.
+Unlike for vectors in a vector space, in an affine space there is no distinguished point that serves as an origin. There is no predefined concept of adding or multiplying points together, or multiplying a point by a scalar number. However, for any affine space, an associated vector space can be constructed from the differences between start and end points, which are called free vectors, displacement vectors, translation vectors or simply translations. Likewise, it makes sense to add a displacement vector to a point of an affine space, resulting in a new point (of the same affine space) translated from the starting point by that vector. While points cannot be arbitrarily added together, it is meaningful to take affine combinations of points: weighted sums with numerical coefficients summing to 1, resulting in another point. These coefficients define a barycentric coordinate system for the flat through the points.
+Any vector space may be viewed as an affine space; this amounts to "forgetting" the special role played by the zero vector. In this case, elements of the vector space may be viewed either as points of the affine space or as displacement vectors or translations. When considered as a point, the zero vector is called the origin. Adding a fixed vector to the elements of a linear subspace (vector subspace) of a vector space produces an affine subspace of the vector space. One commonly says that this affine subspace has been obtained by translating (away from the origin) the linear subspace by the translation vector (the vector added to all the elements of the linear subspace). In finite dimensions, such an affine subspace is the solution set of an inhomogeneous linear system. The displacement vectors for that affine space are the solutions of the corresponding homogeneous linear system, which is a linear subspace. Linear subspaces, in contrast, always contain the origin of the vector space.
+The dimension of an affine space is defined as the dimension of the vector space of its translations. An affine space of dimension one is an affine line. An affine space of dimension 2 is an affine plane. An affine subspace of dimension n – 1 in an affine space or a vector space of dimension n is an affine hyperplane.
+
+## Related
+
+- [[Barycentric coordinate system]]
+- [[Flat (geometry)]]
+- [[Hyperplane]]
+- [[Trilinear coordinates]]
+- [[3D projection]]
+- [[Absolutely convex set]]
+- [[Adjugate matrix]]
+- [[Affine arithmetic]]
+- [[Amitsur–Levitzki theorem]]
+- [[Angles between flats]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Affine_space

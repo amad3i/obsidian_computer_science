@@ -1,0 +1,31 @@
+---
+title: "Hopfield network"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Hopfield_network"
+wikipedia_categories: ["Neural network architectures"]
+related: ["[[AlexNet]]", "[[Class activation mapping]]", "[[Convolutional neural network]]", "[[Deep belief network]]", "[[Gating mechanism]]", "[[Generative adversarial network]]", "[[Graph neural network]]", "[[Highway network]]", "[[Neural field]]", "[[Pooling layer]]"]
+---
+
+# Hopfield network
+
+A Hopfield network (or associative memory) is a form of recurrent neural network, or a spin glass system, that can serve as a content-addressable memory. The Hopfield network, named for John Hopfield, consists of a single layer of neurons, where each neuron is connected to every other neuron except itself. These connections are bidirectional and symmetric, meaning the weight of the connection from neuron i to neuron j is the same as the weight from neuron j to neuron i. Patterns are associatively recalled by fixing certain inputs, and dynamically evolve the network to minimize an energy function, towards local energy minimum states that correspond to stored patterns. Patterns are associatively learned (or "stored") by a Hebbian learning algorithm.
+One of the key features of Hopfield networks is their ability to recover complete patterns from partial or noisy inputs, making them robust in the face of incomplete or corrupted data. Their connection to statistical mechanics, recurrent networks, and human cognitive psychology has led to their application in various fields, including physics, psychology, neuroscience, and machine learning theory and practice. Due to their binary-valued neurons (±1 or 0/1), limited scalability, and incompatibility with gradient-based learning, classical Hopfield networks are rarely used in modern machine learning.
+
+## Related
+
+- [[AlexNet]]
+- [[Class activation mapping]]
+- [[Convolutional neural network]]
+- [[Deep belief network]]
+- [[Gating mechanism]]
+- [[Generative adversarial network]]
+- [[Graph neural network]]
+- [[Highway network]]
+- [[Neural field]]
+- [[Pooling layer]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Hopfield_network

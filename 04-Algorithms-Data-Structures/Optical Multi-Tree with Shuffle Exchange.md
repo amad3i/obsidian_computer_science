@@ -1,0 +1,31 @@
+---
+title: "Optical Multi-Tree with Shuffle Exchange"
+tags: ["cs", "algorithms-data-structures", "intermediate"]
+domain: Algorithms & Data Structures
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Optical_Multi-Tree_with_Shuffle_Exchange"
+wikipedia_categories: ["Parallel computing"]
+related: ["[[ABIT BP6]]", "[[Advanced Synchronization Facility]]", "[[Aiyara cluster]]", "[[Alewife (multiprocessor)]]", "[[Algorithmic skeleton]]", "[[All nearest smaller values]]", "[[All-to-all (parallel pattern)]]", "[[AMD Instinct]]", "[[Amorphous computing]]", "[[Apache Samza]]"]
+---
+
+# Optical Multi-Tree with Shuffle Exchange
+
+An optoelectronic system is basically a hybrid system that exploits both the   advantages of electronic and optical communication. Various models of optoelectronic parallel computers have been proposed in recent years. Optical Multi-Trees with Shuffle Exchange (OMTSE) using both electronic and optical links among processors. The processors are organized in the form of an n × n array of certain groups each containing 3n/2 nodes.  It can be noted that the entire network topology is almost regular   with an O(log n) diameter.
+For parallel computing, the interconnection network is the heart of a parallel processing system, and many systems have failed to meet their design goals for the design of their essential components. The bandwidth limitation of the electronic interconnects prompted the need for exploring alternatives that overcome this limitation. Optics is considered as an alternative that is capable of providing inherentcommunication, parallelism, high connectivity and large bandwidth. When the communication distances exceed a few millimeters, optical interconnects provide advantage over the electronic interconnects in term of power, speed and crosstalk property. Therefore, in the construction of very powerful and large multiprocessor systems, it is advantageous to interconnect close processors physically using electronic links and far processors (kept in other package) using optical links. Thus we use optical network like OMTSE, OTIS, and OMULT etc.  The OMTSE network consists of two different systems called as optical and electrical. In this network there are using two layer of TSE network with a complete binary trees of height one and the roots of these binary trees are connected with Shuffle-Exchange fashion.
+
+## Related
+
+- [[ABIT BP6]]
+- [[Advanced Synchronization Facility]]
+- [[Aiyara cluster]]
+- [[Alewife (multiprocessor)]]
+- [[Algorithmic skeleton]]
+- [[All nearest smaller values]]
+- [[All-to-all (parallel pattern)]]
+- [[AMD Instinct]]
+- [[Amorphous computing]]
+- [[Apache Samza]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Optical_Multi-Tree_with_Shuffle_Exchange

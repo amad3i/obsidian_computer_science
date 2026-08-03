@@ -1,0 +1,32 @@
+---
+title: "Symbolic simulation"
+tags: ["cs", "general-cs", "advanced"]
+domain: General CS
+level: advanced
+source: "https://en.wikipedia.org/wiki/Symbolic_simulation"
+wikipedia_categories: ["Computer science stubs", "Electronic design automation", "Formal methods"]
+related: ["[[1-in-3-SAT]]", "[[And-inverter graph]]", "[[Asynchronous system]]", "[[Boolean satisfiability problem]]", "[[Concurrency semantics]]", "[[PlusCal]]", "[[ProCoS]]", "[[Retrenchment (computing)]]", "[[Satisfiability modulo theories]]", "[[Verification condition generator]]"]
+---
+
+# Symbolic simulation
+
+In computer science, a simulation is a computation of the execution of some appropriately modelled state-transition system. Typically this process models the complete state of the system at individual points in a discrete linear time frame, computing each state sequentially from its predecessor. Models for computer programs or VLSI logic designs can be very easily simulated, as they often have an operational semantics which can be used directly for simulation.
+Symbolic simulation is a form of simulation where many possible executions of a system are considered simultaneously. This is typically achieved by augmenting the domain over which the simulation takes place. A symbolic variable can be used in the simulation state representation in order to index multiple executions of the system. For each possible valuation of these variables, there is a concrete system state that is being indirectly simulated.
+Because symbolic simulation can cover many system executions in a single simulation, it can greatly reduce the size of verification problems. Techniques such as symbolic trajectory evaluation (STE) and generalized symbolic trajectory evaluation (GSTE) are based on this idea of symbolic simulation.
+
+## Related
+
+- [[1-in-3-SAT]]
+- [[And-inverter graph]]
+- [[Asynchronous system]]
+- [[Boolean satisfiability problem]]
+- [[Concurrency semantics]]
+- [[PlusCal]]
+- [[ProCoS]]
+- [[Retrenchment (computing)]]
+- [[Satisfiability modulo theories]]
+- [[Verification condition generator]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Symbolic_simulation

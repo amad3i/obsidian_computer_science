@@ -1,0 +1,34 @@
+---
+title: "Procedural animation"
+tags: ["cs", "graphics-vision", "intermediate"]
+domain: Graphics & Vision
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Procedural_animation"
+wikipedia_categories: ["Video game software stubs", "Virtual reality"]
+related: ["[[360 video projection]]", "[[360-degree video]]", "[[3D stereo view]]", "[[3D tracking]]", "[[A-Frame (software)]]", "[[Advanced disaster management simulator]]", "[[Affective haptics]]", "[[AGX Dynamics]]", "[[Amazon Lumberyard]]", "[[Apple Vision Pro]]"]
+---
+
+# Procedural animation
+
+A procedural animation is a type of computer animation used to automatically generate animation in real-time to allow for a more diverse series of actions than would otherwise be tedious using predefined animations.
+
+Procedural animation is used to simulate particle systems (smoke, fire, water), cloth and clothing, rigid body dynamics, and hair and fur dynamics, as well as character animation.
+In video games, it is often used for simple or complex actions such as turning a character's head whenever a player looks around (as in Quake III Arena) or ragdoll physics, which is usually used for the death of a character in which the ragdoll will realistically fall to the floor.  A ragdoll usually consists of a series of connected rigid bodies that are programmed to have Newtonian physics acting upon them; therefore, very realistic effects can be generated that would very hardly be possible with traditional animation. For example, a character can die slumped over a cliff and the weight of its upper-body can drag the rest of it over the edge.
+Even more complex examples of procedural animation can be found in the game Spore wherein user-created creatures will automatically be animated to all actions needed in the game from walking, to driving, to picking things up. In the game Unreal Tournament 3, bodies who have gone into ragdoll mode to fake death can arise from any position into which they have fallen and get back on their feet. The canceled Indiana Jones game from LucasArts shown at E3 2006 featured character motions that were animated entirely in real-time, with characters dodging, punching, and reacting to the environment based on an engine called Euphoria by NaturalMotion, which has since been used in games such as Grand Theft Auto IV and Backbreaker.
+
+## Related
+
+- [[360 video projection]]
+- [[360-degree video]]
+- [[3D stereo view]]
+- [[3D tracking]]
+- [[A-Frame (software)]]
+- [[Advanced disaster management simulator]]
+- [[Affective haptics]]
+- [[AGX Dynamics]]
+- [[Amazon Lumberyard]]
+- [[Apple Vision Pro]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Procedural_animation

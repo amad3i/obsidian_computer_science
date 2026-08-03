@@ -1,0 +1,21 @@
+---
+title: "Coaching"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Coaching"
+wikipedia_categories: ["Coaching"]
+related: ["[[Person-centered systems theory]]"]
+---
+
+# Coaching
+
+Coaching is a form of development in which an experienced person, called a coach, supports a learner or client in achieving a specific personal or professional goal by providing training and guidance. The learner is sometimes called a coachee. Occasionally, coaching may mean an informal relationship between two people, of whom one has more experience and expertise than the other and offers advice and guidance as the latter learns; but coaching differs from mentoring by focusing on specific tasks or objectives, as opposed to more general goals or overall development.
+
+## Related
+
+- [[Person-centered systems theory]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Coaching

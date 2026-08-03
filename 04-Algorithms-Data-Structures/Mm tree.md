@@ -1,0 +1,33 @@
+---
+title: "Mm tree"
+tags: ["cs", "algorithms-data-structures", "intermediate"]
+domain: Algorithms & Data Structures
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Mm_tree"
+wikipedia_categories: ["Linux kernel", "Linux stubs"]
+related: ["[[Linux Test Project]]", "[[SLOB]]", "[[SLUB (software)]]", "[[TinyLinux]]", "[[-dev-full]]", "[[BogoMips]]", "[[Boot folder]]", "[[Booting process of Linux]]", "[[Configuration Menu Language]]", "[[Copy Fail]]"]
+---
+
+# Mm tree
+
+Among Linux kernel developers, the -mm tree refers to a version of the kernel source code maintained by Andrew Morton.
+The -mm kernel tree used to fill the role of Linux kernel development builds, formerly identified by odd version numbers following "2.6." (see this section on Linux kernel version numbering).  New and experimental code used to find its way into a 2.6.x-mm kernel build. Historically, the -mm tree focused on new developments for the memory management part of the kernel (mm).
+Occasionally, the -mm tree was overloaded with new patches, so testing it became difficult. On September 17, 2007, Morton sent a mail saying that "this just isn't working any more". The presence of the new linux-next git repository has offloaded much of the work that made mm maintenance troublesome, allowing Morton to continue to use quilt to manage his series of "mmotm" (mm of the moment) patches.
+Morton includes a subset of the mmotm patches in linux-next, which has a head called "linux-next/akpm". There is also a git tree that includes the patches that appear in releases of the mm tree. To get all of the mm patches at any given time, developers still need quilt or ad hoc shell scripts to apply the full set of patches.
+
+## Related
+
+- [[Linux Test Project]]
+- [[SLOB]]
+- [[SLUB (software)]]
+- [[TinyLinux]]
+- [[-dev-full]]
+- [[BogoMips]]
+- [[Boot folder]]
+- [[Booting process of Linux]]
+- [[Configuration Menu Language]]
+- [[Copy Fail]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Mm_tree

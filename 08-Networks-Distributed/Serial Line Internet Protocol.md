@@ -1,0 +1,31 @@
+---
+title: "Serial Line Internet Protocol"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Serial_Line_Internet_Protocol"
+wikipedia_categories: ["Internet protocols", "Link protocols", "Logical link control"]
+related: ["[[G.hn]]", "[[Metro Ring Protocol]]", "[[Neighbor Discovery Protocol]]", "[[Parallel Line Internet Protocol]]", "[[Reverse Address Resolution Protocol]]", "[[Secure Neighbor Discovery]]", "[[Asynchronous Layered Coding]]", "[[Automatic Certificate Management Environment]]", "[[BEEP]]", "[[Berkeley r-commands]]"]
+---
+
+# Serial Line Internet Protocol
+
+The Serial Line Internet Protocol (SLIP) is an encapsulation of the Internet Protocol designed to work over serial ports and router connections. It is documented in RFC 1055. On personal computers, SLIP has largely been replaced by the Point-to-Point Protocol (PPP), which is better engineered, has more features, and does not require its IP address configuration to be set before it is established. On microcontrollers, however, SLIP is still the preferred way of encapsulating IP packets, due to its very small overhead.
+Some people refer to the successful and widely used RFC 1055 Serial Line Internet Protocol as "Rick Adams' SLIP", to avoid confusion with other proposed protocols named "SLIP". Those other protocols include the much more complicated RFC 914 appendix D Serial Line Interface Protocol.
+
+## Related
+
+- [[G.hn]]
+- [[Metro Ring Protocol]]
+- [[Neighbor Discovery Protocol]]
+- [[Parallel Line Internet Protocol]]
+- [[Reverse Address Resolution Protocol]]
+- [[Secure Neighbor Discovery]]
+- [[Asynchronous Layered Coding]]
+- [[Automatic Certificate Management Environment]]
+- [[BEEP]]
+- [[Berkeley r-commands]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Serial_Line_Internet_Protocol

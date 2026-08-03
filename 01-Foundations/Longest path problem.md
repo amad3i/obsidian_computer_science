@@ -1,0 +1,30 @@
+---
+title: "Longest path problem"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Longest_path_problem"
+wikipedia_categories: ["Computational problems in graph theory", "Graph algorithms", "Graph distance", "Hamiltonian paths and cycles"]
+related: ["[[Seidel's algorithm]]", "[[Travelling salesman problem]]", "[[A- search algorithm]]", "[[Bellman–Ford algorithm]]", "[[Bottleneck traveling salesman problem]]", "[[Centrality]]", "[[Dijkstra's algorithm]]", "[[Floyd–Warshall algorithm]]", "[[Graph edit distance]]", "[[Graph isomorphism problem]]"]
+---
+
+# Longest path problem
+
+In graph theory and theoretical computer science, the longest path problem is the problem of finding a simple path of maximum length in a given graph. A path is called simple if it does not have any repeated vertices; the length of a path may either be measured by its number of edges, or (in weighted graphs) by the sum of the weights of its edges. In contrast to the shortest path problem, which can be solved in polynomial time in graphs without negative-weight cycles, the longest path problem is NP-hard and the decision version of the problem, which asks whether a path exists of at least some given length, is NP-complete.  This means that the decision problem cannot be solved in polynomial time for arbitrary graphs unless P = NP. Stronger hardness results are also known showing that it is difficult to approximate. However, it has a linear time solution for directed acyclic graphs, which has important applications in finding the critical path in scheduling problems.
+
+## Related
+
+- [[Seidel's algorithm]]
+- [[Travelling salesman problem]]
+- [[A- search algorithm]]
+- [[Bellman–Ford algorithm]]
+- [[Bottleneck traveling salesman problem]]
+- [[Centrality]]
+- [[Dijkstra's algorithm]]
+- [[Floyd–Warshall algorithm]]
+- [[Graph edit distance]]
+- [[Graph isomorphism problem]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Longest_path_problem

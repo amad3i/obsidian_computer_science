@@ -1,0 +1,31 @@
+---
+title: "Fly-by-wire"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Fly-by-wire"
+wikipedia_categories: ["Aircraft controls", "Fault tolerance", "Flight control systems"]
+related: ["[[Amplitude-shift keying]]", "[[Brooks–Iyengar algorithm]]", "[[Collateral circulation]]", "[[Control reconfiguration]]", "[[Degradation (telecommunications)]]", "[[Direct voice input]]", "[[Double switching]]", "[[Elegant degradation]]", "[[Emergency power system]]", "[[Endurability]]"]
+---
+
+# Fly-by-wire
+
+Fly-by-wire (FBW) is a system that replaces the conventional manual flight controls of an aircraft with an electronic interface. The movements of flight controls are converted to electronic signals, and flight control computers determine how to move the actuators at each control surface to provide the ordered response. Implementations either use mechanical flight control backup systems or else are fully electronic.
+Improved fully fly-by-wire systems interpret the pilot's control inputs as a desired outcome and calculate the control surface positions required to achieve that outcome; this results in various combinations of rudder, elevator, aileron, flaps and engine controls in different situations using a closed feedback loop. The pilot may not be fully aware of all the control outputs acting to affect the outcome, only that the aircraft is reacting as expected. The fly-by-wire computers act to stabilize the aircraft and adjust the flying characteristics without the pilot's involvement, and to prevent the pilot from operating outside of the aircraft's safe performance envelope.
+
+## Related
+
+- [[Amplitude-shift keying]]
+- [[Brooks–Iyengar algorithm]]
+- [[Collateral circulation]]
+- [[Control reconfiguration]]
+- [[Degradation (telecommunications)]]
+- [[Direct voice input]]
+- [[Double switching]]
+- [[Elegant degradation]]
+- [[Emergency power system]]
+- [[Endurability]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Fly-by-wire

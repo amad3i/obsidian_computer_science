@@ -1,0 +1,31 @@
+---
+title: "TI StarterWare"
+tags: ["cs", "architecture-hardware", "intermediate"]
+domain: Architecture & Hardware
+level: intermediate
+source: "https://en.wikipedia.org/wiki/TI_StarterWare"
+wikipedia_categories: ["Embedded systems", "Free and open-source software stubs"]
+related: ["[[Apache Celix]]", "[[Open JTAG]]", "[[Adesto Technologies]]", "[[ADvantage Framework]]", "[[Anti-hijack system]]", "[[ASCEND]]", "[[Assembly language]]", "[[ATM]]", "[[Automatic system recovery]]", "[[Background debug mode interface]]"]
+---
+
+# TI StarterWare
+
+StarterWare was initially developed by TI as a free software package catering to their arm A8 and A9 microprocessors. Its primary purpose was to offer drivers and libraries with a consistent API tailored for processors within these microprocessor families. The package encompassed utilities and illustrative use cases across various applications. Despite TI's diminished active backing, the software lingers in open-source repositories on GitHub, primarily upholding support for widely used beagle boards that make use of these processors.
+This software collection closely aligns with what many chip manufacturers refer to as a HAL (Hardware Abstraction Layer). In TI's context, it's termed DAL (Device Abstraction Layer). Its role revolves around furnishing fundamental functionalities and an API that an operating system can conveniently adapt to. For those inclined to create baremetal programs by directly engaging with the starterware API, the package also offered documentation and assistance.
+
+## Related
+
+- [[Apache Celix]]
+- [[Open JTAG]]
+- [[Adesto Technologies]]
+- [[ADvantage Framework]]
+- [[Anti-hijack system]]
+- [[ASCEND]]
+- [[Assembly language]]
+- [[ATM]]
+- [[Automatic system recovery]]
+- [[Background debug mode interface]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/TI_StarterWare

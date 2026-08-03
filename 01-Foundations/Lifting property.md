@@ -1,0 +1,30 @@
+---
+title: "Lifting property"
+tags: ["cs", "foundations-math", "advanced"]
+domain: Foundations & Math
+level: advanced
+source: "https://en.wikipedia.org/wiki/Lifting_property"
+wikipedia_categories: ["Category theory"]
+related: ["[[2-Yoneda lemma]]", "[[3-category]]", "[[AB5 category]]", "[[Abstract elementary class]]", "[[Abstract nonsense]]", "[[Accessible category]]", "[[Accessible quasi-category]]", "[[Adhesive category]]", "[[Allegory (mathematics)]]", "[[Anamorphism]]"]
+---
+
+# Lifting property
+
+In mathematics, in particular in category theory, the lifting property is a property of a pair of morphisms in a category. It is used in homotopy theory within algebraic topology to define properties of morphisms starting from an explicitly given class of morphisms. It appears in a prominent way in the theory of model categories, an axiomatic framework for homotopy theory introduced by Daniel Quillen. It is also used in the definition of a factorization system, and of a weak factorization system, notions related to but less restrictive than the notion of a model category. Several elementary notions may also be expressed using the lifting property starting from a list of (counter)examples.
+
+## Related
+
+- [[2-Yoneda lemma]]
+- [[3-category]]
+- [[AB5 category]]
+- [[Abstract elementary class]]
+- [[Abstract nonsense]]
+- [[Accessible category]]
+- [[Accessible quasi-category]]
+- [[Adhesive category]]
+- [[Allegory (mathematics)]]
+- [[Anamorphism]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Lifting_property

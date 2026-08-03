@@ -1,0 +1,31 @@
+---
+title: "Right to explanation"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Right_to_explanation"
+wikipedia_categories: ["Accountability", "Algorithms", "Human rights", "Machine learning", "Regulation of artificial intelligence"]
+related: ["[[Algorithmic transparency]]", "[[Multiplicative weight update method]]", "[[Regulation of algorithms]]", "[[The Master Algorithm]]", "[[Toronto Declaration]]", "[[80 Million Tiny Images]]", "[[A Logical Calculus of the Ideas Immanent in Nervous Activity]]", "[[Accelerated Linear Algebra]]", "[[Active learning (machine learning)]]", "[[Adaptive algorithm]]"]
+---
+
+# Right to explanation
+
+In the regulation of algorithms, particularly artificial intelligence and its subfield of machine learning, a right to [an] explanation is a right to be given an explanation for an output of the algorithm. Such rights primarily refer to individual rights to be given an explanation for decisions that significantly affect an individual, particularly legally or financially. For example, a person who applies for a loan and is denied may ask for an explanation, which could be "Credit bureau X reports that you declared bankruptcy last year; this is the main factor in considering you too likely to default, and thus we will not give you the loan you applied for."
+Some such legal rights already exist, while the scope of a general "right to explanation" is a matter of ongoing debate. There have been arguments made that a "social right to explanation" is a crucial foundation for an information society, particularly as the institutions of that society will need to use digital technologies, artificial intelligence, machine learning. In other words, that the related automated decision making systems that use explainability would be more trustworthy and transparent. Without this right, which could be constituted both legally and through professional standards, the public will be left without much recourse to challenge the decisions of automated systems.
+
+## Related
+
+- [[Algorithmic transparency]]
+- [[Multiplicative weight update method]]
+- [[Regulation of algorithms]]
+- [[The Master Algorithm]]
+- [[Toronto Declaration]]
+- [[80 Million Tiny Images]]
+- [[A Logical Calculus of the Ideas Immanent in Nervous Activity]]
+- [[Accelerated Linear Algebra]]
+- [[Active learning (machine learning)]]
+- [[Adaptive algorithm]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Right_to_explanation

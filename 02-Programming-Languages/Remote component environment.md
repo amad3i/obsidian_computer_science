@@ -1,0 +1,32 @@
+---
+title: "Remote component environment"
+tags: ["cs", "programming-languages", "intermediate"]
+domain: Programming & Languages
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Remote_component_environment"
+wikipedia_categories: ["Distributed computing architecture", "Free software programmed in Java", "Grid computing projects", "Scientific simulation software", "Software using the Eclipse Public License"]
+related: ["[[Apache Samza]]", "[[GARUDA]]", "[[JanusGraph]]", "[[JRuby]]", "[[Aerospike (database)]]", "[[Aggregate Level Simulation Protocol]]", "[[Altibase]]", "[[Amoeba (operating system)]]", "[[Andrew Project]]", "[[Apache Accumulo]]"]
+---
+
+# Remote component environment
+
+The Remote Component Environment (RCE) is an integration environment for scientists and engineers to analyze, design, and simulate complex systems (e.g., aircraft, satellites, and space vehicle). It focusses on the collaboration in multidisciplinary teams. Treating complex systems requires many experts and several analysis, design, and simulation tools. In RCE, the tools are integrated and coupled to workflows. RCE executes the workflows and fetches the results from the involved tool servers. RCE is extensible and supports different scientific applications with slightly different requirements. RCE is built upon the Eclipse Rich Client Platform (RCP). It is open source and published under the Eclipse Public License (EPL).
+Development of the RCE platform took place in the SESIS project. 
+Previously the platform was known by Reconfigurable Computing Environment. Since it has been open sourced the name changed to Remote Component Environment.
+
+## Related
+
+- [[Apache Samza]]
+- [[GARUDA]]
+- [[JanusGraph]]
+- [[JRuby]]
+- [[Aerospike (database)]]
+- [[Aggregate Level Simulation Protocol]]
+- [[Altibase]]
+- [[Amoeba (operating system)]]
+- [[Andrew Project]]
+- [[Apache Accumulo]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Remote_component_environment

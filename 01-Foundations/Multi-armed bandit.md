@@ -1,0 +1,36 @@
+---
+title: "Multi-armed bandit"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Multi-armed_bandit"
+wikipedia_categories: ["Machine learning", "Metaphors referring to body parts", "Science and technology during World War II", "Sequential experiments", "Sequential methods", "Stochastic optimization"]
+related: ["[[Bayesian optimization]]", "[[Best arm identification]]", "[[Explore-then-commit algorithm]]", "[[Kullback–Leibler Upper Confidence Bound]]", "[[Lai–Robbins lower bound]]", "[[Reparameterization trick]]", "[[80 Million Tiny Images]]", "[[A Logical Calculus of the Ideas Immanent in Nervous Activity]]", "[[Accelerated Linear Algebra]]", "[[Active learning (machine learning)]]"]
+---
+
+# Multi-armed bandit
+
+In probability theory and machine learning, the multi-armed bandit problem (sometimes called the K- or N-armed bandit problem) is named from imagining a gambler at a row of slot machines (sometimes known as "one-armed bandits"), who has to decide which machines to play, how many times to play each machine and in which order to play them, and whether to continue with the current machine or try a different machine.
+More generally, it is a problem in which a decision maker iteratively selects one of multiple fixed choices (i.e., arms or actions) when the properties of each choice are only partially known at the time of allocation, and may become better understood as time passes. A fundamental aspect of bandit problems is that choosing an arm does not affect the properties of the arm or other arms.
+Instances of the multi-armed bandit problem include the task of iteratively allocating a fixed, limited set of resources between competing (alternative) choices in a way that minimizes the regret. A notable alternative setup for the multi-armed bandit problem includes the "best arm identification (BAI)" problem where the goal is instead to identify the best choice by the end of a finite number of rounds.
+The multi-armed bandit problem is a classic reinforcement learning problem that exemplifies the exploration–exploitation tradeoff dilemma. In contrast to general reinforcement learning, the selected actions in bandit problems do not affect the reward distribution of the arms.
+The multi-armed bandit problem also falls into the broad category of stochastic scheduling.
+In the problem, each machine provides a random reward from a probability distribution specific to that machine, that is not known  a priori. The objective of the gambler is to maximize the sum of rewards earned through a sequence of lever pulls. The crucial tradeoff the gambler faces at each trial is between "exploitation" of the machine that has the highest expected payoff and "exploration" to get more information about the expected payoffs of the other machines. The trade-off between exploration and exploitation is also faced in machine learning. In practice, multi-armed bandits have been used to model problems such as managing research projects in a large organization, like a science foundation or a pharmaceutical company. In early versions of the problem, the gambler begins with no initial knowledge about the machines.
+Herbert Robbins in 1952, realizing the importance of the problem, constructed convergent population selection strategies in "some aspects of the sequential design of experiments". A theorem, the Gittins index, first published by John C. Gittins, gives an optimal policy for maximizing the expected discounted reward.
+
+## Related
+
+- [[Bayesian optimization]]
+- [[Best arm identification]]
+- [[Explore-then-commit algorithm]]
+- [[Kullback–Leibler Upper Confidence Bound]]
+- [[Lai–Robbins lower bound]]
+- [[Reparameterization trick]]
+- [[80 Million Tiny Images]]
+- [[A Logical Calculus of the Ideas Immanent in Nervous Activity]]
+- [[Accelerated Linear Algebra]]
+- [[Active learning (machine learning)]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Multi-armed_bandit

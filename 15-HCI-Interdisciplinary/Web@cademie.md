@@ -1,0 +1,35 @@
+---
+title: "Web@cademie"
+tags: ["cs", "hci-interdisciplinary", "intermediate"]
+domain: HCI & Interdisciplinary
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Web@cademie"
+wikipedia_categories: ["2010 establishments in France", "Computer science education", "Education in Lyon", "Education in Strasbourg", "Education in Île-de-France", "Educational institutions established in 2010", "Technical universities and colleges in France"]
+related: ["[[ACM-W]]", "[[AP Computer Science]]", "[[AP Computer Science A]]", "[[AP Computer Science Principles]]", "[[App Academy]]", "[[Bachelor of Computer Information Systems]]", "[[Bachelor of Computer Science]]", "[[Bachelor of Computing]]", "[[Bachelor of Information Technology]]", "[[Bachelor of Science in Information Technology]]"]
+---
+
+# Web@cademie
+
+Web@cademie is a private, nonprofit and tuition-free computer programming school created and funded by French IONIS Education Group with several partners including Epitech and Zup de Co association. The school was first opened in Paris in 2010.
+Headquartered in Le Kremlin-Bicêtre, the school has branches in Lyon, Strasbourg and Nancy.
+Web@cademie delivers a two-year program dedicated to people with no degree and no background (without the French Baccalaureate but with a strong motivation in computer science). This is to help dropout students to have a job in a competitive industry.
+The school has received the award Grande École du Numérique.
+The school is a non-profit organization and is entirely free.
+Major companies such as Microsoft give financial support.
+
+## Related
+
+- [[ACM-W]]
+- [[AP Computer Science]]
+- [[AP Computer Science A]]
+- [[AP Computer Science Principles]]
+- [[App Academy]]
+- [[Bachelor of Computer Information Systems]]
+- [[Bachelor of Computer Science]]
+- [[Bachelor of Computing]]
+- [[Bachelor of Information Technology]]
+- [[Bachelor of Science in Information Technology]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Web@cademie

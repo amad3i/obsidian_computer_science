@@ -1,0 +1,38 @@
+---
+title: "Active shape model"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Active_shape_model"
+wikipedia_categories: ["Computer vision"]
+related: ["[[3D body scanning]]", "[[3D Morphable Model]]", "[[3D pose estimation]]", "[[3D reconstruction]]", "[[3D scanning]]", "[[3D selfie]]", "[[Active appearance model]]", "[[Active contour model]]", "[[Active vision]]", "[[Alignments of random points]]"]
+---
+
+# Active shape model
+
+Active shape models (ASMs) are statistical models of the shape of objects which iteratively deform to fit to an example of the object in a new image, developed by Tim Cootes and Chris J. Taylor in 1995. The shapes are constrained by the point distribution model (PDM) statistical shape analysis to vary only in ways seen in a training set of labelled examples.  
+The shape of an object is represented by a set of points (controlled by the shape model).  The ASM algorithm aims to match the model to a new image.
+
+The ASM works by alternating the following steps:
+
+Generate a suggested shape by looking in the image around each point for a better position for the point. This is commonly done using what is called a "profile model", which looks for strong edges or uses the Mahalanobis distance to match a model template for the point.
+Conform the suggested shape to the point distribution model, commonly called a "shape model" in this context.  The figure to the right shows an example.
+The technique has been widely used to analyse images of faces, mechanical assemblies and medical images (in 2D and 3D).
+It is closely related to the active appearance model. It is also known as a "Smart Snakes" method, since it is an analog to an active contour model which would respect explicit shape constraints.
+
+## Related
+
+- [[3D body scanning]]
+- [[3D Morphable Model]]
+- [[3D pose estimation]]
+- [[3D reconstruction]]
+- [[3D scanning]]
+- [[3D selfie]]
+- [[Active appearance model]]
+- [[Active contour model]]
+- [[Active vision]]
+- [[Alignments of random points]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Active_shape_model

@@ -1,0 +1,34 @@
+---
+title: "Workplace impact of artificial intelligence"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Workplace_impact_of_artificial_intelligence"
+wikipedia_categories: ["Artificial intelligence", "Occupational safety and health"]
+related: ["[[ai]]", "[[2025–present global memory supply shortage]]", "[[2026 OpenAI agent cyberattacks]]", "[[Actor-critic algorithm]]", "[[Admissible heuristic]]", "[[Agent harness]]", "[[Agent verification]]", "[[Agentive logic]]", "[[AI agent]]", "[[AI alignment]]"]
+---
+
+# Workplace impact of artificial intelligence
+
+The impact of artificial intelligence on workers includes both applications to improve worker safety and health, and potential hazards that must be controlled. Another use is to track productivity.
+One potential application is using AI to eliminate hazards by removing humans from hazardous situations that involve risk of stress, overwork, or musculoskeletal injuries.  Predictive analytics may also be used to identify conditions that may lead to hazards such as fatigue, repetitive strain injuries, or toxic substance exposure, leading to earlier interventions.  Another is to streamline workplace safety and health workflows through automating repetitive tasks, enhancing safety training programs through virtual reality, or detecting and reporting near misses.
+When used in the workplace, AI also presents the possibility of new hazards.  These may arise from machine learning techniques leading to unpredictable behavior and inscrutability in their decision-making, or from cybersecurity and information privacy issues.  Many hazards of AI are psychosocial due to its potential to cause changes in work organization.  These include increased monitoring leading to micromanagement, algorithms unintentionally or intentionally mimicking undesirable human biases, and assigning blame for machine errors to the human operator instead.  AI may also lead to physical hazards in the form of human–robot collisions, and ergonomic risks of control interfaces and human–machine interactions.  Hazard controls include cybersecurity and information privacy measures, communication and transparency with workers about data usage, and limitations on collaborative robots.
+From a workplace safety and health perspective, only "weak" or "narrow" AI that is tailored to a specific task is relevant, as there are many examples that are currently in use or expected to come into use in the near future.
+Certain digital technologies are predicted to result in job losses. Starting in the 2020s, the adoption of modern robotics has led to net employment growth. However, many businesses anticipate that automation, or employing robots would result in job losses in the future. This is especially true for companies in Central and Eastern Europe. Other digital technologies, such as platforms or big data, are projected to have a more neutral impact on employment. A large number of tech workers have been laid off starting in 2023; many such job cuts have been attributed to artificial intelligence.
+
+## Related
+
+- [[ai]]
+- [[2025–present global memory supply shortage]]
+- [[2026 OpenAI agent cyberattacks]]
+- [[Actor-critic algorithm]]
+- [[Admissible heuristic]]
+- [[Agent harness]]
+- [[Agent verification]]
+- [[Agentive logic]]
+- [[AI agent]]
+- [[AI alignment]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Workplace_impact_of_artificial_intelligence

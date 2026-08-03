@@ -1,0 +1,33 @@
+---
+title: "Dendral"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Dendral"
+wikipedia_categories: ["Cheminformatics", "Expert systems", "History of artificial intelligence"]
+related: ["[[Mycin]]", "[[Xcon]]", "[[A Logical Calculus of the Ideas Immanent in Nervous Activity]]", "[[Advice taker]]", "[[AI boom]]", "[[AI winter]]", "[[Artificial intelligence in fraud detection]]", "[[Backward chaining]]", "[[Business rule management system]]", "[[Business rules engine]]"]
+---
+
+# Dendral
+
+Dendral was a project in artificial intelligence (AI) of the 1960s, and the computer software expert system that it produced. Its primary aim was to study hypothesis formation and discovery in science.  For that, a specific task in science was chosen:  help organic chemists in identifying unknown organic molecules, by analyzing their mass spectra and using knowledge of chemistry.  It was done at Stanford University by Edward Feigenbaum, Bruce G. Buchanan, Joshua Lederberg, and Carl Djerassi, along with a team of highly creative research associates and students.  It began in 1964 and spans approximately half the history of AI research.
+The software program Dendral is considered the first expert system because it automated the decision-making process and problem-solving behavior of organic chemists.  The project consisted of research on two main programs  Heuristic Dendral and Meta-Dendral, and several sub-programs.  It was written in the Lisp programming language, which was considered the language of AI because of its flexibility.
+Many systems were derived from Dendral, including MYCIN, MOLGEN, PROSPECTOR, XCON, and STEAMER.  There are many other programs today for solving the mass spectrometry inverse problem, see List of mass spectrometry software, but they are no longer described as 'artificial intelligence', just as structure searchers.
+The name Dendral is an acronym of the term "Dendritic Algorithm".
+
+## Related
+
+- [[Mycin]]
+- [[Xcon]]
+- [[A Logical Calculus of the Ideas Immanent in Nervous Activity]]
+- [[Advice taker]]
+- [[AI boom]]
+- [[AI winter]]
+- [[Artificial intelligence in fraud detection]]
+- [[Backward chaining]]
+- [[Business rule management system]]
+- [[Business rules engine]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Dendral

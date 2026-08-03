@@ -1,0 +1,30 @@
+---
+title: "WYSIWIS"
+tags: ["cs", "hci-interdisciplinary", "intermediate"]
+domain: HCI & Interdisciplinary
+level: intermediate
+source: "https://en.wikipedia.org/wiki/WYSIWIS"
+wikipedia_categories: ["Computer science stubs", "Groupware"]
+related: ["[[Virtual Object System]]", "[[Alewife (multiprocessor)]]", "[[ALF (proof assistant)]]", "[[Analog image processing]]", "[[AnyMeeting]]", "[[Application sharing]]", "[[AQUA@home]]", "[[Archives management]]", "[[Asynchrony (computer programming)]]", "[[Attentive user interface]]"]
+---
+
+# WYSIWIS
+
+In computer science, and more specifically in groupware engineering, the acronym WYSIWIS stands for "What You See Is What I See" and refers to a paradigm in the design of multiuser interfaces where multiple users, interacting with a multiuser software system, share the same visual perception of the work area (e.g., of the document they are collaboratively editing). While some pioneering groupware systems (e.g., window sharing systems) where characterized by strict WYSIWIS, the WYSIWIS model is most often relaxed in several respects.
+
+## Related
+
+- [[Virtual Object System]]
+- [[Alewife (multiprocessor)]]
+- [[ALF (proof assistant)]]
+- [[Analog image processing]]
+- [[AnyMeeting]]
+- [[Application sharing]]
+- [[AQUA@home]]
+- [[Archives management]]
+- [[Asynchrony (computer programming)]]
+- [[Attentive user interface]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/WYSIWIS

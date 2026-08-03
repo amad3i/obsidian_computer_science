@@ -1,0 +1,33 @@
+---
+title: "Predictive text"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Predictive_text"
+wikipedia_categories: ["Input/output", "Mobile technology", "Natural language processing"]
+related: ["[[Swarachakra]]", "[[Abdul Majid Bhurgri Institute of Language Engineering]]", "[[Access stratum]]", "[[ACL Data Collection Initiative]]", "[[Adversarial stylometry]]", "[[Affix grammar over a finite lattice]]", "[[AFNLP]]", "[[Aggregation (linguistics)]]", "[[AI data center]]", "[[Arabic Ontology]]"]
+---
+
+# Predictive text
+
+Predictive text is an input technology used where one key or button represents many letters, such as on the physical numeric keypads of mobile phones and in accessibility technologies. Each key press results in a  prediction rather than repeatedly sequencing through the same group of "letters" it represents, in the same, invariable order.  Predictive text could allow for an entire word to be input by a single keypress.  Predictive text makes efficient use of fewer device keys to input writing into a text message, an e-mail, an address book, a calendar, and the like.
+The most widely used, general, predictive text systems are T9, iTap, eZiText, and LetterWise/WordWise.  There are many ways to build a device that predicts text, but all predictive text systems have initial linguistic settings that offer predictions that are re-prioritized to adapt to each user.  This learning adapts, by way of the device memory, to a user's disambiguating feedback that results in corrective key presses, such as pressing a "next" key to get to the intention. Most predictive text systems have a user database to facilitate this process.
+Theoretically the number of keystrokes required per desired character in the finished writing is, on average, comparable to using a keyboard. This is approximately true provided that all words used are in its database, punctuation is ignored, and no input mistakes are made when typing or spelling. The theoretical keystrokes per character, KSPC, of a keyboard is KSPC=1.00, and of multi-tap is KSPC=2.03. Eatoni's LetterWise is a predictive multi-tap hybrid, which when operating on a standard telephone keypad achieves KSPC=1.15 for English.
+The choice of which predictive text system is the best to use involves matching the user's preferred interface style, the user's level of learned ability to operate predictive text software, and the user's efficiency goal. There are various levels of risk in predictive text systems, versus multi-tap systems, because the predicted text that is automatically written provides the speed and mechanical efficiency benefit, which, if the user is not careful to review, results in transmitting misinformation. Predictive text systems take time to learn to use well, and so generally, a device's system has user options to set up the choice of multi-tap or any one of several schools of predictive text methods.
+
+## Related
+
+- [[Swarachakra]]
+- [[Abdul Majid Bhurgri Institute of Language Engineering]]
+- [[Access stratum]]
+- [[ACL Data Collection Initiative]]
+- [[Adversarial stylometry]]
+- [[Affix grammar over a finite lattice]]
+- [[AFNLP]]
+- [[Aggregation (linguistics)]]
+- [[AI data center]]
+- [[Arabic Ontology]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Predictive_text

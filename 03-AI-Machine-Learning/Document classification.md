@@ -1,0 +1,32 @@
+---
+title: "Document classification"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Document_classification"
+wikipedia_categories: ["Data mining", "Information science", "Knowledge representation", "Machine learning", "Natural language processing"]
+related: ["[[Arabic Ontology]]", "[[Agricultural Information Management Standards]]", "[[AI data center]]", "[[Anomaly detection]]", "[[Astrostatistics]]", "[[Attempto Controlled English]]", "[[Automatic summarization]]", "[[Bag-of-words model]]", "[[Basic Formal Ontology]]", "[[Brian Deer Classification System]]"]
+---
+
+# Document classification
+
+Document classification or document categorization is a problem in library science, information science and computer science. The task is to assign a document to one or more classes or categories. This may be done "manually" (or "intellectually") or algorithmically. The intellectual classification of documents has mostly been the province of library science, while the algorithmic classification of documents is mainly in information science and computer science. The problems are overlapping, however, and there is therefore interdisciplinary research on document classification.
+The documents to be classified may be texts, images, music, etc. Each kind of document possesses its special classification problems. When not otherwise specified, text classification is implied.
+Documents may be classified according to their subjects or according to other attributes (such as document type, author, printing year etc.). In the rest of this article only subject classification is considered. There are two main philosophies of subject classification of documents: the content-based approach and the request-based approach.
+
+## Related
+
+- [[Arabic Ontology]]
+- [[Agricultural Information Management Standards]]
+- [[AI data center]]
+- [[Anomaly detection]]
+- [[Astrostatistics]]
+- [[Attempto Controlled English]]
+- [[Automatic summarization]]
+- [[Bag-of-words model]]
+- [[Basic Formal Ontology]]
+- [[Brian Deer Classification System]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Document_classification

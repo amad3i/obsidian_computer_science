@@ -1,0 +1,33 @@
+---
+title: "FreeTrack"
+tags: ["cs", "graphics-vision", "intermediate"]
+domain: Graphics & Vision
+level: intermediate
+source: "https://en.wikipedia.org/wiki/FreeTrack"
+wikipedia_categories: ["Computer accessibility", "Game controllers", "Mixed reality", "Tracking", "Virtual reality"]
+related: ["[[3D tracking]]", "[[A-Frame (software)]]", "[[Apple Vision Pro]]", "[[Avatar (computing)]]", "[[Cave automatic virtual environment]]", "[[Finger tracking]]", "[[GlTF]]", "[[Gran Turismo official steering wheel]]", "[[GT Racing Cockpit]]", "[[Haptic technology]]"]
+---
+
+# FreeTrack
+
+FreeTrack is an optical motion tracking application for Microsoft Windows, released under the GNU General Public License, that can be used with common inexpensive cameras. Its primary focus is head tracking with uses in virtual reality, simulation, video games, 3D modeling, computer aided design and general hands-free computing to improve computer accessibility. Tracking can be made sensitive enough that only small head movements are required so that the user's eyes never leave the screen.
+A camera is positioned to observe a rigid point model worn by the user, the points of which need to be isolated from background light by means of physical and software filtering. Motion is tracked with up to six degrees of freedom (6DOF): yaw, pitch, roll, left/right, up/down and forward/back. Windows-compatible video devices like webcams are supported, as well as special Nintendo Wii Remote camera, iPhone Truedepth camera with Eyeware Beam, and NaturalPoint cameras (TrackIR, SmartNav and OptiTrack).
+FreeTrack can output head-tracking data to programs directly using its own open interface, as well as TrackIR, SimConnect and FSUIPC interfaces. Programs that support these interfaces are regarded as being FreeTrack-compatible. FreeTrack can also emulate mouse, keyboard, and joystick (via PPJoy) if a program does not support a direct interface.
+FreeTrack is coded in Delphi 7 and uses DirectShow and DirectX. Head tracking is achieved using implementations of DeMenthon's four-point iterative pose estimation algorithm (POSIT)  and Alter's three point geometric algorithm.
+
+## Related
+
+- [[3D tracking]]
+- [[A-Frame (software)]]
+- [[Apple Vision Pro]]
+- [[Avatar (computing)]]
+- [[Cave automatic virtual environment]]
+- [[Finger tracking]]
+- [[GlTF]]
+- [[Gran Turismo official steering wheel]]
+- [[GT Racing Cockpit]]
+- [[Haptic technology]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/FreeTrack

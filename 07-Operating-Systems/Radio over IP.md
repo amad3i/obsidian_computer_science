@@ -1,0 +1,42 @@
+---
+title: "Radio over IP"
+tags: ["cs", "operating-systems", "intermediate"]
+domain: Operating Systems
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Radio_over_IP"
+wikipedia_categories: ["Amateur radio software for Linux", "Amateur radio software for Windows", "Internet protocols", "Interoperable communications", "Network appliances", "Public safety communications", "Radio communications", "Radio hobbies"]
+related: ["[[Bridging Systems Interface]]", "[[Asynchronous Layered Coding]]", "[[Automatic Certificate Management Environment]]", "[[BEEP]]", "[[Berkeley r-commands]]", "[[BGP Monitoring Protocol]]", "[[Bidirectional Forwarding Detection]]", "[[Binkp]]", "[[Bootstrap Protocol]]", "[[Border Gateway Multicast Protocol]]"]
+---
+
+# Radio over IP
+
+Radio over Internet Protocol, or RoIP, is similar to Voice over IP (VoIP), but augments two-way radio communications rather than telephone calls. From the system point of view, it is essentially VoIP with push-to-talk. To the user it can be implemented like any other radio network.
+With RoIP, at least one node of a network is a radio (or a radio with an IP interface device) connected via IP to other nodes in the radio network. The other nodes can be two-way radios, but could also be dispatch consoles either traditional (hardware) or modern (software on a PC), POTS telephones, softphone applications running on a computer such as Skype phone, PDA, smartphone, or some other communications device accessible over IP. RoIP can be deployed over private networks as well as the public Internet.
+It is useful in land mobile radio systems used by public safety departments and fleets of utilities spread over a broad geographic area. Like other centralized radio systems such as trunked radio systems, issues of delay or latency and reliance on centralized infrastructure can be impediments to adoption by public safety agencies.
+RoIP is not a proprietary or protocol-limited construct but a basic concept that has been implemented in a number of ways. Several systems have been implemented in the amateur radio community such as Galaxy PTT Comms, AllStar Link, BroadNet, IRLP, and EchoLink that have demonstrated the utility of RoIP in a partly or entirely open-source environment.
+Many commercial radio systems vendors such as Persistent Systems, LLC., Motorola and Harris have adopted RoIP as part of their system designs.
+The motivation to deploy RoIP technology is usually driven by one of three factors: first, the need to span large geographic areas or operate in areas without sufficient coverage from radio towers; second, the desire to provide more reliable, or at least more repairable links in radio systems; and third, to support the use of many base station users, that is, voice communications from stationary users rather than mobile or handheld radios.
+Geographies may be more economically reliably served when spanned by the use of IP technology due to the constantly decreasing cost and increasing functionality of the evolving packet-switched network equipment and software (a track followed by Moore's law). Traditionally distant radio users have been linked via dedicated microwave equipment and/or leased telephone lines. Generally, the cost of operating a radio network is decreased by the adoption of IP technology, replacing the traditional microwave and leased telephone lines. Economical and reliable distant radio links such as those needed by state troopers, energy utilities, and Medivac helicopters are well served by RoIP technology (see Air Evac Lifeteam for an example of a 14-state radio system).
+U.S. military units are using RoIP to protect convoys spread out across large geographies
+The conversion to RoIP also drives the adoption of a network approach rather than hub and spoke architecture that is typical of the point-to-point links inherent in the legacy microwave and leased line technologies. Hub and spoke architectures are inherently fragile, while the network approach developed at the foundation of the public Internet by DARPA is generally more reliable, more adaptable, and faster to repair and restore in a wide area disaster such as Hurricane Katrina.
+The use of LMR (land mobile radio) equipment in both mobile and handheld forms, can be problematic for desk-bound users such as dispatchers, supervisors, and other users in large public safety agencies and energy/utilities, because such radios do not coexist well with computers (e.g. interference). Also, Emergency Operations Center (EOCs) are typically staffed with representatives from many different public safety agencies and other local government officials, each with a different radio. Such EOCs are more effectively (and quietly!) equipped when the radios for each of the different constituencies are made available in the center via RoIP at each user's computer, rather than via a handheld radio that may be out of range, difficult to hear, and out of batteries throughout the emergency.
+Finally, RoIP by its nature is inter-operable, as once any device whether radio, telephone, computer, or PDA is made part of the voice network enabled by IP, it is irrelevant what type of technology it utilizes. RoIP systems routinely combine VHF, UHF, POTS telephone, Cellular telephone, SATCOM, air-to-ground, and other technologies into a single voice conversation. This makes it especially valuable to the much-documented problems with communications interoperability.
+In order to minimize the growth of Radio over IP technologies that are incompatible with each other, the U.S. Department of Homeland Security and the National Institute of Standards and Technology are sponsoring BSI for ROIP, a draft standard for enabling different Radio over IP technologies to interoperate.
+Radio Control over IP (RCoIP) provides the essential signaling and management for voice messages required for Critical Communications and is a step up from Radio over IP (RoIP).  RCoIP is designed so that essential messages get through by using confirmed signaling.
+
+## Related
+
+- [[Bridging Systems Interface]]
+- [[Asynchronous Layered Coding]]
+- [[Automatic Certificate Management Environment]]
+- [[BEEP]]
+- [[Berkeley r-commands]]
+- [[BGP Monitoring Protocol]]
+- [[Bidirectional Forwarding Detection]]
+- [[Binkp]]
+- [[Bootstrap Protocol]]
+- [[Border Gateway Multicast Protocol]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Radio_over_IP

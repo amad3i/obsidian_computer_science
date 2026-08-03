@@ -1,0 +1,28 @@
+---
+title: "Maritime simulator"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Maritime_simulator"
+wikipedia_categories: ["Education stubs"]
+related: ["[[Data literacy]]", "[[Internet services technology]]", "[[Knowledge Machine]]", "[[Repetitive control]]", "[[Student information system]]", "[[Toy problem]]"]
+---
+
+# Maritime simulator
+
+A maritime simulator or ship simulator is a system that simulates ships and maritime environments for training, research and other purposes. Today, simulator training given by maritime schools and academies is part of the basic training of maritime professionals.
+At minimum, a maritime simulator consists of a software that realistically simulates the dynamic behavior of a vessel and its systems in a simulated maritime environment and an interface that allows the person using the simulator to control the vessel and interact with its simulated surroundings. In case of so-called full mission bridge simulators, this interface consists of a realistic mock-up of the vessel's bridge and control consoles, and screens or projectors providing up to 360-degree virtual view of the ship's surroundings similar to flight simulators in the aviation industry. Without the real-time visualization, the simulation software can also be used for "fast time" simulations where the vessels are controlled by autopilot. In addition, there are maritime simulators for example for ECDIS, engine room, and cargo handling operations, as well as shore-side operations such as Vessel Traffic Service (VTS).
+Maritime simulation games such as Ship Simulator and Virtual Sailor are also available for home users.
+
+## Related
+
+- [[Data literacy]]
+- [[Internet services technology]]
+- [[Knowledge Machine]]
+- [[Repetitive control]]
+- [[Student information system]]
+- [[Toy problem]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Maritime_simulator

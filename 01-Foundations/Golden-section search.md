@@ -1,0 +1,30 @@
+---
+title: "Golden-section search"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Golden-section_search"
+wikipedia_categories: ["Golden ratio", "Optimization algorithms and methods", "Search algorithms"]
+related: ["[[Alpha–beta pruning]]", "[[Minimax]]", "[[Parallel metaheuristic]]", "[[Ternary search]]", "[[(1+ε)-approximate nearest neighbor search]]", "[[A- search algorithm]]", "[[All nearest smaller values]]", "[[Amplitude amplification]]", "[[Ant colony optimization algorithms]]", "[[Anytime A-]]"]
+---
+
+# Golden-section search
+
+The golden-section search is a technique for finding an extremum (minimum or maximum) of a function inside a specified interval. For a strictly unimodal function with an extremum inside the interval, it will find that extremum, while for an interval containing multiple extrema (possibly including the interval boundaries), it will converge to one of them. If the only extremum on the interval is on a boundary of the interval, it will converge to that boundary point. The method operates by successively narrowing the range of values on the specified interval, which makes it relatively slow, but very robust. The technique derives its name from the fact that the algorithm maintains the function values for four points whose three interval widths are in the ratio φ:1:φ, where φ is the golden ratio. These ratios are maintained for each iteration and are maximally efficient. Excepting boundary points, when searching for a minimum, the central point is always less than or equal to the outer points, assuring that a minimum is contained between the outer points. The converse is true when searching for a maximum. The algorithm is the limit of Fibonacci search (also described below) for many function evaluations. Fibonacci search and golden-section search were discovered by Kiefer (1953) (see also Avriel and Wilde (1966)).
+
+## Related
+
+- [[Alpha–beta pruning]]
+- [[Minimax]]
+- [[Parallel metaheuristic]]
+- [[Ternary search]]
+- [[(1+ε)-approximate nearest neighbor search]]
+- [[A- search algorithm]]
+- [[All nearest smaller values]]
+- [[Amplitude amplification]]
+- [[Ant colony optimization algorithms]]
+- [[Anytime A-]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Golden-section_search

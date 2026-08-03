@@ -1,0 +1,43 @@
+---
+title: "DAP FORTRAN"
+tags: ["cs", "programming-languages", "intermediate"]
+domain: Programming & Languages
+level: intermediate
+source: "https://en.wikipedia.org/wiki/DAP_FORTRAN"
+wikipedia_categories: ["Concurrent programming languages", "Fortran programming language family", "ICL programming languages", "SIMD computing"]
+related: ["[[Fortress (programming language)]]", "[[High Performance Fortran]]", "[[-Lisp]]", "[[Actor-Based Concurrent Language]]", "[[AgentSheets]]", "[[Alef (programming language)]]", "[[Algorithmic skeleton]]", "[[AmbientTalk]]", "[[Ateji PX]]", "[[Automatic vectorization]]"]
+---
+
+# DAP FORTRAN
+
+DAP FORTRAN was an extension of the non IO parts of FORTRAN with constructs that supported parallel computing for the
+ICL Distributed Array Processor (DAP). The DAP had a Single Instruction Multiple Data (SIMD) architecture with 64x64 single bit processors.
+DAP FORTRAN had the following major features:
+
+It had matrix and vector operations.
+Assignments could be performed under a logical mask so only some elements in the target of an assignment were changed.
+On the negative side - operations were performed using the size of the underlying hardware i.e. on a 64x64 matrix or 64 element vector.
+In a declaration either one or two extents could be omitted as in:
+
+The omitted dimension was taken as 64, the size of one side of the DAP. The speed of arithmetic operations depended strongly on the number of bits in the value. INTEGER*n reserved 8n bits where n is 1 to 8, and REAL*n reserved 8n bits where n is 3 to 8. LOGICAL reserved a single bit.
+However, DAP FORTRAN fell between two conflicting objectives. It needed to effectively exploit the DAP facilities. But also had to be accessible to the scientific computing community whose primary language, with a design closely tied to serial architectures, was FORTRAN. The dialect used was ICL's 2900-series FORTRAN which was based on an early version of the FORTRAN 77 standard and had mismatches with both FORTRAN 77 and the older FORTRAN 66 standard.
+DAP FORTRAN was significantly different from either standard FORTRAN and the machine was not capable of accepting or optimising standard FORTRAN programs. On the other hand, compared with other contemporary languages which were by design extensible (notably ALGOL-68), FORTRAN was less than well suited to this task. The result was noticeably inelegant and did require a great deal of new learning. Operationally, there was an overhead to transfer computational data into and out of the array, and problems which did not fit the 64x64 matrix imposed additional complexity to handle the boundaries (65x65 was perhaps the worst case!) – but for problems which suited the architecture, it could outperform the current Cray pipeline architectures by two orders of magnitude.
+A later version of the DAP used Fortran-Plus instead which was based on
+FORTRAN 77 and had more flexible indexing. In particular it automatically mapped user sized arrays onto the underlying hardware.
+
+## Related
+
+- [[Fortress (programming language)]]
+- [[High Performance Fortran]]
+- [[-Lisp]]
+- [[Actor-Based Concurrent Language]]
+- [[AgentSheets]]
+- [[Alef (programming language)]]
+- [[Algorithmic skeleton]]
+- [[AmbientTalk]]
+- [[Ateji PX]]
+- [[Automatic vectorization]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/DAP_FORTRAN

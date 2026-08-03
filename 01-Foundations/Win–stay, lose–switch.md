@@ -1,0 +1,33 @@
+---
+title: "Win–stay, lose–switch"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Win–stay,_lose–switch"
+wikipedia_categories: ["Computational learning theory", "Heuristics", "Strategy (game theory)"]
+related: ["[[Admissible heuristic]]", "[[Algorithmic learning theory]]", "[[Bondy's theorem]]", "[[Cheap talk]]", "[[Collusion]]", "[[Commitment device]]", "[[Computational heuristic intelligence]]", "[[Concept class]]", "[[Cross-entropy method]]", "[[Distribution learning theory]]"]
+---
+
+# Win–stay, lose–switch
+
+In psychology, game theory, statistics, and machine learning, win–stay, lose–switch (also win–stay, lose–shift or Pavlov, named after Ivan Pavlov) is a heuristic learning strategy used to model learning in decision situations.  It was first invented as an improvement over randomization in bandit problems.  It was later applied to the prisoner's dilemma in order to model the evolution of altruism.
+In most versions, it starts either with a cooperate, then proceeds as always, or starts with a "probe" of cooperate-defect-cooperate to determine the other player's strategy. A mutual cooperation is regarded as a win.
+The learning rule bases its decision only on the outcome of the previous play.  Outcomes are divided into successes (wins) and failures (losses).  If the play on the previous round resulted in a success, then the agent plays the same strategy on the next round.  Alternatively, if the play resulted in a failure the agent switches to another action.
+A large-scale empirical study of players of the game rock, paper, scissors shows that a variation of this strategy is adopted by real-world players of the game, instead of the Nash equilibrium strategy of choosing entirely at random between the three options.
+
+## Related
+
+- [[Admissible heuristic]]
+- [[Algorithmic learning theory]]
+- [[Bondy's theorem]]
+- [[Cheap talk]]
+- [[Collusion]]
+- [[Commitment device]]
+- [[Computational heuristic intelligence]]
+- [[Concept class]]
+- [[Cross-entropy method]]
+- [[Distribution learning theory]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Win–stay,_lose–switch

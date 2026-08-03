@@ -1,0 +1,32 @@
+---
+title: "Isolated brain"
+tags: ["cs", "graphics-vision", "intermediate"]
+domain: Graphics & Vision
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Isolated_brain"
+wikipedia_categories: ["Brain", "Science fiction themes", "Simulation", "Virtual reality"]
+related: ["[[Enterprise Dynamics]]", "[[Imagination Age]]", "[[Simulation hypothesis]]", "[[Virtual world]]", "[[360 video projection]]", "[[360-degree video]]", "[[3D computer graphics]]", "[[3D stereo view]]", "[[3D tracking]]", "[[A-Frame (software)]]"]
+---
+
+# Isolated brain
+
+An isolated brain is a brain kept alive in vitro, either by perfusion or by a blood substitute, often an oxygenated solution of various salts, or by submerging the brain in oxygenated artificial cerebrospinal fluid (CSF). It is the biological counterpart of brain in a vat. A related concept, attaching the brain or head to the circulatory system of another organism, is called a brain transplant or a head transplant. An isolated brain, however, is more typically attached to an artificial perfusion device rather than a biological body.
+The brains of many different organisms have been kept alive in vitro for hours, or in some cases days. The central nervous system of invertebrate animals is often easily maintained as they need less oxygen and to a larger extent get their oxygen from CSF; for this reason their brains are more easily maintained without perfusion. Mammalian brains, on the other hand, have a much lesser degree of survival without perfusion and an artificial blood perfusate is usually used.
+For methodological reasons, most research on isolated mammalian brains has been done with guinea pigs. These animals have a significantly larger basilar artery compared to rats and mice, which make cannulation (to supply CSF) much easier.
+
+## Related
+
+- [[Enterprise Dynamics]]
+- [[Imagination Age]]
+- [[Simulation hypothesis]]
+- [[Virtual world]]
+- [[360 video projection]]
+- [[360-degree video]]
+- [[3D computer graphics]]
+- [[3D stereo view]]
+- [[3D tracking]]
+- [[A-Frame (software)]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Isolated_brain

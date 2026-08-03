@@ -1,0 +1,34 @@
+---
+title: "AlphaGo"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/AlphaGo"
+wikipedia_categories: ["2015 software", "2016 in artificial intelligence", "AlphaGo", "Applied machine learning", "Go engines"]
+related: ["[[AlphaGo Zero]]", "[[Darkforest]]", "[[A-Frame (software)]]", "[[Activity recognition]]", "[[AlchemyAPI]]", "[[Apache CarbonData]]", "[[Apache Hive]]", "[[BookStack]]", "[[DeepArt]]", "[[DeepDream]]"]
+---
+
+# AlphaGo
+
+AlphaGo is a computer program that plays the board game Go. It was developed by the London-based DeepMind Technologies, an acquired subsidiary of Google. Subsequent versions of AlphaGo became increasingly powerful, including a version that competed under the name Master. After retiring from competitive play, AlphaGo Master was succeeded by an even more powerful version known as AlphaGo Zero, which was completely self-taught without learning from human games. AlphaGo Zero was then generalized into a program known as AlphaZero, which played additional games, including chess and shogi.  AlphaZero has in turn been succeeded by a program known as MuZero which learns without being taught the rules.
+AlphaGo and its successors use a Monte Carlo tree search algorithm to find its moves based on knowledge previously acquired by machine learning, specifically by an artificial neural network (a deep learning method) by extensive training, both from human and computer play. A neural network is trained to identify the best moves and the winning percentages of these moves. This neural network improves the strength of the tree search, resulting in stronger move selection in the next iteration.
+In October 2015, in a match against Fan Hui, the original AlphaGo became the first computer Go program to beat a human professional Go player without handicap on a full-sized 19×19 board. In March 2016, it beat Lee Sedol in a five-game match, the first time a computer Go program has beaten a 9-dan professional without handicap. Although it lost to Lee Sedol in the fourth game, Lee resigned in the final game, giving a final score of 4 games to 1 in favour of AlphaGo. In recognition of the victory, AlphaGo was awarded an honorary 9-dan by the Korea Baduk Association. The lead up and the challenge match with Lee Sedol were documented in a documentary film also titled AlphaGo, directed by Greg Kohs. The win by AlphaGo was chosen by Science as one of the Breakthrough of the Year runners-up on 22 December 2016.
+At the 2017 Future of Go Summit, the Master version of AlphaGo beat Ke Jie, the number one ranked player in the world at the time, in a three-game match, after which AlphaGo was awarded professional 9-dan by the Chinese Weiqi Association.
+After the match between AlphaGo and Ke Jie, DeepMind retired AlphaGo, while continuing AI research in other areas. The self-taught AlphaGo Zero achieved a 100–0 victory against the early competitive version of AlphaGo, and its successor AlphaZero was perceived as the world's top player in Go by the end of the 2010s.
+
+## Related
+
+- [[AlphaGo Zero]]
+- [[Darkforest]]
+- [[A-Frame (software)]]
+- [[Activity recognition]]
+- [[AlchemyAPI]]
+- [[Apache CarbonData]]
+- [[Apache Hive]]
+- [[BookStack]]
+- [[DeepArt]]
+- [[DeepDream]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/AlphaGo

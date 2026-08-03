@@ -1,0 +1,32 @@
+---
+title: "Noisy intermediate-scale quantum computing"
+tags: ["cs", "algorithms-data-structures", "advanced"]
+domain: Algorithms & Data Structures
+level: advanced
+source: "https://en.wikipedia.org/wiki/Noisy_intermediate-scale_quantum_computing"
+wikipedia_categories: ["Computational complexity theory", "Computer architecture statements", "History of computing hardware", "Quantum computing", "Quantum information science"]
+related: ["[[Circuit Layer Operations per Second]]", "[[Classical shadow]]", "[[Cloud-based quantum computing]]", "[[Cross-entropy benchmarking]]", "[[D-Wave Systems]]", "[[Hamiltonian quantum computation]]", "[[IQM Quantum Computers]]", "[[List of quantum software]]", "[[Moore's law]]", "[[Neutral atom quantum computer]]"]
+---
+
+# Noisy intermediate-scale quantum computing
+
+Noisy intermediate-scale quantum (NISQ) computing is characterized by quantum processors containing up to 1,000 qubits which are not advanced enough yet for fault-tolerance or large enough to achieve quantum advantage. These processors, which are sensitive to their environment (noisy) and prone to quantum decoherence, are not yet capable of continuous quantum error correction. This intermediate-scale is defined by the quantum volume, which is based on a moderate number of qubits and gate fidelity. The NISQ era is the current state of quantum computer technology, and the term was coined by John Preskill in 2018.
+According to Microsoft Azure Quantum's scheme, NISQ computation is considered level 1, the lowest of the quantum computing implementation levels.
+In October 2023, the 1,000 qubit mark was passed for the first time by Atom Computing's 1,180 qubit quantum processor.  However, as of 2024, only two quantum processors have over 1,000 qubits, with sub-1,000 quantum processors still remaining the norm.
+
+## Related
+
+- [[Circuit Layer Operations per Second]]
+- [[Classical shadow]]
+- [[Cloud-based quantum computing]]
+- [[Cross-entropy benchmarking]]
+- [[D-Wave Systems]]
+- [[Hamiltonian quantum computation]]
+- [[IQM Quantum Computers]]
+- [[List of quantum software]]
+- [[Moore's law]]
+- [[Neutral atom quantum computer]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Noisy_intermediate-scale_quantum_computing

@@ -1,0 +1,30 @@
+---
+title: "Kalman decomposition"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Kalman_decomposition"
+wikipedia_categories: ["Control theory"]
+related: ["[[4D-RCS Reference Model Architecture]]", "[[Ackermann's formula]]", "[[Active disturbance rejection control]]", "[[Adaptive control]]", "[[Advanced process control]]", "[[Affect control theory]]", "[[American Automatic Control Council]]", "[[Anticausal system]]", "[[Artstein's theorem]]", "[[Asymptotic gain model]]"]
+---
+
+# Kalman decomposition
+
+In control theory, a Kalman decomposition provides a mathematical means to convert a representation of any linear time-invariant (LTI) control system to a form in which the system can be decomposed into a standard form which makes clear the observable and controllable components of the system. This decomposition results in the system being presented with a more illuminating structure, making it easier to draw conclusions on the system's reachable and observable subspaces.
+
+## Related
+
+- [[4D-RCS Reference Model Architecture]]
+- [[Ackermann's formula]]
+- [[Active disturbance rejection control]]
+- [[Adaptive control]]
+- [[Advanced process control]]
+- [[Affect control theory]]
+- [[American Automatic Control Council]]
+- [[Anticausal system]]
+- [[Artstein's theorem]]
+- [[Asymptotic gain model]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Kalman_decomposition

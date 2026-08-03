@@ -1,0 +1,33 @@
+---
+title: "Discovery shopping"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Discovery_shopping"
+wikipedia_categories: ["E-commerce"]
+related: ["[[Abandonment rate]]", "[[Abdullah bin Ibrahim Al-Saleh]]", "[[AdsML]]", "[[Agentic commerce]]", "[[Amazon China]]", "[[Amazon Effect]]", "[[ATRenew]]", "[[B2B e-commerce]]", "[[Brushing (e-commerce)]]", "[[Business-to-employee]]"]
+---
+
+# Discovery shopping
+
+Discovery shopping (also known as discovery shopping search) is a type of online shopping that emphasizes the browsing aspects of the shopping experience.  Discovery shopping search offers shoppers guided queries for more personalized results. The goal is to recreate the experience of live shopping as a leisure activity, where the items are selected by sampling or viewing a variety of similar or related goods. This is sometimes referred to as window shopping.
+Unlike a Comparison Shopping Engine which evaluates prices and feature sets for identical or very closely related products, discovery shopping enables users to tailor product results to suit their preferences. To achieve this experience online, discovery shopping sites offer features such as specifying styles, colors and brands, showing similar items, and displaying results in a visually engaging format.  Such tools allow shoppers to narrow down from a large to number of choices to a set of products that they find appealing. Comprehensiveness and relevancy are also critical factors, since choice and accuracy increase a shopper's chances of finding a product they wish to purchase.
+Discovery search was pegged as a hot trend for 2007, according to a recent report from Forrester Research.
+According to Silicon Valley strategy consultant Sramana Mitra, examples of discovery shopping sites include TheFind.com, Listar, ShopStyle.com.
+
+## Related
+
+- [[Abandonment rate]]
+- [[Abdullah bin Ibrahim Al-Saleh]]
+- [[AdsML]]
+- [[Agentic commerce]]
+- [[Amazon China]]
+- [[Amazon Effect]]
+- [[ATRenew]]
+- [[B2B e-commerce]]
+- [[Brushing (e-commerce)]]
+- [[Business-to-employee]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Discovery_shopping

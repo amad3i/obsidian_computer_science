@@ -1,0 +1,31 @@
+---
+title: "Remainder"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Remainder"
+wikipedia_categories: ["Division (mathematics)", "Number theory"]
+related: ["[[Lone divider]]", "[[3x + 1 semigroup]]", "[[Abc conjecture]]", "[[Abel's summation formula]]", "[[Algebraic number theory]]", "[[Amenable number]]", "[[Amicable triple]]", "[[An Introduction to the Theory of Numbers]]", "[[Arithmetic derivative]]", "[[Arithmetic group]]"]
+---
+
+# Remainder
+
+In mathematics, the remainder is the amount "left over" after performing some computation. In arithmetic, the remainder is the integer "left over" after dividing one integer by another to produce an integer quotient (integer division). In algebra of polynomials, the remainder is the polynomial "left over" after dividing one polynomial by another. The modulo operation is the operation that produces such a remainder when given a dividend and divisor.
+Alternatively, a remainder is also what is left after subtracting one number from another, although this is more precisely called the difference. This usage can be found in some elementary textbooks; colloquially, it is replaced by the expression "the rest" as in "Give me two dollars back and keep the rest." However, the term "remainder" is still used in this sense when a function is approximated by a series expansion, where the error expression ("the rest") is referred to as the remainder term.
+
+## Related
+
+- [[Lone divider]]
+- [[3x + 1 semigroup]]
+- [[Abc conjecture]]
+- [[Abel's summation formula]]
+- [[Algebraic number theory]]
+- [[Amenable number]]
+- [[Amicable triple]]
+- [[An Introduction to the Theory of Numbers]]
+- [[Arithmetic derivative]]
+- [[Arithmetic group]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Remainder

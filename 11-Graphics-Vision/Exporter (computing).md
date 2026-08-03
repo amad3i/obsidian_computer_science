@@ -1,0 +1,32 @@
+---
+title: "Exporter (computing)"
+tags: ["cs", "graphics-vision", "intermediate"]
+domain: Graphics & Vision
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Exporter_(computing)"
+wikipedia_categories: ["Video game development"]
+related: ["[[2.5D]]", "[[2022–2026 video game industry layoffs]]", "[[AAA (video game industry)]]", "[[AbleGamers]]", "[[Academy of Interactive Arts & Sciences]]", "[[Amazon Lumberyard]]", "[[Artificial intelligence in video games]]", "[[Asset flip]]", "[[Atari 2600 homebrew]]", "[[Australian Game Developers Conference]]"]
+---
+
+# Exporter (computing)
+
+An exporter is a software application that writes out a data file in a format different from its native format.  It does this via special algorithms (such as filters).  An exporter often is not an entire program by itself, but an extension to another program, implemented as a plug-in.  When implemented in this way, the exporter converts the hosting application's native format into the desired format and writes it to the file.
+For example, a 3D model may be written with a modeler, such as 3D Studio Max.  A game developer may want to use that model in its game, but uses a custom format that is different from 3D Studio Max's native format.  Using the exporter, the model can be saved in the developer's native format and then read into the game (or a tool) without any extra conversion.  Using exporters, game tools can also export from their native format into formats for other applications (such as the modeler or a paint program, such as Photoshop).
+Exporters are important tools in the video game industry. A plug-in or application that does the converse of an exporter is called an importer.  Importers and exporters are often used in conjunction with one another in many software development environments.
+
+## Related
+
+- [[2.5D]]
+- [[2022–2026 video game industry layoffs]]
+- [[AAA (video game industry)]]
+- [[AbleGamers]]
+- [[Academy of Interactive Arts & Sciences]]
+- [[Amazon Lumberyard]]
+- [[Artificial intelligence in video games]]
+- [[Asset flip]]
+- [[Atari 2600 homebrew]]
+- [[Australian Game Developers Conference]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Exporter_(computing)

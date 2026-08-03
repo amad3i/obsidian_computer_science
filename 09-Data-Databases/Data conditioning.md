@@ -1,0 +1,32 @@
+---
+title: "Data conditioning"
+tags: ["cs", "data-databases", "intermediate"]
+domain: Data & Databases
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Data_conditioning"
+wikipedia_categories: ["Data management"]
+related: ["[[Abstraction (computer science)]]", "[[Address space]]", "[[ADO.NET]]", "[[Altitude3.Net]]", "[[ANSI 834 Enrollment Implementation Format]]", "[[Approximate inference]]", "[[Archive site]]", "[[Asset Description Metadata Schema]]", "[[Association rule learning]]", "[[Astroinformatics]]"]
+---
+
+# Data conditioning
+
+Data conditioning is the use of data management and optimization techniques which result in the intelligent routing, optimization and protection of data for storage or data movement in a computer system. Data conditioning features enable enterprise and cloud data centers to dramatically improve system utilization and increase application performance lowering both capital expenditures and operating costs.
+Data conditioning technologies delivered through a Data Conditioning Platform optimize data as it moves through a computer’s I/O (Input/Output) path or I/O bus—the data path between the main processor complex and storage subsystems. The functions of a Data Conditioning Platform typically reside on a storage controller add-in card inserted into the PCI-e slots of a server. This enables easy integration of new features in a server or a whole data center.
+Data conditioning features delivered via a Data Conditioning Platform are designed to simplify system integration, and minimize implementation risks associated with deploying new technologies by ensuring seamless compatibility with all leading server and storage hardware, operating systems and applications, and meeting all current commercial/off-the-shelf (COTS) standards. By delivering optimization features via a Data Conditioning Platform, data center managers can improve system efficiency and reduce cost with minimal disruption and avoid the need to modify existing applications or operating systems, and leverage existing hardware systems.
+
+## Related
+
+- [[Abstraction (computer science)]]
+- [[Address space]]
+- [[ADO.NET]]
+- [[Altitude3.Net]]
+- [[ANSI 834 Enrollment Implementation Format]]
+- [[Approximate inference]]
+- [[Archive site]]
+- [[Asset Description Metadata Schema]]
+- [[Association rule learning]]
+- [[Astroinformatics]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Data_conditioning

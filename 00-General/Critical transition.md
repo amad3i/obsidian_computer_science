@@ -1,0 +1,30 @@
+---
+title: "Critical transition"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Critical_transition"
+wikipedia_categories: ["Systems theory"]
+related: ["[[Active and passive transformation]]", "[[Activity cycle diagram]]", "[[Allopoiesis]]", "[[Anticausal system]]", "[[Antifragility]]", "[[Autopoiesis]]", "[[Behavioral modeling]]", "[[Biomatrix systems theory]]", "[[Bistritz stability criterion]]", "[[Black box]]"]
+---
+
+# Critical transition
+
+Critical transitions are abrupt shifts in the state of ecosystems, the climate, financial and economic systems or other complex dynamical systems that may occur when changing conditions pass a critical or bifurcation point. As such, they are a particular type of regime shift. Recovery from such shifts may require more than a simple return to the conditions at which a transition occurred, a phenomenon called hysteresis. In addition to natural systems, critical transitions are also studied in psychology, medicine, economics, sociology, military, and several other disciplines.
+
+## Related
+
+- [[Active and passive transformation]]
+- [[Activity cycle diagram]]
+- [[Allopoiesis]]
+- [[Anticausal system]]
+- [[Antifragility]]
+- [[Autopoiesis]]
+- [[Behavioral modeling]]
+- [[Biomatrix systems theory]]
+- [[Bistritz stability criterion]]
+- [[Black box]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Critical_transition

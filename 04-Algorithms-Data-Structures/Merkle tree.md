@@ -1,0 +1,32 @@
+---
+title: "Merkle tree"
+tags: ["cs", "algorithms-data-structures", "intermediate"]
+domain: Algorithms & Data Structures
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Merkle_tree"
+wikipedia_categories: ["Cryptographic hash functions", "Error detection and correction", "Hashing", "Trees (data structures)"]
+related: ["[[Hash calendar]]", "[[Hash list]]", "[[Comparison of cryptographic hash functions]]", "[[Cryptographic hash function]]", "[[Puzzle friendliness]]", "[[Shabal]]", "[[Universal hashing]]", "[[Abstract syntax tree]]", "[[Acknowledgement (data networks)]]", "[[Alternant code]]"]
+---
+
+# Merkle tree
+
+In cryptography and computer science, a hash tree or Merkle tree is a tree in which every "leaf" node is labelled with the cryptographic hash of a data block, and every node that is not a leaf (called a branch, inner node, or inode) is labelled with the cryptographic hash of the labels of its child nodes. A hash tree allows efficient and secure verification of the contents of a large data structure. A hash tree is a generalization of a hash list and a hash chain.
+Demonstrating that a leaf node is a part of a given binary hash tree requires computing a number of hashes proportional to the logarithm of the number of leaf nodes in the tree. Conversely, in a hash list, the number is proportional to the number of leaf nodes itself. A Merkle tree is therefore an efficient example of a cryptographic commitment scheme, in which the root of the tree is seen as a commitment and leaf nodes may be revealed and proven to be part of the original commitment.
+The concept of a hash tree is named after Ralph Merkle, who patented it in 1979.
+
+## Related
+
+- [[Hash calendar]]
+- [[Hash list]]
+- [[Comparison of cryptographic hash functions]]
+- [[Cryptographic hash function]]
+- [[Puzzle friendliness]]
+- [[Shabal]]
+- [[Universal hashing]]
+- [[Abstract syntax tree]]
+- [[Acknowledgement (data networks)]]
+- [[Alternant code]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Merkle_tree

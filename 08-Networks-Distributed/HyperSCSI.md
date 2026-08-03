@@ -1,0 +1,33 @@
+---
+title: "HyperSCSI"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/HyperSCSI"
+wikipedia_categories: ["Ethernet", "Network protocols", "SCSI"]
+related: ["[[ATA over Ethernet]]", "[[Autonegotiation]]", "[[Ethernet Automatic Protection Switching]]", "[[Ethernet over SDH]]", "[[Internet Fibre Channel Protocol]]", "[[Medium-dependent interface]]", "[[Network Direct Attached Storage]]", "[[PME Aggregation Function]]", "[[Synchronous Ethernet]]", "[[Time-Sensitive Networking]]"]
+---
+
+# HyperSCSI
+
+HyperSCSI is an outdated computer network protocol for accessing storage by sending and receiving SCSI commands. It was developed by researchers at the Data Storage Institute in Singapore in 2000 to 2003.
+HyperSCSI is unlike iSCSI in that it bypassed the internet protocol suite (TCP/IP) and works directly over Ethernet to form its storage area network (SAN). It skipped the routing, retransmission, segmentation, reassembly, and all the other problems that the TCP/IP suite addresses. Compared to iSCSI, this was meant to give a performance benefit at the cost of IP's flexibility. An independent performance test showed that performance was unstable with network congestion.
+Since HyperSCSI was in direct competition with the older and well established Fibre Channel, and the standardized iSCSI, it was not adopted by commercial vendors. Some researchers at Huazhong University of Science and Technology noted the failure to provide any transport layer protocol, so implemented a reliability layer in 2007.
+Another version called HS/IP was developed over the Internet Protocol (IP).
+
+## Related
+
+- [[ATA over Ethernet]]
+- [[Autonegotiation]]
+- [[Ethernet Automatic Protection Switching]]
+- [[Ethernet over SDH]]
+- [[Internet Fibre Channel Protocol]]
+- [[Medium-dependent interface]]
+- [[Network Direct Attached Storage]]
+- [[PME Aggregation Function]]
+- [[Synchronous Ethernet]]
+- [[Time-Sensitive Networking]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/HyperSCSI

@@ -1,0 +1,31 @@
+---
+title: "Numerical methods in fluid mechanics"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Numerical_methods_in_fluid_mechanics"
+wikipedia_categories: ["Computational fluid dynamics", "Functional analysis", "Numerical analysis"]
+related: ["[[Explicit algebraic stress model]]", "[[Scarborough criterion]]", "[[Discretization]]", "[[Finite volume method]]", "[[Gap metric]]", "[[Kantorovich theorem]]", "[[Material point method]]", "[[Mesh generation]]", "[[Meshfree methods]]", "[[Momentum mapping format]]"]
+---
+
+# Numerical methods in fluid mechanics
+
+Fluid motion is governed by the Navier–Stokes equations, a set of coupled and nonlinear partial differential equations derived from the basic laws of conservation of mass, momentum and energy. The unknowns are usually the flow velocity, the pressure and density  and temperature. The analytical solution of this equation is impossible hence scientists resort to laboratory experiments in such situations. The answers delivered are, however, usually qualitatively different since dynamical and geometric similitude are difficult to enforce simultaneously between the lab experiment and the prototype. Furthermore, the design and construction of these experiments can be difficult (and costly), particularly for stratified rotating flows. 
+Computational fluid dynamics (CFD) is an additional tool in the arsenal of scientists. In its early days CFD was often controversial, as it involved additional approximation to the governing equations and raised additional (legitimate) issues. Nowadays CFD is an established discipline alongside theoretical and experimental methods. This position is in large part due to the exponential growth of computer power which has allowed us to tackle ever larger and more complex problems.
+
+## Related
+
+- [[Explicit algebraic stress model]]
+- [[Scarborough criterion]]
+- [[Discretization]]
+- [[Finite volume method]]
+- [[Gap metric]]
+- [[Kantorovich theorem]]
+- [[Material point method]]
+- [[Mesh generation]]
+- [[Meshfree methods]]
+- [[Momentum mapping format]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Numerical_methods_in_fluid_mechanics

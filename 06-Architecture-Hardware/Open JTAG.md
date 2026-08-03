@@ -1,0 +1,32 @@
+---
+title: "Open JTAG"
+tags: ["cs", "architecture-hardware", "intermediate"]
+domain: Architecture & Hardware
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Open_JTAG"
+wikipedia_categories: ["Embedded systems", "Free and open-source software stubs", "Software using the GNU Lesser General Public License"]
+related: ["[[Apache Celix]]", "[[JOONE]]", "[[Open Computer Forensics Architecture]]", "[[Open Programming Language]]", "[[TI StarterWare]]", "[[Adesto Technologies]]", "[[ADvantage Framework]]", "[[Anti-hijack system]]", "[[ARToolKit]]", "[[ASCEND]]"]
+---
+
+# Open JTAG
+
+The Open JTAG project is an open source project released under GNU License.
+It is a complete hardware and software JTAG reference design, based on a simple hardware composed by a FTDI FT245 USB front-end and an Altera EPM570 MAX II CPLD. The capabilities of this hardware configuration make the Open JTAG device able to output TCK signals at 24 MHz using macro-instructions sent from the host end.
+The scope is to give the community a JTAG device not based on the PC parallel port: Open JTAG uses the USB channel to communicate with the internal CPLD, sending macro-instructions as fast as possible. The complete project (Beta version) is available at OpenCores.org and the Open JTAG project official site.
+
+## Related
+
+- [[Apache Celix]]
+- [[JOONE]]
+- [[Open Computer Forensics Architecture]]
+- [[Open Programming Language]]
+- [[TI StarterWare]]
+- [[Adesto Technologies]]
+- [[ADvantage Framework]]
+- [[Anti-hijack system]]
+- [[ARToolKit]]
+- [[ASCEND]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Open_JTAG

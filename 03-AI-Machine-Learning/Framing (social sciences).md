@@ -1,0 +1,33 @@
+---
+title: "Framing (social sciences)"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Framing_(social_sciences)"
+wikipedia_categories: ["Cognitive biases", "Framing (social sciences)", "Knowledge representation", "Media studies", "Propaganda techniques", "Prospect theory", "Psychological warfare techniques", "Social constructionism"]
+related: ["[[Hallin's spheres]]", "[[Pretext]]", "[[4E cognition]]", "[[Aesthetic–usability effect]]", "[[Agent Communications Language]]", "[[Agentive logic]]", "[[AgMES]]", "[[Agricultural Information Management Standards]]", "[[AGROVOC]]", "[[Allen's interval algebra]]"]
+---
+
+# Framing (social sciences)
+
+In the social sciences, framing is a set of concepts and theoretical perspectives on how individuals, groups, and societies organize, perceive, and communicate about reality. Framing can manifest in thought or interpersonal communication. Frames in thought consist of the mental representations, interpretations, and simplifications of reality. Frames in communication consist of the communication of frames between different actors. Framing is a key component of sociology, the study of social interaction among humans. Framing is an integral part of conveying and processing data daily. Successful framing techniques can be used to reduce the ambiguity of intangible topics by contextualizing the information in such a way that recipients can connect to what they already know.
+In social theory, framing is a schema of interpretation, a collection of anecdotes and stereotypes, that individuals rely on to understand and respond to events. In other words, people build a series of mental "filters" through biological and cultural influences. They then use these filters to make sense of the world. The choices they then make are influenced by their creation of a frame. Framing involves social construction of a social phenomenon – by mass media sources, political or social movements, political leaders, or other actors and organizations. Participation in a language community necessarily influences an individual's perception of the meanings attributed to words or phrases. Politically, the language communities of advertising, religion, and mass media are highly contested, whereas framing in less-sharply defended language communities might evolve imperceptibly and organically over cultural time frames, with fewer overt modes of disputation.
+One can view framing in communication as positive or negative – depending on the audience and what kind of information is being presented. The framing may be in the form of equivalence frames, where two or more logically equivalent alternatives are portrayed in different ways (see framing effect) or emphasis frames, which simplify reality by focusing on a subset of relevant aspects of a situation or issue. In the case of "equivalence frames", the information being presented is based on the same facts, but the "frame" in which it is presented changes, thus creating a reference-dependent perception.
+The effects of framing can be seen in journalism: the frame surrounding the issue can change the reader's perception without having to alter the actual facts as the same information is used as a base. This is done through the media's choice of certain words and images to cover a story (e.g. using the word fetus vs. the word baby). In the context of politics or mass-media communication, a frame defines the packaging of an element of rhetoric in such a way as to encourage certain interpretations and to discourage others. For political purposes, framing often presents facts in such a way that implicates a problem that requires a solution. Members of political parties attempt to frame issues in a way that makes a solution favoring their own political leaning appear as the most appropriate course of action for the situation at hand.
+
+## Related
+
+- [[Hallin's spheres]]
+- [[Pretext]]
+- [[4E cognition]]
+- [[Aesthetic–usability effect]]
+- [[Agent Communications Language]]
+- [[Agentive logic]]
+- [[AgMES]]
+- [[Agricultural Information Management Standards]]
+- [[AGROVOC]]
+- [[Allen's interval algebra]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Framing_(social_sciences)

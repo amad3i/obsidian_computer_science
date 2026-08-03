@@ -1,0 +1,33 @@
+---
+title: "Fuzzy logic"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Fuzzy_logic"
+wikipedia_categories: ["Fuzzy logic", "Logic in computer science", "Non-classical logic", "Probability interpretations"]
+related: ["[[Combs method]]", "[[Computability logic]]", "[[Constructive logic]]", "[[Dynamic logic (modal logic)]]", "[[Intuitionistic logic]]", "[[Noise-based logic]]", "[[Ordered weighted averaging]]", "[[Preferential entailment]]", "[[SQLf]]", "[[Type-1 OWA operators]]"]
+---
+
+# Fuzzy logic
+
+Fuzzy logic is a form of many-valued logic in which the truth value of variables may be any real number between 0 and 1. It is employed to handle the concept of partial truth, where the truth value may range between completely true and completely false. By contrast, in Boolean logic, the truth values of variables may only be the integer values 0 or 1.
+The term fuzzy logic was introduced with the 1965 proposal of fuzzy set theory by mathematician Lotfi Zadeh. Basic fuzzy logic had, however, been studied since the 1920s, as infinite-valued logic—notably by Łukasiewicz and Tarski. The works of Zadeh and Joseph Goguen in the 1960s and 1970s went further by considering issues such as linguistic variables and lattices.
+Fuzzy logic is based on the observation that people make decisions based on imprecise and non-numerical information. Fuzzy models or fuzzy sets are mathematical means of representing vagueness and imprecise information (hence the term fuzzy). These models have the capability of recognising, representing, manipulating, interpreting, and using data and information that are vague and lack certainty.
+Fuzzy logic has been applied to many fields, from control theory to artificial intelligence.
+
+## Related
+
+- [[Combs method]]
+- [[Computability logic]]
+- [[Constructive logic]]
+- [[Dynamic logic (modal logic)]]
+- [[Intuitionistic logic]]
+- [[Noise-based logic]]
+- [[Ordered weighted averaging]]
+- [[Preferential entailment]]
+- [[SQLf]]
+- [[Type-1 OWA operators]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Fuzzy_logic

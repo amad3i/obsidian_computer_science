@@ -1,0 +1,41 @@
+---
+title: "Audio inpainting"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Audio_inpainting"
+wikipedia_categories: ["Deep learning", "Digital signal processing", "Machine learning"]
+related: ["[[AI data center]]", "[[Circuit (neural network)]]", "[[Compute (machine learning)]]", "[[Fine-tuning (deep learning)]]", "[[Generative AI]]", "[[Hallucination (artificial intelligence)]]", "[[Hidden layer]]", "[[Kolmogorov–Arnold Networks]]", "[[LoRA (machine learning)]]", "[[Model compression]]"]
+---
+
+# Audio inpainting
+
+Audio inpainting (also known as audio interpolation) is an audio restoration task which deals with the reconstruction of missing or corrupted portions of a digital audio signal. Inpainting techniques are employed when parts of the audio have been lost due to various factors such as transmission errors, data corruption or errors during recording.
+The goal of audio inpainting is to fill in the gaps (i.e., the missing portions) in the audio signal seamlessly, making the reconstructed portions indistinguishable from the original content and avoiding the introduction of audible distortions or alterations.
+Many techniques have been proposed to solve the audio inpainting problem and this is usually achieved by analyzing the temporal and spectral  information surrounding each missing portion of the considered audio signal.
+
+Classic methods employ statistical models or digital signal processing algorithms  to predict and synthesize the missing or damaged sections. Recent solutions, instead, take advantage of deep learning models, thanks to the growing trend of exploiting data-driven methods in the context of audio restoration.
+Depending on the extent of the lost information, the inpainting task can be divided in three categories.
+Short inpainting refers to the reconstruction of few milliseconds (approximately less than 10) of missing signal, that occurs in the case of short distortions such as clicks or clipping.
+In this case, the goal of the reconstruction is to recover the lost information exactly.
+In long inpainting instead, with gaps in the order of hundreds of milliseconds or even seconds, this goal becomes unrealistic, since restoration techniques cannot rely on local information.
+Therefore, besides providing a coherent reconstruction, the algorithms need to generate new information that has to be semantically compatible with the surrounding context (i.e., the audio signal surrounding the gaps).
+The case of medium duration gaps lays between short and long inpainting.
+It refers to the reconstruction of tens of millisecond of missing data, a scale where the non-stationary characteristic of audio already becomes important.
+
+## Related
+
+- [[AI data center]]
+- [[Circuit (neural network)]]
+- [[Compute (machine learning)]]
+- [[Fine-tuning (deep learning)]]
+- [[Generative AI]]
+- [[Hallucination (artificial intelligence)]]
+- [[Hidden layer]]
+- [[Kolmogorov–Arnold Networks]]
+- [[LoRA (machine learning)]]
+- [[Model compression]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Audio_inpainting

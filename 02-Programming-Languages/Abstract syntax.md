@@ -1,0 +1,31 @@
+---
+title: "Abstract syntax"
+tags: ["cs", "programming-languages", "intermediate"]
+domain: Programming & Languages
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Abstract_syntax"
+wikipedia_categories: ["Compiler construction", "Parsing", "Programming language design", "Programming language theory", "Syntax"]
+related: ["[[Affix grammar]]", "[[Attribute grammar]]", "[[Comparative illusion]]", "[[Compiler-compiler]]", "[[Extended affix grammar]]", "[[First-class function]]", "[[Lexical analysis]]", "[[Man or boy test]]", "[[Memory ordering]]", "[[Semantic dictionary encoding]]"]
+---
+
+# Abstract syntax
+
+In computer science, the abstract syntax of data is its structure described as a data type (possibly, but not necessarily, an abstract data type), independent of any particular representation or encoding. This is particularly used in the representation of text in computer languages, which are generally stored in a tree structure as an abstract syntax tree. Abstract syntax, which only consists of the structure of data, is contrasted with concrete syntax, which also includes information about the representation. For example, concrete syntax includes features like parentheses (for grouping) or commas (for lists), which are not included in the abstract syntax, as they are implicit in the structure.
+Abstract syntaxes are classified as first-order abstract syntax (FOAS), if the structure is abstract but names (identifiers) are still concrete (and thus requires name resolution), and higher-order abstract syntax, if the names themselves are abstract.
+
+## Related
+
+- [[Affix grammar]]
+- [[Attribute grammar]]
+- [[Comparative illusion]]
+- [[Compiler-compiler]]
+- [[Extended affix grammar]]
+- [[First-class function]]
+- [[Lexical analysis]]
+- [[Man or boy test]]
+- [[Memory ordering]]
+- [[Semantic dictionary encoding]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Abstract_syntax

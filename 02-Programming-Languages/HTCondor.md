@@ -1,0 +1,33 @@
+---
+title: "HTCondor"
+tags: ["cs", "programming-languages", "intermediate"]
+domain: Programming & Languages
+level: intermediate
+source: "https://en.wikipedia.org/wiki/HTCondor"
+wikipedia_categories: ["Free software programmed in C++", "Grid computing", "Job scheduling", "Parallel computing", "Software using the Apache license"]
+related: ["[[Oracle Grid Engine]]", "[[Pilot job]]", "[[Slurm Workload Manager]]", "[[Accelerated Linear Algebra]]", "[[Apache Celix]]", "[[Apache Samza]]", "[[Apache Storm]]", "[[Beowulf cluster]]", "[[Grid MP]]", "[[IBM Spectrum LSF]]"]
+---
+
+# HTCondor
+
+HTCondor is an open-source high-throughput computing software framework for coarse-grained distributed parallelization of computationally intensive tasks.
+It can be used to manage workload on a dedicated cluster of computers, or to farm out work to idle desktop computers – so-called cycle scavenging.  HTCondor runs on Linux, Unix, Mac OS X, FreeBSD, and Microsoft Windows operating systems.  HTCondor can integrate both dedicated resources (rack-mounted clusters) and non-dedicated desktop machines (cycle scavenging) into one computing environment.
+HTCondor is developed by the HTCondor team at the University of Wisconsin–Madison and is freely available for use.  HTCondor follows an open-source philosophy and is licensed under the Apache License 2.0.
+While HTCondor makes use of unused computing time, leaving computers turned on for use with HTCondor will increase energy consumption and associated costs. Starting from version 7.1.1, HTCondor can hibernate and wake machines based on user-specified policies, a feature previously available only via third-party software.
+
+## Related
+
+- [[Oracle Grid Engine]]
+- [[Pilot job]]
+- [[Slurm Workload Manager]]
+- [[Accelerated Linear Algebra]]
+- [[Apache Celix]]
+- [[Apache Samza]]
+- [[Apache Storm]]
+- [[Beowulf cluster]]
+- [[Grid MP]]
+- [[IBM Spectrum LSF]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/HTCondor

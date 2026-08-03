@@ -1,0 +1,31 @@
+---
+title: "Sinkov statistic"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Sinkov_statistic"
+wikipedia_categories: ["Computational linguistics", "Cryptographic attacks", "Natural language processing stubs", "Statistical natural language processing", "Statistics stubs"]
+related: ["[[Trigram tagger]]", "[[Brown clustering]]", "[[Calais (Reuters product)]]", "[[Computational semantics]]", "[[Factored language model]]", "[[Language Computer Corporation]]", "[[Markov information source]]", "[[Minimal recursion semantics]]", "[[Natural Language Toolkit]]", "[[Noisy channel model]]"]
+---
+
+# Sinkov statistic
+
+Sinkov statistics, also known as log-weight statistics, is a specialized field of statistics that was developed by Abraham Sinkov, while working for the small Signal Intelligence Service organization, the primary mission of which was to compile codes and ciphers for use by the U.S. Army. The mathematics involved include modular arithmetic, a bit of number theory, some linear algebra of two dimensions with matrices, some combinatorics, and a little statistics.
+Sinkov did not explain the theoretical underpinnings of his statistics, or characterized its distribution, nor did he give a decision procedure for accepting or rejecting candidate plaintexts on the basis of their S1 scores. The situation becomes more difficult when comparing strings of different lengths because Sinkov does not explain how the distribution of his statistics changes with length, especially when applied to higher-order grams. As for how to accept or reject a candidate plaintext, Sinkov simply said to try all possibilities and to pick the one with the highest S1 value. Although the procedure works for some applications, it is inadequate for applications that require on-line decisions. Furthermore, it is desirable to have a meaningful interpretation of the S1 values.
+
+## Related
+
+- [[Trigram tagger]]
+- [[Brown clustering]]
+- [[Calais (Reuters product)]]
+- [[Computational semantics]]
+- [[Factored language model]]
+- [[Language Computer Corporation]]
+- [[Markov information source]]
+- [[Minimal recursion semantics]]
+- [[Natural Language Toolkit]]
+- [[Noisy channel model]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Sinkov_statistic

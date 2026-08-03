@@ -1,0 +1,31 @@
+---
+title: "Key word signing"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Key_word_signing"
+wikipedia_categories: ["Augmentative and alternative communication"]
+related: ["[[AlterEgo]]", "[[Alternative formats]]", "[[Audio induction loop]]", "[[Augmentative and alternative communication]]", "[[Augmentative and Alternative Communication (journal)]]", "[[Avaz (app)]]", "[[Blissymbols]]", "[[Braille]]", "[[Chakshumathi]]", "[[ColorADD]]"]
+---
+
+# Key word signing
+
+Key word signing is a technique of simultaneous communication whereby the communication partner of the user will use both natural speech and also produce signs for the words that carry the most important information. Key word signing puts emphasis on the pertinent words in a sentence or a phrase, rather than signing every word. For example, if someone said, "Go wash your hands" the key words that would be signed would be "wash" and "hand".
+Key word signing is a form of augmentative and alternative communication (AAC) that uses manual signing as an additional mode of communication with the intention of strengthening the message. Research suggests that lexical representations of words, including manual signing, as well as speech and graphic symbols, can be used to reinforce other lexical representations. This indicates that the use of AAC, including manual signing and key word signing, can be beneficial for speech and language interventions.
+
+## Related
+
+- [[AlterEgo]]
+- [[Alternative formats]]
+- [[Audio induction loop]]
+- [[Augmentative and alternative communication]]
+- [[Augmentative and Alternative Communication (journal)]]
+- [[Avaz (app)]]
+- [[Blissymbols]]
+- [[Braille]]
+- [[Chakshumathi]]
+- [[ColorADD]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Key_word_signing

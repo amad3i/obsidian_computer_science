@@ -1,0 +1,30 @@
+---
+title: "This (computer programming)"
+tags: ["cs", "programming-languages", "intermediate"]
+domain: Programming & Languages
+level: intermediate
+source: "https://en.wikipedia.org/wiki/This_(computer_programming)"
+wikipedia_categories: ["Object-oriented programming"]
+related: ["[[Abstraction (computer science)]]", "[[Ambiguous viewpoint]]", "[[ASCEND]]", "[[Association (object-oriented programming)]]", "[[Behavioral subtyping]]", "[[Bounded quantification]]", "[[Call super]]", "[[Circle–ellipse problem]]", "[[Class variable]]", "[[Climate Data Exchange]]"]
+---
+
+# This (computer programming)
+
+this, self, and Me are keywords used in some computer programming languages to refer to the object, class, or other entity which the currently running code is a part of.  The entity referred to thus depends on the execution context (such as which object has its method called).  Different programming languages use these keywords in slightly different ways.  In languages where a keyword like this is mandatory, the keyword is the only way to access data and methods stored in the current object.  Where optional, these keywords can disambiguate variables and functions with the same name.
+
+## Related
+
+- [[Abstraction (computer science)]]
+- [[Ambiguous viewpoint]]
+- [[ASCEND]]
+- [[Association (object-oriented programming)]]
+- [[Behavioral subtyping]]
+- [[Bounded quantification]]
+- [[Call super]]
+- [[Circle–ellipse problem]]
+- [[Class variable]]
+- [[Climate Data Exchange]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/This_(computer_programming)

@@ -1,0 +1,31 @@
+---
+title: "Maze-solving algorithm"
+tags: ["cs", "algorithms-data-structures", "intermediate"]
+domain: Algorithms & Data Structures
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Maze-solving_algorithm"
+wikipedia_categories: ["Algorithms", "Mazes"]
+related: ["[[Maze generation algorithm]]", "[[Adaptive algorithm]]", "[[Algorism]]", "[[Algorithm]]", "[[Algorithm characterizations]]", "[[Algorithm engineering]]", "[[Algorithm IMED]]", "[[Algorithmic amplification]]", "[[Algorithmic logic]]", "[[Algorithmic management]]"]
+---
+
+# Maze-solving algorithm
+
+A maze-solving algorithm is an automated method for solving a maze. The random mouse, wall follower, Pledge, Tarry's, and Trémaux's algorithms are designed to be used inside the maze by a traveler with no prior knowledge of the maze, whereas the dead-end filling and shortest path algorithms are designed to be used by a person or computer program that can see the whole maze at once.
+Mazes containing no loops are known as "simply connected", or "perfect" mazes, and are equivalent to a tree in graph theory.  Maze-solving algorithms are closely related to graph theory. Intuitively, if one pulled and stretched out the paths in the maze in the proper way, the result could be made to resemble a tree.
+
+## Related
+
+- [[Maze generation algorithm]]
+- [[Adaptive algorithm]]
+- [[Algorism]]
+- [[Algorithm]]
+- [[Algorithm characterizations]]
+- [[Algorithm engineering]]
+- [[Algorithm IMED]]
+- [[Algorithmic amplification]]
+- [[Algorithmic logic]]
+- [[Algorithmic management]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Maze-solving_algorithm

@@ -1,0 +1,31 @@
+---
+title: "Bump-in-the-wire"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Bump-in-the-wire"
+wikipedia_categories: ["Computer-mediated communication", "Internet stubs"]
+related: ["[[End of message]]", "[[KioskNet]]", "[[Address pool]]", "[[Affective haptics]]", "[[Asynchronous communication mechanism]]", "[[Asynchronous computer-mediated communication]]", "[[Asynchronous Layered Coding]]", "[[Autonomous telepresence]]", "[[BACnet]]", "[[Border Gateway Multicast Protocol]]"]
+---
+
+# Bump-in-the-wire
+
+Bump-in-the-wire (BITW) is a class of communications devices which can be inserted into existing (legacy) systems to enhance the integrity, confidentiality, or reliability of communications across an existing logical link without altering the communications endpoints. The term was originally used to indicate that the device should introduce only a relatively small increased latency in communications compared to the original, unsecured, approach.
+An example of such a device might be a security appliance which applies IPsec protection to communications between existing devices which themselves lack IPsec implementation protocol stack. Such a device might also be called a security gateway or  could be implemented as part of a network firewall to implement a tunneling protocol.
+
+## Related
+
+- [[End of message]]
+- [[KioskNet]]
+- [[Address pool]]
+- [[Affective haptics]]
+- [[Asynchronous communication mechanism]]
+- [[Asynchronous computer-mediated communication]]
+- [[Asynchronous Layered Coding]]
+- [[Autonomous telepresence]]
+- [[BACnet]]
+- [[Border Gateway Multicast Protocol]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Bump-in-the-wire

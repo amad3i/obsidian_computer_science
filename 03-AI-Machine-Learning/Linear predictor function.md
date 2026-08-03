@@ -1,0 +1,30 @@
+---
+title: "Linear predictor function"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Linear_predictor_function"
+wikipedia_categories: ["Machine learning", "Regression analysis"]
+related: ["[[80 Million Tiny Images]]", "[[A Logical Calculus of the Ideas Immanent in Nervous Activity]]", "[[Accelerated Linear Algebra]]", "[[Active learning (machine learning)]]", "[[Adversarial machine learning]]", "[[AI data center]]", "[[AI observability]]", "[[AIOps]]", "[[AIXI]]", "[[Algorithm selection]]"]
+---
+
+# Linear predictor function
+
+In statistics and in machine learning, a linear predictor function is a linear function (linear combination) of a set of coefficients and explanatory variables (independent variables), whose value is used to predict the outcome of a dependent variable.  This sort of function usually comes in linear regression, where the coefficients are called regression coefficients. However, they also occur in various types of linear classifiers (e.g. logistic regression, perceptrons, support vector machines, and linear discriminant analysis), as well as in various other models, such as principal component analysis and factor analysis.  In many of these models, the coefficients are referred to as "weights".
+
+## Related
+
+- [[80 Million Tiny Images]]
+- [[A Logical Calculus of the Ideas Immanent in Nervous Activity]]
+- [[Accelerated Linear Algebra]]
+- [[Active learning (machine learning)]]
+- [[Adversarial machine learning]]
+- [[AI data center]]
+- [[AI observability]]
+- [[AIOps]]
+- [[AIXI]]
+- [[Algorithm selection]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Linear_predictor_function

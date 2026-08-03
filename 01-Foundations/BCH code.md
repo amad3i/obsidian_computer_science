@@ -1,0 +1,32 @@
+---
+title: "BCH code"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/BCH_code"
+wikipedia_categories: ["Coding theory", "Error detection and correction", "Finite fields"]
+related: ["[[Alternant code]]", "[[Berlekamp–Welch algorithm]]", "[[Concatenated error correction code]]", "[[Generalized minimum-distance decoding]]", "[[Homomorphic signatures for network coding]]", "[[Justesen code]]", "[[Preparata code]]", "[[Srivastava code]]", "[[Zyablov bound]]", "[[Algebraic geometry code]]"]
+---
+
+# BCH code
+
+In coding theory, the Bose–Chaudhuri–Hocquenghem codes (BCH codes) form a class of cyclic error-correcting codes that are constructed using polynomials over a finite field (also called a Galois field). BCH codes were invented in 1959 by French mathematician Alexis Hocquenghem, and independently in 1960 by Raj Chandra Bose and D. K. Ray-Chaudhuri. The name Bose–Chaudhuri–Hocquenghem (and the acronym BCH) arises from the initials of the inventors' surnames (mistakenly, in the case of Ray-Chaudhuri).
+One of the key features of BCH codes is that during code design, there is a precise control over the number of symbol errors correctable by the code. In particular, it is possible to design binary BCH codes that can correct multiple bit errors. Another advantage of BCH codes is the ease with which they can be decoded, namely, via an algebraic method known as syndrome decoding. This simplifies the design of the decoder for these codes, using small low-power electronic hardware.
+BCH codes are used in applications such as satellite communications, compact disc players, DVDs, disk drives, USB flash drives, solid-state drives, and two-dimensional bar codes.
+
+## Related
+
+- [[Alternant code]]
+- [[Berlekamp–Welch algorithm]]
+- [[Concatenated error correction code]]
+- [[Generalized minimum-distance decoding]]
+- [[Homomorphic signatures for network coding]]
+- [[Justesen code]]
+- [[Preparata code]]
+- [[Srivastava code]]
+- [[Zyablov bound]]
+- [[Algebraic geometry code]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/BCH_code

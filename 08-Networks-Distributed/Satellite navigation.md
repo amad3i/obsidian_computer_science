@@ -1,0 +1,33 @@
+---
+title: "Satellite navigation"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Satellite_navigation"
+wikipedia_categories: ["Aircraft instruments", "American inventions", "Avionics", "Geodesy", "Maritime communication", "Navigational equipment", "Satellite navigation"]
+related: ["[[RINEX]]", "[[EarthScope]]", "[[GNSS software-defined receiver]]", "[[GPS aircraft tracking]]", "[[Pseudorange]]", "[[Satellite navigation device]]", "[[3D scanning]]", "[[Autonomous aircraft]]", "[[Avionics software]]", "[[BASIC]]"]
+---
+
+# Satellite navigation
+
+Satellite navigation (satnav) or satellite positioning is the use of satellites for navigation or geopositioning. A global navigation satellite system (GNSS) provides coverage for any user on Earth, including air, land, and sea. There are four operational GNSS systems: the United States Global Positioning System (GPS), Russia's Global Navigation Satellite System (GLONASS), China's BeiDou Navigation Satellite System (BDS) and the European Union's Galileo. Furthermore, there are two regional navigation satellite systems (RNSS) in the form of Japan's Quasi-Zenith Satellite System (QZSS), and the Indian Regional Navigation Satellite System (IRNSS, also known as NavIC).
+A satellite-based augmentation system (SBAS) is a system that is designed to enhance the accuracy of the global GNSS systems. The SBAS systems include Japan's QZSS, India's GAGAN, and the European EGNOS, all of them based on GPS.
+Satellite navigation devices determine their location (longitude, latitude, and altitude/elevation) to high precision (within a few centimeters to meters) using time signals transmitted along a line of sight by radio from satellites. The system can be used for providing position, navigation or for tracking the position of something fitted with a receiver (satellite tracking). The signals also allow the electronic receiver to calculate the current local time to a high precision, which allows time synchronisation. These uses are collectively known as Positioning, Navigation and Timing (PNT). Satnav systems operate independently of any telephonic or internet reception, though these technologies can enhance the usefulness of the positioning information generated.
+Global coverage for each system is generally achieved by a satellite constellation of 18–30 medium Earth orbit (MEO) satellites spread between several orbital planes. The actual systems vary, but all use orbital inclinations of >50° and orbital periods of roughly twelve hours (at an altitude of about 20,000 kilometres or 12,000 miles).
+
+## Related
+
+- [[RINEX]]
+- [[EarthScope]]
+- [[GNSS software-defined receiver]]
+- [[GPS aircraft tracking]]
+- [[Pseudorange]]
+- [[Satellite navigation device]]
+- [[3D scanning]]
+- [[Autonomous aircraft]]
+- [[Avionics software]]
+- [[BASIC]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Satellite_navigation

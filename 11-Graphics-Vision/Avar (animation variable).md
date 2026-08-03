@@ -1,0 +1,31 @@
+---
+title: "Avar (animation variable)"
+tags: ["cs", "graphics-vision", "intermediate"]
+domain: Graphics & Vision
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Avar_(animation_variable)"
+wikipedia_categories: ["Animation stubs", "Computer animation"]
+related: ["[[Computer Animation and Social Agents]]", "[[Face Animation Parameter]]", "[[FCurve]]", "[[Pose space deformation]]", "[[Pose-to-pose animation]]", "[[Timewarp (computer graphics)]]", "[[A Glitch Is a Glitch]]", "[[Adam Powers, The Juggler]]", "[[Animusic]]", "[[Ayotle]]"]
+---
+
+# Avar (animation variable)
+
+An avar or animation variable (or hinge) is a variable controlling the position of part of an animated object, such as a character. The character "Woody" in the Disney•Pixar film Toy Story (1995) uses 712 avars (212 on his face alone). Successive sets of avars control all movement of the character from frame to frame. In development, they are used to define the junctions of a stick model. Later, they are incorporated into a full wire frame model or a model built of polygons. Finally, surfaces are added, requiring a lengthy process of rendering to produce the final scene.
+There are several ways of generating the avar values. Motion capture uses a real person acting out the part, tracked by a video camera. Toy Story uses no motion capture, manual control by a skilled animator can produce effects not easily carried out by a human actor.
+
+## Related
+
+- [[Computer Animation and Social Agents]]
+- [[Face Animation Parameter]]
+- [[FCurve]]
+- [[Pose space deformation]]
+- [[Pose-to-pose animation]]
+- [[Timewarp (computer graphics)]]
+- [[A Glitch Is a Glitch]]
+- [[Adam Powers, The Juggler]]
+- [[Animusic]]
+- [[Ayotle]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Avar_(animation_variable)

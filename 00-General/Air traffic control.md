@@ -1,0 +1,28 @@
+---
+title: "Air traffic control"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Air_traffic_control"
+wikipedia_categories: ["Air traffic control", "Radar"]
+related: ["[[Array factor]]", "[[Barker code]]", "[[Digital antenna array]]", "[[Fluctuation loss]]", "[[Global air-traffic management]]", "[[Quantum radar]]"]
+---
+
+# Air traffic control
+
+Air traffic control (ATC) is a service provided by ground-based air traffic controllers who direct aircraft on the ground and through controlled airspace. The primary purpose of ATC is to prevent collisions, organise and expedite the flow of air traffic, and provide information and other support for pilots. In some countries, ATC can also provide advisory services to aircraft in non-controlled airspace. 
+Controllers monitor the location of aircraft in their assigned airspace using radar and communicate with pilots by radio. To prevent collisions, ATC enforces traffic separation rules, which ensure each aircraft maintains a minimum amount of empty space around it. ATC services are provided to all types of aircraft, including private, military, and commercial flights.
+Depending on the type of flight and the class of airspace, ATC may issue mandatory instructions or non-binding advisories (known as flight information in some countries). While pilots are required to obey all ATC instructions, the pilot in command of an aircraft always retains final authority for its safe operation. In an emergency, the pilot may deviate from ATC instructions to the extent required to maintain the safety of the aircraft. Weather conditions, such as thunderstorms, strong winds, and low visibility, can significantly affect air traffic control operations, leading to delays, diversions, and the need for alternate routing.
+
+## Related
+
+- [[Array factor]]
+- [[Barker code]]
+- [[Digital antenna array]]
+- [[Fluctuation loss]]
+- [[Global air-traffic management]]
+- [[Quantum radar]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Air_traffic_control

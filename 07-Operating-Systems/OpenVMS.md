@@ -1,0 +1,31 @@
+---
+title: "OpenVMS"
+tags: ["cs", "operating-systems", "intermediate"]
+domain: Operating Systems
+level: intermediate
+source: "https://en.wikipedia.org/wiki/OpenVMS"
+wikipedia_categories: ["1977 software", "Cluster computing", "Compaq software", "DEC operating systems", "Digital Equipment Corporation", "Fault-tolerant computer systems", "HP software", "High-availability cluster computing"]
+related: ["[[Computer cluster]]", "[[IBM Parallel Sysplex]]", "[[NonStop (server computers)]]", "[[OpenHPC]]", "[[OpenSSI]]", "[[Aiyara cluster]]", "[[Alewife (multiprocessor)]]", "[[Apache Spark]]", "[[Availability zone]]", "[[AWK]]"]
+---
+
+# OpenVMS
+
+OpenVMS, often referred to as just VMS, is a multi-user, multiprocessing and virtual memory-based operating system. It is designed to support time-sharing, batch processing, transaction processing and workstation applications. Customers using OpenVMS include banks and financial services, hospitals and healthcare, telecommunications operators, network information services, and industrial manufacturers. During the 1990s and 2000s, there were approximately half a million VMS systems in operation worldwide.
+It was first announced by Digital Equipment Corporation (DEC) as VAX/VMS (Virtual Address eXtension/Virtual Memory System) alongside the VAX-11/780 minicomputer in 1977. OpenVMS has subsequently been ported to run on DEC Alpha systems, the Itanium-based HPE Integrity Servers, and select x86-64 hardware and hypervisors. Since 2014, OpenVMS is developed and supported by VMS Software Inc. (VSI). OpenVMS offers high availability through clustering—the ability to distribute the system over multiple physical machines. This allows clustered applications and data to remain continuously available while operating system software and hardware maintenance and upgrades are performed, or if part of the cluster is destroyed. VMS cluster uptimes of 17 years have been reported.
+
+## Related
+
+- [[Computer cluster]]
+- [[IBM Parallel Sysplex]]
+- [[NonStop (server computers)]]
+- [[OpenHPC]]
+- [[OpenSSI]]
+- [[Aiyara cluster]]
+- [[Alewife (multiprocessor)]]
+- [[Apache Spark]]
+- [[Availability zone]]
+- [[AWK]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/OpenVMS

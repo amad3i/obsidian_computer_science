@@ -1,0 +1,31 @@
+---
+title: "Reverse engineering"
+tags: ["cs", "security-cryptography", "intermediate"]
+domain: Security & Cryptography
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Reverse_engineering"
+wikipedia_categories: ["Cybersecurity engineering", "Espionage", "Industrial engineering", "NP-complete problems", "Patent law", "Reverse engineering", "Technical intelligence", "Technological races"]
+related: ["[[1-in-3-SAT]]", "[[3-dimensional matching]]", "[[AI nationalism]]", "[[Analytic hierarchy process]]", "[[Arc routing]]", "[[Artificial intelligence arms race]]", "[[Artificial Inventor Project]]", "[[Biclustering]]", "[[Biometric device]]", "[[Boolean satisfiability problem]]"]
+---
+
+# Reverse engineering
+
+Reverse engineering (also known as backwards engineering or back engineering) is a process or method through which one attempts to understand through deductive reasoning how a previously made device, process, system, or piece of software accomplishes a task with very little (if any) insight into exactly how it does so. Depending on the system under consideration and the technologies employed, the knowledge gained during reverse engineering can help with repurposing obsolete objects, doing security analysis, or learning how something works.
+Although the process is specific to the object on which it is being performed, all reverse engineering processes consist of three basic steps: information extraction, modeling, and review. Information extraction is the practice of gathering all relevant information for performing the operation. Modeling is the practice of combining the gathered information into an abstract model, which can be used as a guide for designing the new object or system. Review is the testing of the model to ensure the validity of the chosen abstract. Reverse engineering is applicable in the fields of computer engineering, mechanical engineering, design, electrical and electronic engineering, civil engineering, nuclear engineering, aerospace engineering, software engineering, chemical engineering, systems biology and more.
+
+## Related
+
+- [[1-in-3-SAT]]
+- [[3-dimensional matching]]
+- [[AI nationalism]]
+- [[Analytic hierarchy process]]
+- [[Arc routing]]
+- [[Artificial intelligence arms race]]
+- [[Artificial Inventor Project]]
+- [[Biclustering]]
+- [[Biometric device]]
+- [[Boolean satisfiability problem]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Reverse_engineering

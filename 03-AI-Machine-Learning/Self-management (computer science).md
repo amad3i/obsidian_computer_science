@@ -1,0 +1,41 @@
+---
+title: "Self-management (computer science)"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Self-management_(computer_science)"
+wikipedia_categories: ["Artificial intelligence", "Computer science stubs"]
+related: ["[[Gabbay's separation theorem]]", "[[ai]]", "[[2025–present global memory supply shortage]]", "[[2026 OpenAI agent cyberattacks]]", "[[Actor-critic algorithm]]", "[[Admissible heuristic]]", "[[Agent harness]]", "[[Agent verification]]", "[[Agentive logic]]", "[[AI agent]]"]
+---
+
+# Self-management (computer science)
+
+Self-management is the process by which computer systems manage their own operation without human intervention. Self-management technologies are expected to pervade the next generation of network management systems.
+The growing complexity of modern networked computer systems is a limiting factor in their expansion. The increasing heterogeneity of corporate computer systems, the inclusion of mobile computing devices, and the combination of different networking technologies like WLAN, cellular phone networks, and mobile ad hoc networks make the conventional, manual management difficult, time-consuming, and error-prone. More recently, self-management has been suggested as a solution to increasing complexity in cloud computing.
+An industrial initiative towards realizing self-management is the Autonomic Computing Initiative (ACI) started by IBM in 2001. The ACI defines the following four functional areas:
+
+Self-configuration
+Auto-configuration of components
+Self-healing
+Automatic discovery, and correction of faults; automatically applying all necessary actions to bring system back to normal operation
+Self-optimization
+Automatic monitoring and control of resources to ensure the optimal functioning with respect to the defined requirements
+Self-protection
+Proactive identification and protection from arbitrary attacks
+
+## Related
+
+- [[Gabbay's separation theorem]]
+- [[ai]]
+- [[2025–present global memory supply shortage]]
+- [[2026 OpenAI agent cyberattacks]]
+- [[Actor-critic algorithm]]
+- [[Admissible heuristic]]
+- [[Agent harness]]
+- [[Agent verification]]
+- [[Agentive logic]]
+- [[AI agent]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Self-management_(computer_science)

@@ -1,0 +1,30 @@
+---
+title: "Kernel eigenvoice"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Kernel_eigenvoice"
+wikipedia_categories: ["Kernel methods for machine learning"]
+related: ["[[Fisher kernel]]", "[[Gaussian process]]", "[[Graph kernel]]", "[[Kernel adaptive filter]]", "[[Kernel methods for vector output]]", "[[Kernel perceptron]]", "[[Kernel principal component analysis]]", "[[Low-rank matrix approximations]]", "[[Neural network Gaussian process]]", "[[Polynomial kernel]]"]
+---
+
+# Kernel eigenvoice
+
+Speaker adaptation is an important technology to fine-tune either features or speech models for mis-match due to inter-speaker variation. In the last decade, eigenvoice (EV) speaker adaptation has been developed. It makes use of the prior knowledge of training speakers to provide a fast adaptation algorithm (in other words, only a small amount of adaptation data is needed). Inspired by the kernel eigenface idea in face recognition, kernel eigenvoice (KEV) is proposed. KEV is a non-linear generalization to EV. This incorporates Kernel principal component analysis, a non-linear version of Principal Component Analysis, to capture higher order correlations in order to further explore the speaker space and enhance recognition performance.
+
+## Related
+
+- [[Fisher kernel]]
+- [[Gaussian process]]
+- [[Graph kernel]]
+- [[Kernel adaptive filter]]
+- [[Kernel methods for vector output]]
+- [[Kernel perceptron]]
+- [[Kernel principal component analysis]]
+- [[Low-rank matrix approximations]]
+- [[Neural network Gaussian process]]
+- [[Polynomial kernel]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Kernel_eigenvoice

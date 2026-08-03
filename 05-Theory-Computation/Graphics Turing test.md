@@ -1,0 +1,35 @@
+---
+title: "Graphics Turing test"
+tags: ["cs", "theory-of-computation", "intermediate"]
+domain: Theory of Computation
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Graphics_Turing_test"
+wikipedia_categories: ["Computer science stubs", "Turing tests", "Virtual reality"]
+related: ["[[360 video projection]]", "[[360-degree video]]", "[[3D stereo view]]", "[[3D tracking]]", "[[A-Frame (software)]]", "[[Advanced disaster management simulator]]", "[[Affective haptics]]", "[[AGX Dynamics]]", "[[Alewife (multiprocessor)]]", "[[ALF (proof assistant)]]"]
+---
+
+# Graphics Turing test
+
+In computer graphics the graphics Turing test is a variant of the Turing test, the twist being that a human judge viewing and interacting with an artificially generated world should be unable to reliably distinguish it from reality.
+The original formulation of the test is:
+
+"The subject views and interacts with a real or computer generated scene. The test is passed if the subject can not determine reality from simulated reality better than a random guess. (a) The subject operates a remotely controlled (or simulated) robotic arm and views a computer screen. (b) The subject enters a door to a controlled vehicle or motion simulator with computer screens for windows. An eye patch can be worn on one eye, as stereo vision is difficult to simulate."
+The "graphics Turing scale" of computer power is then defined as the computing power necessary to achieve success in the test. It was estimated in, as 1036.8 TFlops peak and 518.4 TFlops sustained. Actual rendering tests with a Blue Gene supercomputer showed that current supercomputers are not up to the task scale yet.
+A restricted form of the graphic Turing test has been investigated, where test subjects look into a box, and try to tell whether the contents are real or virtual objects. For the very simple case of scenes with a cardboard pyramid or a styrofoam sphere, subjects were not able to reliably tell reality and graphics apart.
+
+## Related
+
+- [[360 video projection]]
+- [[360-degree video]]
+- [[3D stereo view]]
+- [[3D tracking]]
+- [[A-Frame (software)]]
+- [[Advanced disaster management simulator]]
+- [[Affective haptics]]
+- [[AGX Dynamics]]
+- [[Alewife (multiprocessor)]]
+- [[ALF (proof assistant)]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Graphics_Turing_test

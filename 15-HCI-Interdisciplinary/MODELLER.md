@@ -1,0 +1,37 @@
+---
+title: "MODELLER"
+tags: ["cs", "hci-interdisciplinary", "intermediate"]
+domain: HCI & Interdisciplinary
+level: intermediate
+source: "https://en.wikipedia.org/wiki/MODELLER"
+wikipedia_categories: ["Computational biology", "Molecular modelling software"]
+related: ["[[Folding@home]]", "[[List of Folding@home cores]]", "[[Adaptive sampling]]", "[[African Society for Bioinformatics and Computational Biology]]", "[[AIDA interactive educational freeware diabetes simulator]]", "[[Alignment-free sequence analysis]]", "[[Alternative Splicing Annotation Project]]", "[[Asian Young Researchers Conference on Computational and Omics Biology]]", "[[Avizo (software)]]", "[[Bette Korber]]"]
+---
+
+# MODELLER
+
+Modeller, often stylized as MODELLER, is a computer program used for homology modeling to produce models of protein tertiary structures and quaternary structures (rarer). It implements a method inspired by nuclear magnetic resonance spectroscopy of proteins (protein NMR), termed satisfaction of spatial restraints, by which a set of geometrical criteria are used to create a probability density function for the location of each atom in the protein. The method relies on an input sequence alignment between the target amino acid sequence to be modeled and a template protein which structure has been solved.
+The program also incorporates limited functions for ab initio structure prediction of loop regions of proteins, which are often highly variable even among homologous proteins and thus difficult to predict by homology modeling.
+Modeller was originally written and is currently maintained by Andrej Sali at the University of California, San Francisco. It runs on the operating systems Unix, Linux, macOS, and Windows. It is freeware for academic use. Graphical user interfaces (GUIs) and commercial versions are distributed by Accelrys. The ModWeb comparative protein structure modeling webserver is based on Modeller and other tools for automatic protein structure modeling, with an option to deposit the resulting models into ModBase. Due to Modeller's popularity, several third party GUIs for MODELLER are available:
+
+EasyModeller is freeware and is one of the earliest third party GUIs for Modeller. Recent version (EasyModeller 4.0) supports Linux and Windows operating system.
+UCSF Chimera has a simple interface to Modeller.
+PyMod is a free and open-source plugin for PyMOL and has a comprehensive interface for Modeller. It supports Linux, Windows and macOS.
+MaxMod is a standalone GUI for MODELLER on Windows.
+
+## Related
+
+- [[Folding@home]]
+- [[List of Folding@home cores]]
+- [[Adaptive sampling]]
+- [[African Society for Bioinformatics and Computational Biology]]
+- [[AIDA interactive educational freeware diabetes simulator]]
+- [[Alignment-free sequence analysis]]
+- [[Alternative Splicing Annotation Project]]
+- [[Asian Young Researchers Conference on Computational and Omics Biology]]
+- [[Avizo (software)]]
+- [[Bette Korber]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/MODELLER

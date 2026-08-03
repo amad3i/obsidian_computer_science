@@ -1,0 +1,23 @@
+---
+title: "Microsoft Azure Quantum"
+tags: ["cs", "quantum-emerging", "intermediate"]
+domain: Quantum & Emerging
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Microsoft_Azure_Quantum"
+wikipedia_categories: []
+related: []
+---
+
+# Microsoft Azure Quantum
+
+Microsoft Azure Quantum is a public cloud-based quantum computing platform developed by Microsoft, that offers quantum hardware, software, and solutions for developers to build quantum applications. It supports  variety of quantum hardware architectures from partners including Quantinuum, IonQ, and Atom Computing. To run applications on the cloud platform, Microsoft developed the Q# quantum programming language.
+Azure Quantum also includes a platform for scientific research, Azure Quantum Elements. It uses artificial intelligence, high-performance computing and quantum processors to run molecular simulations and calculations in computational chemistry and materials science.
+Azure Quantum was first announced at Microsoft Ignite in 2019. The platform was opened for public preview in 2021, and Azure Quantum Elements was launched in 2023.
+
+## Related
+
+*(no automatic links — see MOC)*
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Microsoft_Azure_Quantum

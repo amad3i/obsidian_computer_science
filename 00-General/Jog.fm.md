@@ -1,0 +1,22 @@
+---
+title: "Jog.fm"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Jog.fm"
+wikipedia_categories: []
+related: []
+---
+
+# Jog.fm
+
+jog.fm is a free exercise music website, founded by Blendist LLC in Boston, Massachusetts in 2010. The website claims to suggest the "perfect music" for exercise by suggesting songs with tempos that match an athlete's pace or cadence.
+The website curates a small subset of music which has been determined to be appropriate for exercise by the website's users.  The website also features user-created playlists, many of which have been built for races or for training purposes. The site provides links to purchase, download or stream the songs and playlists.
+
+## Related
+
+*(no automatic links — see MOC)*
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Jog.fm

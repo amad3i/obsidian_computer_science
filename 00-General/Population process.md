@@ -1,0 +1,32 @@
+---
+title: "Population process"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Population_process"
+wikipedia_categories: ["Markov models", "Population"]
+related: ["[[Baum–Welch algorithm]]", "[[Bernoulli scheme]]", "[[Burst error]]", "[[CLAWS (linguistics)]]", "[[Dependability state model]]", "[[Detailed balance]]", "[[Diffusion model]]", "[[Discrete phase-type distribution]]", "[[Dynamic Markov compression]]", "[[Entropy rate]]"]
+---
+
+# Population process
+
+In applied probability, a population process is a Markov chain in which the state of the chain is analogous to the number of individuals in a population (0, 1, 2, etc.), and changes to the state are analogous to the addition or removal of individuals from the population. Typical population processes include birth–death processes and birth, death and catastrophe processes.
+Although named by analogy to biological populations from population dynamics, population processes find application in a much wider range of fields than just ecology and other biological sciences.  These other applications include telecommunications and queueing theory, chemical kinetics and financial mathematics, and hence the population could be of packets in a computer network, of molecules in a chemical reaction, or even of units in a financial index.  
+Population processes are typically characterized by processes of birth and immigration, and of death, emigration and catastrophe, which correspond to the basic demographic processes and broad environmental effects to which a population is subject.  However, population processes are also often equivalent to other processes that may typically be characterized under other paradigms (in the literal sense of "patterns").  Queues, for example, are often characterized by an arrivals process, a service process, and the number of servers.  In appropriate circumstances, however, arrivals at a queue are functionally equivalent to births or immigration and the service of waiting "customers" is equivalent to death or emigration.
+
+## Related
+
+- [[Baum–Welch algorithm]]
+- [[Bernoulli scheme]]
+- [[Burst error]]
+- [[CLAWS (linguistics)]]
+- [[Dependability state model]]
+- [[Detailed balance]]
+- [[Diffusion model]]
+- [[Discrete phase-type distribution]]
+- [[Dynamic Markov compression]]
+- [[Entropy rate]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Population_process

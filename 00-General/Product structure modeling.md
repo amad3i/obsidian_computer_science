@@ -1,0 +1,33 @@
+---
+title: "Product structure modeling"
+tags: ["cs", "general-cs", "intermediate"]
+domain: General CS
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Product_structure_modeling"
+wikipedia_categories: ["Computer-aided design", "Product lifecycle management"]
+related: ["[[CAD data exchange]]", "[[Computer-aided industrial design]]", "[[Digital mockup]]", "[[GRAITEC]]", "[[Knowledge-based engineering]]", "[[Model-based definition]]", "[[Plant lifecycle management]]", "[[Product and manufacturing information]]", "[[2D geometric model]]", "[[3D Content Retrieval]]"]
+---
+
+# Product structure modeling
+
+A product structure is a hierarchical decomposition of a product, typically known as the bill of materials (BOM).
+As business becomes more responsive to unique consumer tastes and derivative products grow to meet the unique configurations, BOM management can become unmanageable. For manufacturers, a bill of materials (BOM) is a critical product information record that lists the raw materials, assemblies, components, parts and the quantities of each needed to manufacture a product.
+Advanced modeling techniques are necessary to cope with configurable products where changing a small part of a product can have multiple impacts on other product structure models. Concepts within this entry are in capital letters in order to indicate these concepts.
+Several concepts are related to the subject of product structure modeling. All these concepts are discussed in this section. These concepts are divided into two main aspects. First the product breakdown is discussed which involves all the physical aspects of a product. Second, different views at the product structure are indicated.
+
+## Related
+
+- [[CAD data exchange]]
+- [[Computer-aided industrial design]]
+- [[Digital mockup]]
+- [[GRAITEC]]
+- [[Knowledge-based engineering]]
+- [[Model-based definition]]
+- [[Plant lifecycle management]]
+- [[Product and manufacturing information]]
+- [[2D geometric model]]
+- [[3D Content Retrieval]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Product_structure_modeling

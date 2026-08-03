@@ -1,0 +1,33 @@
+---
+title: "Wired glove"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Wired_glove"
+wikipedia_categories: ["Computing input devices", "Game controllers", "Gesture recognition", "Gloves", "Haptic technology", "History of human–computer interaction", "Multimodal interaction", "Pointing devices"]
+related: ["[[Haptic technology]]", "[[HoloLens 2]]", "[[Microsoft HoloLens]]", "[[Affective haptics]]", "[[Butler in a Box]]", "[[Capacitive sensing]]", "[[CICS]]", "[[Eye tracking]]", "[[Finger tracking]]", "[[IRCF360]]"]
+---
+
+# Wired glove
+
+A wired glove (also called a dataglove or cyberglove) is an input device for human–computer interaction worn like a glove.
+Various sensor technologies are used to capture physical data such as bending of fingers. Often a motion tracker, such as a magnetic tracking device or inertial tracking device, is attached to capture the global position/rotation data of the glove. These movements are then interpreted by the software that accompanies the glove, so any one movement can mean any number of things. Gestures can then be categorized into useful information, such as to recognize sign language or other symbolic functions.
+Expensive high-end wired gloves can also provide haptic feedback, which is a simulation of the sense of touch. This allows a wired glove to also be used as an output device. Traditionally, wired gloves have only been available at a huge cost, with the finger bend sensors and the tracking device having to be bought separately.
+Wired gloves are often used in virtual reality environments and to mimic human hand movement by robots.
+
+## Related
+
+- [[Haptic technology]]
+- [[HoloLens 2]]
+- [[Microsoft HoloLens]]
+- [[Affective haptics]]
+- [[Butler in a Box]]
+- [[Capacitive sensing]]
+- [[CICS]]
+- [[Eye tracking]]
+- [[Finger tracking]]
+- [[IRCF360]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Wired_glove

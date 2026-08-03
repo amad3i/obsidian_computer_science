@@ -1,0 +1,32 @@
+---
+title: "Least common multiple"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Least_common_multiple"
+wikipedia_categories: ["Elementary arithmetic", "Number theory", "Operations on numbers"]
+related: ["[[Cube (algebra)]]", "[[Eighth power]]", "[[Fifth power (algebra)]]", "[[Fourth power]]", "[[Seventh power]]", "[[Sixth power]]", "[[Square number]]", "[[3x + 1 semigroup]]", "[[Abc conjecture]]", "[[Abel's summation formula]]"]
+---
+
+# Least common multiple
+
+In arithmetic and number theory, the least common multiple (LCM), lowest common multiple, or smallest common multiple (SCM) of two integers a and b, usually denoted by lcm(a, b), is the smallest positive integer that is divisible by both a and b. Since division of integers by zero is undefined, this definition has meaning only if a and b are both different from zero. However, some authors define lcm(a, 0) as 0 for all a, since 0 is the only common multiple of a and 0.
+The least common multiple of the denominators of two fractions is the "lowest common denominator" (lcd), and can be used for adding, subtracting or comparing the fractions.
+The least common multiple of more than two integers a, b, c, . . . , usually denoted by lcm(a, b, c, . . .), is defined as the smallest positive integer that is divisible by each of a, b, c, . . .
+
+## Related
+
+- [[Cube (algebra)]]
+- [[Eighth power]]
+- [[Fifth power (algebra)]]
+- [[Fourth power]]
+- [[Seventh power]]
+- [[Sixth power]]
+- [[Square number]]
+- [[3x + 1 semigroup]]
+- [[Abc conjecture]]
+- [[Abel's summation formula]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Least_common_multiple

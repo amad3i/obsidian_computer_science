@@ -1,0 +1,31 @@
+---
+title: "Fuzzing"
+tags: ["cs", "security-cryptography", "intermediate"]
+domain: Security & Cryptography
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Fuzzing"
+wikipedia_categories: ["Security testing", "Software testing"]
+related: ["[[Penetration test]]", "[[-dev-full]]", "[[A-B testing]]", "[[Acceptance test-driven development]]", "[[Acceptance testing]]", "[[Ad hoc testing]]", "[[Agent verification]]", "[[Agile testing]]", "[[All-pairs testing]]", "[[Analytical Performance Modeling]]"]
+---
+
+# Fuzzing
+
+In programming and software development, fuzzing or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program. The program is then monitored for exceptions such as crashes, failing built-in code assertions, or potential memory leaks. Typically, fuzzers are used to test programs that take structured inputs. This structure is specified, such as in a file format or protocol and distinguishes valid from invalid input. An effective fuzzer generates semi-valid inputs that are "valid enough" in that they are not directly rejected by the parser, but do create unexpected behaviors deeper in the program and are "invalid enough" to expose corner cases that have not been properly dealt with.
+For the purpose of security, input that crosses a trust boundary is often the most useful. For example, it is more important to fuzz code that handles a file uploaded by any user than it is to fuzz the code that parses a configuration file that is accessible only to a privileged user.
+
+## Related
+
+- [[Penetration test]]
+- [[-dev-full]]
+- [[A-B testing]]
+- [[Acceptance test-driven development]]
+- [[Acceptance testing]]
+- [[Ad hoc testing]]
+- [[Agent verification]]
+- [[Agile testing]]
+- [[All-pairs testing]]
+- [[Analytical Performance Modeling]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Fuzzing

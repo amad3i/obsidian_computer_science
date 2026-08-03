@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "93d66f076ac23f34",
+    "type": "split",
+    "children": [
+      {
+        "id": "2209ba883c63e297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8134691af2377eb7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70d3e8c1ccfa9927",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa4fdf635141714b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caad607b6e88629a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5b8bf73c61e44c74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8bd8113f3597290f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d2ca092549bafc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "49694f3330c72890",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "931d94525f12a4a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "кек.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "b7735eb4e67e3165",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "кек.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "481683b11cc21d90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "47eb40b613785bb9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "4f12009f48fe1df1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "кек.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "8134691af2377eb7",
+  "lastOpenFiles": [
+    "04-Algorithms-Data-Structures/Algorithms + Data Structures = Programs.md",
+    "10-Security-Cryptography/Alice and Bob.md",
+    "15-HCI-Interdisciplinary/Actor model later history.md",
+    "08-Networks-Distributed/MapReduce.md",
+    "05-Theory-Computation/Weak Büchi automaton.md",
+    "05-Theory-Computation/Safety and liveness properties.md",
+    "05-Theory-Computation/Monoid factorisation.md",
+    "05-Theory-Computation/Monitor (synchronization).md",
+    "05-Theory-Computation/Emptiness problem.md",
+    "05-Theory-Computation/Byzantine fault.md",
+    "05-Theory-Computation/Brzozowski derivative.md",
+    "04-Algorithms-Data-Structures/Zero-weight cycle problem.md",
+    "04-Algorithms-Data-Structures/Type-1 OWA operators.md",
+    "04-Algorithms-Data-Structures/Time Warp Edit Distance.md",
+    "04-Algorithms-Data-Structures/Paxos (computer science).md",
+    "04-Algorithms-Data-Structures/Nonobtuse mesh.md",
+    "04-Algorithms-Data-Structures/Macbeath region.md",
+    "04-Algorithms-Data-Structures/Link prediction.md",
+    "04-Algorithms-Data-Structures/Jump search.md",
+    "04-Algorithms-Data-Structures/Interval union-split-find.md",
+    "04-Algorithms-Data-Structures/Gap-Hamming problem.md",
+    "04-Algorithms-Data-Structures/Finger search.md",
+    "04-Algorithms-Data-Structures/Catalytic computing.md",
+    "04-Algorithms-Data-Structures/Breadth-first search.md",
+    "03-AI-Machine-Learning/Time-inhomogeneous hidden Bernoulli model.md",
+    "03-AI-Machine-Learning/STIT logic.md",
+    "Без названия.canvas",
+    "coursepages/intro-cs",
+    "coursepages"
+  ]
+}

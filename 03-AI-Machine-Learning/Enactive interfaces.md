@@ -1,0 +1,33 @@
+---
+title: "Enactive interfaces"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Enactive_interfaces"
+wikipedia_categories: ["Educational psychology", "Enactive cognition", "Knowledge representation", "Motor cognition", "User interface techniques"]
+related: ["[[Enactivism]]", "[[4E cognition]]", "[[Spatial–temporal reasoning]]", "[[3D human–computer interaction]]", "[[Accelerator table]]", "[[Action selection]]", "[[Agent Communications Language]]", "[[Agentive logic]]", "[[AgMES]]", "[[Agricultural Information Management Standards]]"]
+---
+
+# Enactive interfaces
+
+Enactive interfaces are interactive systems that allow organization and transmission of knowledge obtained through action. Examples are interfaces that couple a human with a machine to do things usually done unaided, such as shaping a three-dimensional object using multiple modality interactions with a database, or using interactive video to allow a student to visually engage with mathematical concepts. Enactive interface design can be approached through the idea of raising awareness of affordances, that is, optimization of the awareness of possible actions available to someone using the enactive interface. This optimization involves visibility, affordance, and feedback.
+The enactive interface in the figure interprets manual input and provides a response in perceptual terms in the form of images, sounds, and haptic (tactile) feedback. The system is called enactive because of the feedback loop in which the system response is decided by the user input, and the user input is driven by the perceived system responses.
+Enactive interfaces are new types of human-computer interface that express and transmit the enactive knowledge by integrating different sensory aspects. The driving concept of enactive interfaces is then the fundamental role of motor action for storing and acquiring knowledge (action driven interfaces). Enactive interfaces are then capable of conveying and understanding gestures of the user, in order to provide an adequate response in perceptual terms. Enactive interfaces can be considered a new step in the development of the human-computer interaction because they are characterized by a closed loop between the natural gestures of the user (efferent component of the system) and the perceptual modalities activated (afferent component). Enactive interfaces can be conceived to exploit this direct loop and the capability of recognizing complex gestures.
+The development of such interfaces requires the creation of a common vision between different research areas like computer vision, haptic and sound processing, giving more attention on the motor action aspect of interaction. An example of prototypical systems that are able to introduce enactive interfaces are reactive robots, robots that are always in contact with the human hand (like current play console controllers, Wii Remote) and are capable of interpreting the human movements and guiding the human for the completion of a manipulation task.
+
+## Related
+
+- [[Enactivism]]
+- [[4E cognition]]
+- [[Spatial–temporal reasoning]]
+- [[3D human–computer interaction]]
+- [[Accelerator table]]
+- [[Action selection]]
+- [[Agent Communications Language]]
+- [[Agentive logic]]
+- [[AgMES]]
+- [[Agricultural Information Management Standards]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Enactive_interfaces

@@ -1,0 +1,33 @@
+---
+title: "Active and passive transformation"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Active_and_passive_transformation"
+wikipedia_categories: ["Concepts in physics", "Mathematical terminology", "Systems theory"]
+related: ["[[Linear system]]", "[[Self-organization]]", "[[Abstract nonsense]]", "[[Activity cycle diagram]]", "[[Allopoiesis]]", "[[Almost]]", "[[Almost surely]]", "[[Anticausal system]]", "[[Antifragility]]", "[[Autopoiesis]]"]
+---
+
+# Active and passive transformation
+
+Geometric transformations can be distinguished into two types: active or alibi transformations which change the physical position of a set of points relative to a fixed frame of reference or coordinate system (alibi meaning "being somewhere else at the same time"); and passive or alias transformations which leave points fixed but change the frame of reference or coordinate system relative to which they are described (alias meaning "going under a different name").
+For instance, active transformations are useful to describe successive positions of a rigid body. On the other hand, passive transformations may be useful in human motion analysis to observe the motion of the tibia relative to the femur, that is, its motion relative to a (local) coordinate system which moves together with the femur, rather than a (global) coordinate system which is fixed to the floor.
+In three-dimensional Euclidean space, any proper rigid transformation, whether active or passive, can be represented as a screw displacement, the composition of a translation along an axis and a rotation about that axis.
+The terms active transformation and passive transformation were first introduced in 1957 by Valentine Bargmann for describing Lorentz transformations in special relativity.
+
+## Related
+
+- [[Linear system]]
+- [[Self-organization]]
+- [[Abstract nonsense]]
+- [[Activity cycle diagram]]
+- [[Allopoiesis]]
+- [[Almost]]
+- [[Almost surely]]
+- [[Anticausal system]]
+- [[Antifragility]]
+- [[Autopoiesis]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Active_and_passive_transformation

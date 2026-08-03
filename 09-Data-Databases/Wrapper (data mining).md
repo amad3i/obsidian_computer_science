@@ -1,0 +1,31 @@
+---
+title: "Wrapper (data mining)"
+tags: ["cs", "data-databases", "intermediate"]
+domain: Data & Databases
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Wrapper_(data_mining)"
+wikipedia_categories: ["Data mining"]
+related: ["[[Action model learning]]", "[[Adamic–Adar index]]", "[[Affinity analysis]]", "[[Agent mining]]", "[[AMiner (database)]]", "[[Anomaly detection]]", "[[Archetypal analysis]]", "[[Argument mining]]", "[[Association rule learning]]", "[[Astrostatistics]]"]
+---
+
+# Wrapper (data mining)
+
+Wrapper in data mining is a procedure that extracts regular subcontent of an unstructured or loosely-structured information source and translates it into a relational form, so it can be processed as structured data. Wrapper induction is the problem of devising extraction procedures on an automatic basis, with minimal reliance on hand-crafted rules. 
+Many web pages are automatically generated from structured data – telephone directories, product catalogs, etc. – wrapped in a loosely structured presentation language (usually some variant of HTML), formatted for human browsing and navigation. Structured data are typically descriptions of objects retrieved from underlying databases and displayed in web pages following fixed templates at a low level, injected into pages where the high-level structure can vary from week to week, per the rapidly evolving fashion of the site's presentation skin. The precise dividing line between the fluid high-level skin and the less fluid structured data templates is rarely documented for public consumption, outside of the content management team at the web property. Software systems using such resources must translate HTML content into a relational form. Wrappers are commonly used as such translators. Formally, a wrapper is a function from a page to the set of tuples it contains.
+
+## Related
+
+- [[Action model learning]]
+- [[Adamic–Adar index]]
+- [[Affinity analysis]]
+- [[Agent mining]]
+- [[AMiner (database)]]
+- [[Anomaly detection]]
+- [[Archetypal analysis]]
+- [[Argument mining]]
+- [[Association rule learning]]
+- [[Astrostatistics]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Wrapper_(data_mining)

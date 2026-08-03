@@ -1,0 +1,31 @@
+---
+title: "Novelty detection"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Novelty_detection"
+wikipedia_categories: ["Data mining", "Experimental psychology", "Machine learning", "Neurophysiology", "Statistical outliers"]
+related: ["[[Anomaly detection]]", "[[Astrostatistics]]", "[[Concept drift]]", "[[Discovery system (artificial intelligence)]]", "[[Document classification]]", "[[Feature (machine learning)]]", "[[Formal concept analysis]]", "[[Hierarchical navigable small world]]", "[[Instance selection]]", "[[Local outlier factor]]"]
+---
+
+# Novelty detection
+
+Novelty detection is the mechanism by which an intelligent organism is able to identify an incoming sensory pattern as being hitherto unknown. If the pattern is sufficiently salient or associated with a high positive or strong negative utility, it will be given computational resources for effective future processing.
+The principle is long known in neurophysiology, with roots in the orienting response research by E. N. Sokolov in the 1950s. The reverse phenomenon is habituation, i.e., the phenomenon that known patterns yield a less marked response. Early neural modeling attempts were by Yehuda Salu. An increasing body of knowledge has been collected concerning the corresponding mechanisms in the brain. In technology, the principle became important for radar detection methods during the Cold War, where unusual aircraft-reflection patterns could indicate an attack by a new type of aircraft. Today, the phenomenon plays an important role in machine learning and data science, where the corresponding methods are known as anomaly detection or outlier detection. An extensive methodological overview is given by Markou and Singh.
+
+## Related
+
+- [[Anomaly detection]]
+- [[Astrostatistics]]
+- [[Concept drift]]
+- [[Discovery system (artificial intelligence)]]
+- [[Document classification]]
+- [[Feature (machine learning)]]
+- [[Formal concept analysis]]
+- [[Hierarchical navigable small world]]
+- [[Instance selection]]
+- [[Local outlier factor]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Novelty_detection

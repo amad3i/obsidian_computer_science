@@ -1,0 +1,32 @@
+---
+title: "Multicast Source Discovery Protocol"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Multicast_Source_Discovery_Protocol"
+wikipedia_categories: ["Computer network stubs", "Internet protocols", "Routing protocols"]
+related: ["[[Exterior Gateway Protocol]]", "[[Exterior gateway protocol]]", "[[Virtual Switch Redundancy Protocol]]", "[[BGP Monitoring Protocol]]", "[[Border Gateway Multicast Protocol]]", "[[Border Gateway Protocol]]", "[[Compiled Wireless Markup Language]]", "[[Constrained Shortest Path First]]", "[[Fast Local Internet Protocol]]", "[[First-hop redundancy protocol]]"]
+---
+
+# Multicast Source Discovery Protocol
+
+Multicast Source Discovery Protocol (MSDP) is a Protocol Independent Multicast (PIM) family multicast routing protocol defined by Experimental RFC 3618. Despite becoming the IPv4 de facto standard for inter-domain multicast, development of the protocol stopped in 2006 and it was decided by the authors not to proceed with making it a proposed standard.  MSDP interconnects multiple IPv4 PIM Sparse-Mode (PIM-SM) domains which enables PIM-SM to have Rendezvous Point (RP) redundancy and inter-domain multicasting RFC 4611.
+MSDP uses TCP as its transport protocol. Each multicast tree needs to have its own RP.  All of the RPs are peers (directly or through other MSDP peers).  Messages contain the sender (source) address and the multicast group address (S,G). If an RP on its own domain receives a message, it determines if there are listeners for this group.  If listeners exist, it triggers a PIM join into the source domain towards the data source. In a peering relationship, one MSDP peer listens for new TCP connections on the well-known port 639.
+MSDP is deliberately unspecified for IPv6, for a number of reasons, including that protocols such as Source-Specific Multicast (SSM), Bi-directional Multicast and IPv6 Embedded Rendezvous Points would mean there was less requirement for MSDP.
+
+## Related
+
+- [[Exterior Gateway Protocol]]
+- [[Exterior gateway protocol]]
+- [[Virtual Switch Redundancy Protocol]]
+- [[BGP Monitoring Protocol]]
+- [[Border Gateway Multicast Protocol]]
+- [[Border Gateway Protocol]]
+- [[Compiled Wireless Markup Language]]
+- [[Constrained Shortest Path First]]
+- [[Fast Local Internet Protocol]]
+- [[First-hop redundancy protocol]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Multicast_Source_Discovery_Protocol

@@ -1,0 +1,34 @@
+---
+title: "Retrievability"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Retrievability"
+wikipedia_categories: ["Information science", "Knowledge representation", "Web design"]
+related: ["[[Findability]]", "[[Agricultural Information Management Standards]]", "[[Arabic Ontology]]", "[[Basic Formal Ontology]]", "[[Brian Deer Classification System]]", "[[Conceptualization (information science)]]", "[[Controlled vocabulary]]", "[[Document classification]]", "[[ISO 15926]]", "[[Knowledge organization]]"]
+---
+
+# Retrievability
+
+Retrievability is a term associated with the ease with which information can be found or retrieved using an information system, specifically a search engine or information retrieval system.
+A document (or information object) has high retrievability if there are many queries which retrieve the document via the search engine, and the document is ranked sufficiently high that a user would encounter the document. Conversely, if there are few queries that retrieve the document, or when the document is retrieved the documents are not high enough in the ranked list, then the document has low retrievability.
+Retrievability can be considered as one aspect of findability.
+Applications of retrievability include detecting search engine bias, measuring algorithmic bias, evaluating the influence of search technology, tuning information retrieval systems and evaluating the quality of documents in a collection.
+Retrievability is also key to the process of Retrieval-Augmented Generation (RAG) - a technique that enables large language models (LLMs) to retrieve and incorporate new information.  RAG is used whenever AI needs to select information from a private corpus or any source it hasn't been trained on. Agentic AI web browsing applications also depend heavily on the retrievability of website content.
+
+## Related
+
+- [[Findability]]
+- [[Agricultural Information Management Standards]]
+- [[Arabic Ontology]]
+- [[Basic Formal Ontology]]
+- [[Brian Deer Classification System]]
+- [[Conceptualization (information science)]]
+- [[Controlled vocabulary]]
+- [[Document classification]]
+- [[ISO 15926]]
+- [[Knowledge organization]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Retrievability

@@ -1,0 +1,34 @@
+---
+title: "Test bench"
+tags: ["cs", "software-engineering", "intermediate"]
+domain: Software Engineering
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Test_bench"
+wikipedia_categories: ["Computer science stubs", "Electronic test equipment", "Software testing"]
+related: ["[[Given-When-Then]]", "[[Modularity-driven testing]]", "[[Parameter validation]]", "[[PlanetLab]]", "[[-dev-full]]", "[[A-B testing]]", "[[Acceptance test-driven development]]", "[[Acceptance testing]]", "[[Ad hoc testing]]", "[[Agent verification]]"]
+---
+
+# Test bench
+
+A test bench or testing workbench is an environment used to verify the correctness or soundness of a design or model.
+The term has its roots in the testing of electronic devices, where an engineer would sit at a lab bench with tools for measurement and manipulation, such as oscilloscopes, multimeters, soldering irons, wire cutters, and so on, and manually verify the correctness of the device under test (DUT).
+In the context of software or firmware or hardware engineering, a test bench is an environment in which the product under development is tested with the aid of software and hardware tools. The software may need to be modified slightly in some cases to work with the test bench but careful coding can ensure that the changes can be undone easily and without introducing bugs.
+The term "test bench" is used in digital design with a hardware description language to describe the test code, which instantiates the DUT and runs the test.
+An additional meaning for "test bench" is an isolated, controlled environment, very similar to the production environment but neither hidden nor visible to the general public, customers etc. Therefore making changes is safe, because final users are not involved.
+
+## Related
+
+- [[Given-When-Then]]
+- [[Modularity-driven testing]]
+- [[Parameter validation]]
+- [[PlanetLab]]
+- [[-dev-full]]
+- [[A-B testing]]
+- [[Acceptance test-driven development]]
+- [[Acceptance testing]]
+- [[Ad hoc testing]]
+- [[Agent verification]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Test_bench

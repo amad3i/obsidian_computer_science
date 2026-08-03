@@ -1,0 +1,35 @@
+---
+title: "National Land and Property Gazetteer"
+tags: ["cs", "data-databases", "intermediate"]
+domain: Data & Databases
+level: intermediate
+source: "https://en.wikipedia.org/wiki/National_Land_and_Property_Gazetteer"
+wikipedia_categories: ["Gazetteers", "Geographic information systems", "Geographical databases in the United Kingdom"]
+related: ["[[Local Land and Property Gazetteer]]", "[[National Address Gazetteer]]", "[[3D structure change detection]]", "[[Address geocoding]]", "[[AM-FM-GIS]]", "[[Android Team Awareness Kit]]", "[[Automatic label placement]]", "[[Book of Roads and Kingdoms]]", "[[Buffer analysis]]", "[[Canada Geographic Information System]]"]
+---
+
+# National Land and Property Gazetteer
+
+The National Land and Property Gazetteer (NLPG) is an initiative in England and Wales to provide a definitive and consistent address infrastructure. Up until recently Great Britain has not held a single list of all addresses in the country, meaning that many government and private services have not been sure if addresses from differing sources refer to the same or different properties.
+The NLPG is made up of the input of Local Land and Property Gazetteers (LLPGs) maintained by local authorities that are the creators of all address information excepting postcodes. The NLPG then acts as a central repository or "hub" for LLPGs maintained by local authorities. The NLPG also enforces compliance by local authorities with the national standard for the representation of address information, British Standard 7666 (BS7666), and coordinates and enforces the maintenance of LLPGs by local authorities.
+The NLPG is managed by the company GeoPlace, which is a public sector limited liability partnership between the Local Government Association (LGA) and Ordnance Survey.
+The NLPG does not just hold addresses where people work or live, or addresses that have a postal address. The NLPG also includes 'non-addressable properties that are of no use for postal deliveries but can be vital information for emergency response, asset insurance, planning issues, repair and maintenance, and many other activities.'
+In many ways the information held by the NLPG may be considered to hold a national model of land and property in the UK.
+Although the NLPG may be considered to be in an intermediate stage of development, its usage has been taken up by a number of public and private organisations as it provides the most complete register of land and property in the UK.
+
+## Related
+
+- [[Local Land and Property Gazetteer]]
+- [[National Address Gazetteer]]
+- [[3D structure change detection]]
+- [[Address geocoding]]
+- [[AM-FM-GIS]]
+- [[Android Team Awareness Kit]]
+- [[Automatic label placement]]
+- [[Book of Roads and Kingdoms]]
+- [[Buffer analysis]]
+- [[Canada Geographic Information System]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/National_Land_and_Property_Gazetteer

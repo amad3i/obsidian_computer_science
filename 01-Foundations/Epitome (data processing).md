@@ -1,0 +1,32 @@
+---
+title: "Epitome (data processing)"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Epitome_(data_processing)"
+wikipedia_categories: ["Computer science stubs", "Data processing", "Image processing", "Statistics stubs"]
+related: ["[[Analog image processing]]", "[[Constraint (information theory)]]", "[[N-jet]]", "[[Principal geodesic analysis]]", "[[3D selfie]]", "[[Abel transform]]", "[[Accuracy paradox]]", "[[ActionShot]]", "[[Acutance]]", "[[Adaptive histogram equalization]]"]
+---
+
+# Epitome (data processing)
+
+An epitome, in data processing, is a condensed digital representation of the essential statistical properties of ordered datasets such as matrices that represent images, audio signals, videos or genetic sequences. Although much smaller than the data, the epitome contains many of its smaller overlapping parts with much less repetition and with some level of generalization. As such, it can be used in tasks such as data mining, machine learning and signal processing.
+The first use of epitomic analysis was with image textures for the purposes of image parsing. Epitomes have also been used in video processing to replace, remove or superresolve imagery.
+Epitomes are also being investigated as tools for vaccine design.
+
+## Related
+
+- [[Analog image processing]]
+- [[Constraint (information theory)]]
+- [[N-jet]]
+- [[Principal geodesic analysis]]
+- [[3D selfie]]
+- [[Abel transform]]
+- [[Accuracy paradox]]
+- [[ActionShot]]
+- [[Acutance]]
+- [[Adaptive histogram equalization]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Epitome_(data_processing)

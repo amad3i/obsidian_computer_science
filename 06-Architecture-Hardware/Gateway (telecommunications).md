@@ -1,0 +1,31 @@
+---
+title: "Gateway (telecommunications)"
+tags: ["cs", "architecture-hardware", "intermediate"]
+domain: Architecture & Hardware
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Gateway_(telecommunications)"
+wikipedia_categories: ["Internet architecture", "Networking hardware", "Routers (computing)", "Videotelephony"]
+related: ["[[HERMES-A-MINOTAUR]]", "[[Router (computing)]]", "[[Control plane]]", "[[Core router]]", "[[Data plane]]", "[[Linksys]]", "[[Management plane]]", "[[NetGenie]]", "[[TRENDnet]]", "[[6bone]]"]
+---
+
+# Gateway (telecommunications)
+
+A gateway is a piece of networking hardware or software used in telecommunications networks that allows data to flow from one discrete network to another. Gateways are distinct from routers or switches in that they communicate using more than one protocol to connect multiple networks and can operate at any of the seven layers of the OSI model.
+The term gateway can also loosely refer to a computer or computer program configured to perform the tasks of a gateway, such as a default gateway or router, and in the case of HTTP, gateway is also often used as a synonym for reverse proxy. It can also refer to a device installed in homes that combines router and modem functionality into one device, used by ISPs, also called a residential gateway.
+
+## Related
+
+- [[HERMES-A-MINOTAUR]]
+- [[Router (computing)]]
+- [[Control plane]]
+- [[Core router]]
+- [[Data plane]]
+- [[Linksys]]
+- [[Management plane]]
+- [[NetGenie]]
+- [[TRENDnet]]
+- [[6bone]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Gateway_(telecommunications)

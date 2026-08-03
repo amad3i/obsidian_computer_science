@@ -1,0 +1,31 @@
+---
+title: "Explainable artificial intelligence"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Explainable_artificial_intelligence"
+wikipedia_categories: ["Artificial intelligence", "Artificial intelligence engineering", "Quality control tools"]
+related: ["[[AIOps]]", "[[Argumentation framework]]", "[[AZFinText]]", "[[Bayesian programming]]", "[[Emergent algorithm]]", "[[Machine perception]]", "[[ai]]", "[[2025–present global memory supply shortage]]", "[[2026 OpenAI agent cyberattacks]]", "[[Actor-critic algorithm]]"]
+---
+
+# Explainable artificial intelligence
+
+Within artificial intelligence (AI), explainable AI (XAI), generally overlapping with interpretable AI or explainable machine learning (XML), is a field of research that explores methods that provide humans with the ability of intellectual oversight over AI algorithms. The main focus is on the reasoning behind the decisions or predictions made by the AI algorithms, to make them more understandable and transparent. This addresses the need for users to know the safety of the algorithms and scrutinize the automated decision-making in applications. XAI counters the "black box" tendency of machine learning, where even the AI's designers cannot explain why it arrived at a specific decision.
+XAI seeks to help users of AI-powered systems perform more effectively by improving their understanding of how those systems reason. XAI may be an implementation of the social right to explanation. Even if there is no such legal right or regulatory requirement, XAI can improve the user experience of a product or service by helping end users trust that the AI is making good decisions. XAI aims to explain what has been done, what is being done, what will be done next, and what information these actions are based on. This makes it possible to confirm and challenge existing knowledge, and generate new assumptions.
+
+## Related
+
+- [[AIOps]]
+- [[Argumentation framework]]
+- [[AZFinText]]
+- [[Bayesian programming]]
+- [[Emergent algorithm]]
+- [[Machine perception]]
+- [[ai]]
+- [[2025–present global memory supply shortage]]
+- [[2026 OpenAI agent cyberattacks]]
+- [[Actor-critic algorithm]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Explainable_artificial_intelligence

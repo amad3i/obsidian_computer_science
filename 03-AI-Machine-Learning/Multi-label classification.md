@@ -1,0 +1,31 @@
+---
+title: "Multi-label classification"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Multi-label_classification"
+wikipedia_categories: ["Classification algorithms"]
+related: ["[[(1+ε)-approximate nearest neighbor search]]", "[[AdaBoost]]", "[[ALOPEX]]", "[[Alternating decision tree]]", "[[Analogical modeling]]", "[[Boosting (machine learning)]]", "[[BrownBoost]]", "[[Calibration (statistics)]]", "[[Cascading classifiers]]", "[[Case-based reasoning]]"]
+---
+
+# Multi-label classification
+
+In machine learning, multi-label classification or multi-output classification is a variant of the classification problem where multiple nonexclusive labels may be assigned to each instance. Multi-label classification is a generalization of multiclass classification, which is the single-label problem of categorizing instances into precisely one of several (greater than or equal to two) classes. In the multi-label problem the labels are nonexclusive and there is no constraint on how many of the classes the instance can be assigned to. The formulation of multi-label learning was first introduced by Shen et al. in the context of Semantic Scene Classification, and later gained popularity across various areas of machine learning.
+Formally, multi-label classification is the problem of finding a model that maps inputs x to binary vectors y; that is, it assigns a value of 0 or 1 for each element (label) in y.
+
+## Related
+
+- [[(1+ε)-approximate nearest neighbor search]]
+- [[AdaBoost]]
+- [[ALOPEX]]
+- [[Alternating decision tree]]
+- [[Analogical modeling]]
+- [[Boosting (machine learning)]]
+- [[BrownBoost]]
+- [[Calibration (statistics)]]
+- [[Cascading classifiers]]
+- [[Case-based reasoning]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Multi-label_classification

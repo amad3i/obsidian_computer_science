@@ -1,0 +1,34 @@
+---
+title: "DiY networking"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/DiY_networking"
+wikipedia_categories: ["Do it yourself", "Wireless networking"]
+related: ["[[2016 United States wireless spectrum auction]]", "[[Ad hoc wireless distribution service]]", "[[Air2Web]]", "[[AirHop Communications]]", "[[Andrea Goldsmith (engineer)]]", "[[Augmented tree-based routing]]", "[[Backhaul (telecommunications)]]", "[[Barker code]]", "[[Base station]]", "[[Base transceiver station]]"]
+---
+
+# DiY networking
+
+DIY networking is an umbrella term for different types of grassroots networking, such as wireless community network, mesh network, ad-hoc network, stressing on the possibility that Wireless technology offers to create "offline" or "off-the-cloud" local area networks (LAN), which can operate outside the Internet. Do it yourself (DiY) networking is based on such Wireless LAN networks that are created organically through the interconnection of nodes owned and deployed by individuals or small organizations. Even when the Internet is easily accessible, such DiY networks form an alternative, autonomous option for communication and services, which (1) ensures that all connected devices are in de facto physical proximity, (2) offers opportunities and novel capabilities for creative combinations of virtual and physical contact, (3) enables free, anonymous and easy access, without the need for pre-installed applications or any credentials, and (4) can create feelings of ownership and independence, and lead to the appropriation of the hybrid space in the long-run.
+DiY networks follow the Do-It-Yourself subculture, and provide the technological means for more participatory processes, benefiting from the grassroots engagement of citizens in the design of hybrid, digital and physical, space through novel forms of social networking, crowdsourcing, and citizen science. However, for these possibilities to be realized there are many practical, social, political, and economic challenges that need to be addressed.
+Although DiY could be also used for illegal purposes, the DiY concept has become more and more popular in the mainstream academic literature, activism, art, popular media, and everyday practice, and especially in the case of communications networks there are more and more related scientific papers, books, and online articles. There is a large potential for new, novel, and free locality-aware services and opportunities that demand anonymous and easy access, such as Online Social Networking (OSN) via DiY-Based Sites. Single-board computers such as Arduino, or Raspberry Pi, are commonly used for DiY networking purposes, since such computers are open-source, relatively cheap, have low power demands, support multiple protocols, and are portable.
+In 2016, the EU Horizon2020 research funding framework, and more specifically CAPS (Collective Awareness Platforms for Sustainability and social innovation) has funded two 3-year projects on DIY networking: 1) project MAZI, "A DIY networking toolkit for location-based collective awareness", focusing on small-scale networks and aiming to provide tools and interdisciplinary knowledge for individual or small groups to create their own off-the-cloud networks, and 2) project netCommons, "Network Infrastructure as Commons", focusing on existing large-scale community networks like Guifi.net, Freifunk, Ninux and combining research from different disciplines in close collaboration with key actors to address important economic, social, and political challenges that these networks face today.
+Regarding terminology, there is often criticism on the use of the term “Do It Yourself” to characterize collective action projects, such as the creation of a network. Alternative terms, more “collaborative”, include “Do It With Others”, “Do It Together”, or “Do It Ourselves”. The preference for the term DIY is first practical, since it is a common abbreviation that does not need explanation. But it also stresses the fact that although it is not possible to build a whole network by yourself, you can indeed build by yourself, or yourselves, one of its nodes. And even if this node is often built using off-the-shelf commercial equipment, it is still placed on your space, owned, installed, and maintained by you.
+
+## Related
+
+- [[2016 United States wireless spectrum auction]]
+- [[Ad hoc wireless distribution service]]
+- [[Air2Web]]
+- [[AirHop Communications]]
+- [[Andrea Goldsmith (engineer)]]
+- [[Augmented tree-based routing]]
+- [[Backhaul (telecommunications)]]
+- [[Barker code]]
+- [[Base station]]
+- [[Base transceiver station]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/DiY_networking

@@ -1,0 +1,35 @@
+---
+title: "Linkage (software)"
+tags: ["cs", "programming-languages", "intermediate"]
+domain: Programming & Languages
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Linkage_(software)"
+wikipedia_categories: ["C (programming language)", "Compilers", "Programming language implementation"]
+related: ["[[Compiler]]", "[[F2c]]", "[[Linker (computing)]]", "[[P-code machine]]", "[[Threaded code]]", "[[bss]]", "[[Absoft]]", "[[Accelerated Linear Algebra]]", "[[Ahead-of-time compilation]]", "[[Apple Dylan]]"]
+---
+
+# Linkage (software)
+
+In programming, linkage describes how names can or can not refer to the same entity throughout the whole program or one single translation unit.
+The static keyword is used in C to restrict the visibility of a function or variable to its translation unit. This is also valid in C++. C++98 and C++03 deprecated this usage in favor of anonymous namespaces, but is no longer deprecated in C++11. Also, C++ implicitly treats any const namespace-scope variable as having internal linkage unless it is explicitly declared extern, unlike C.
+A name's linkage is related to, but distinct from, its scope. The scope of a name is the part of a translation unit where it is visible. For instance, a name with global scope (which is the same as file-scope in C and the same as the global namespace-scope in C++) is visible in any part of the file. Its scope will end at the end of the translation unit, whether or not that name has been given external or internal linkage. 
+If the name has external linkage, the entity that name denotes may be referred to from another translation unit using a distinct declaration for that same name, and from other scopes within the same translation unit using distinct declarations. Were the name given internal linkage, such a declaration would denote a distinct entity, although using the same name, but its entity could be referred to by distinct declarations within the same translation unit. A name that has no linkage at all cannot be referred to from declarations in different scopes, not even from within the same translation unit. Examples of such names are parameters of functions and local variables. The details differ between C (where only objects and functions - but not types - have linkage) and C++ and between this simplified overview.
+Linkage between languages must be done with some care, as different languages adorn their external symbols differently.
+A common idiom uses extern "C" to link C++ and C code.
+
+## Related
+
+- [[Compiler]]
+- [[F2c]]
+- [[Linker (computing)]]
+- [[P-code machine]]
+- [[Threaded code]]
+- [[bss]]
+- [[Absoft]]
+- [[Accelerated Linear Algebra]]
+- [[Ahead-of-time compilation]]
+- [[Apple Dylan]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Linkage_(software)

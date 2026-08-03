@@ -1,0 +1,33 @@
+---
+title: "Legal information retrieval"
+tags: ["cs", "ai-machine-learning", "advanced"]
+domain: AI & Machine Learning
+level: advanced
+source: "https://en.wikipedia.org/wiki/Legal_information_retrieval"
+wikipedia_categories: ["Information retrieval genres", "Legal research", "Natural language processing", "Online law databases"]
+related: ["[[Cross-language information retrieval]]", "[[Multi-document summarization]]", "[[Noisy text analytics]]", "[[Abdul Majid Bhurgri Institute of Language Engineering]]", "[[ACL Data Collection Initiative]]", "[[Adversarial stylometry]]", "[[Affix grammar over a finite lattice]]", "[[AFNLP]]", "[[Aggregation (linguistics)]]", "[[AI data center]]"]
+---
+
+# Legal information retrieval
+
+Legal information retrieval is the science of information retrieval applied to legal text, including legislation, case law, and scholarly works. Accurate legal information retrieval is important to provide access to the law to laymen and legal professionals. Its importance has increased because of the vast and quickly increasing amount of legal documents available through electronic means. Legal information retrieval is a part of the growing field of legal informatics.
+In a legal setting, it is frequently important to retrieve all information related to a specific query. However, commonly used boolean search methods (exact matches of specified terms) on full text legal documents have been shown to have an average recall rate as low as 20 percent, meaning that only 1 in 5 relevant documents are actually retrieved. In that case, researchers believed that they had retrieved over 75% of relevant documents. This may result in failing to retrieve important or precedential cases. In some jurisdictions this may be especially problematic, as legal professionals are ethically obligated to be reasonably informed as to relevant legal documents.
+Legal Information Retrieval attempts to increase the effectiveness of legal searches by increasing the number of relevant documents (providing a high recall rate) and reducing the number of irrelevant documents (a high precision rate). This is a difficult task, as the legal field is prone to jargon, polysemes (words that have different meanings when used in a legal context), and constant change.
+Techniques used to achieve these goals generally fall into three categories: boolean retrieval, manual classification of legal text, and natural language processing of legal text.
+
+## Related
+
+- [[Cross-language information retrieval]]
+- [[Multi-document summarization]]
+- [[Noisy text analytics]]
+- [[Abdul Majid Bhurgri Institute of Language Engineering]]
+- [[ACL Data Collection Initiative]]
+- [[Adversarial stylometry]]
+- [[Affix grammar over a finite lattice]]
+- [[AFNLP]]
+- [[Aggregation (linguistics)]]
+- [[AI data center]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Legal_information_retrieval

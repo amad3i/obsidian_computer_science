@@ -1,0 +1,33 @@
+---
+title: "Serratus (virology)"
+tags: ["cs", "hci-interdisciplinary", "intermediate"]
+domain: HCI & Interdisciplinary
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Serratus_(virology)"
+wikipedia_categories: ["Bioinformatics", "Computational biology", "Computational fields of study", "Virology"]
+related: ["[[Viroinformatics]]", "[[Computational biology]]", "[[Adaptive sampling]]", "[[Alignment-free sequence analysis]]", "[[Biological computation]]", "[[CERNO test]]", "[[Computational epigenetics]]", "[[Computational genomics]]", "[[Computational immunology]]", "[[Computer Atlas of Surface Topography of Proteins]]"]
+---
+
+# Serratus (virology)
+
+Serratus is a large scale viroinformatics platform for uncovering the total genetic diversity of Earth's virome. Originating with the goal of uncovering novel coronaviruses that may have been incidentally sequenced by other researchers, the project expanded to encompass all RNA viruses, those which encode a viral RNA-dependent RNA polymerase (RdRp).
+By the end of 2020 there were approximately 15,000 distinct RNA virus sequences known from public databases, measured by the number of distinct RdRp (greater than 10% difference in amino acid sequence). Using a bioinformatics workflow optimized for large-scale cloud computing, the research team analyzed 5.7 million freely available sequencing datasets (20.4 petabytes of raw data) in the Sequence Read Archive (SRA) in only 11 days and a computing cost of US$23,900. This analysis yielded 132,000 novel viral RdRp, representing nearly an order of magnitude increase in the known genetic diversity of RNA viruses.
+Within the database, RNA viruses are classified according to their RdRp palmprint, a type of molecular barcode. The palmprint can be used as a computationally efficient index for the identification of which SRA sequencing runs contain a particular RNA virus. Such an index allows for targeted analysis of raw sequencing datasets from which novel RNA viruses can be characterized.
+All Serratus data are freely-available under the INDSC release policy.
+
+## Related
+
+- [[Viroinformatics]]
+- [[Computational biology]]
+- [[Adaptive sampling]]
+- [[Alignment-free sequence analysis]]
+- [[Biological computation]]
+- [[CERNO test]]
+- [[Computational epigenetics]]
+- [[Computational genomics]]
+- [[Computational immunology]]
+- [[Computer Atlas of Surface Topography of Proteins]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Serratus_(virology)

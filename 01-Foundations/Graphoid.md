@@ -1,0 +1,30 @@
+---
+title: "Graphoid"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Graphoid"
+wikipedia_categories: ["Logic", "Probability theory"]
+related: ["[[Additive process]]", "[[Additive smoothing]]", "[[Almost surely]]", "[[Asymptotic geometry]]", "[[Belief revision]]", "[[Big O in probability notation]]", "[[Blackwell-Girshick equation]]", "[[Blumenthal's zero–one law]]", "[[Boolean network]]", "[[Brownian motion and Riemann zeta function]]"]
+---
+
+# Graphoid
+
+A graphoid is a set of statements of the form, "X is irrelevant to Y given that we know Z" where X, Y and Z are sets of variables. The notion of "irrelevance" and "given that we know" may obtain different interpretations, including probabilistic, relational and correlational, depending on the application. These interpretations share common properties that can be captured by paths in graphs (hence the name "graphoid"). The theory of graphoids characterizes these properties in a finite set of axioms that are common to informational irrelevance and its graphical representations.
+
+## Related
+
+- [[Additive process]]
+- [[Additive smoothing]]
+- [[Almost surely]]
+- [[Asymptotic geometry]]
+- [[Belief revision]]
+- [[Big O in probability notation]]
+- [[Blackwell-Girshick equation]]
+- [[Blumenthal's zero–one law]]
+- [[Boolean network]]
+- [[Brownian motion and Riemann zeta function]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Graphoid

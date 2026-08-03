@@ -1,0 +1,32 @@
+---
+title: "BatiBUS"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/BatiBUS"
+wikipedia_categories: ["Building automation", "Computer network stubs", "Network protocols"]
+related: ["[[Available bit rate]]", "[[BACnet]]", "[[Bandwidth allocation protocol]]", "[[Bearer-Independent Call Control]]", "[[C-Bus (protocol)]]", "[[Common Industrial Protocol]]", "[[Constraint-based Routing Label Distribution Protocol]]", "[[Content Vectoring Protocol]]", "[[ControlNet]]", "[[Digital Data Communications Message Protocol]]"]
+---
+
+# BatiBUS
+
+BatiBus was a network protocol for building automation that was introduced in 1989 and has since been succeeded by KNX. It was a relatively simple low-cost protocol that did not rely on dedicated chips.
+The system was run by the BatiBus Club International (BCI), which was founded by the Swiss company Landis & Gyr and the French companies AIRELEC, Electricité de France and Merlin Gerin (who originated the concept). Predominantly used in France and captured by French Electrical Standard NF C 46620, it provided layers 1, 2 and 7 of the OSI model. Approximately 500,000 BatiBus network units were installed, mainly in France.
+BatiBus communicated over twisted pair lines and in topologies that could be divided into several segments. Each segment was powered with a 15 volt power supply rated at 150 milliamps. A device (node) could be reached at one of 240 possible addresses. In addition, 16 group addresses could be established under which all nodes in a group could be reached. The nodes avoided data collisions via CSMA/CA and had data flow controls. The maximum data transfer rate was 4800 bits/s.
+
+## Related
+
+- [[Available bit rate]]
+- [[BACnet]]
+- [[Bandwidth allocation protocol]]
+- [[Bearer-Independent Call Control]]
+- [[C-Bus (protocol)]]
+- [[Common Industrial Protocol]]
+- [[Constraint-based Routing Label Distribution Protocol]]
+- [[Content Vectoring Protocol]]
+- [[ControlNet]]
+- [[Digital Data Communications Message Protocol]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/BatiBUS

@@ -1,0 +1,32 @@
+---
+title: "DRMAA"
+tags: ["cs", "networks-distributed", "intermediate"]
+domain: Networks & Distributed
+level: intermediate
+source: "https://en.wikipedia.org/wiki/DRMAA"
+wikipedia_categories: ["Grid computing", "Open standards"]
+related: ["[[Access Grid]]", "[[Advanced Message Queuing Protocol]]", "[[Akoma Ntoso]]", "[[Altair Engineering]]", "[[CDDLM]]", "[[Cloud Infrastructure Management Interface]]", "[[D-Grid]]", "[[Data Format Description Language]]", "[[Dynamic infrastructure]]", "[[EMBRACE]]"]
+---
+
+# DRMAA
+
+Distributed Resource Management Application API (DRMAA) is a high-level Open Grid Forum (OGF) API specification for the submission and control of jobs to a distributed resource management (DRM) system, such as a cluster or grid computing infrastructure. The scope of the API covers all the high level functionality required for applications to submit, control, and monitor jobs on execution resources in the DRM system.
+In 2007, DRMAA was one of the first two (the other one was GridRPC) specifications that reached the full recommendation status in the OGF.
+In 2012 the second version of the DRMAA standard (DRMAA2) was published in an abstract interface definition language (IDL) defining the semantic of the functions in GFD 194. DRMAA2 specifies more than twice as many calls as DRMAA. It covers cluster monitoring, has a notion of queues and machines, and introduces a multi job-session concept for single applications for a better job workflow management. Later in 2012 the C API was specified as a first language binding in GF 198.
+
+## Related
+
+- [[Access Grid]]
+- [[Advanced Message Queuing Protocol]]
+- [[Akoma Ntoso]]
+- [[Altair Engineering]]
+- [[CDDLM]]
+- [[Cloud Infrastructure Management Interface]]
+- [[D-Grid]]
+- [[Data Format Description Language]]
+- [[Dynamic infrastructure]]
+- [[EMBRACE]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/DRMAA

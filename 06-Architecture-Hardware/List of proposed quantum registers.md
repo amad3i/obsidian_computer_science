@@ -1,0 +1,53 @@
+---
+title: "List of proposed quantum registers"
+tags: ["cs", "architecture-hardware", "intermediate"]
+domain: Architecture & Hardware
+level: intermediate
+source: "https://en.wikipedia.org/wiki/List_of_proposed_quantum_registers"
+wikipedia_categories: ["Quantum computing"]
+related: ["[[Adiabatic quantum computation]]", "[[Algorithmic qubits]]", "[[Andrea Morello]]", "[[Bacon–Shor code]]", "[[BQP]]", "[[Cat qubit quantum computer]]", "[[Cirac–Zoller controlled-NOT gate]]", "[[Circuit Layer Operations per Second]]", "[[Classical shadow]]", "[[Cloud-based quantum computing]]"]
+---
+
+# List of proposed quantum registers
+
+A practical quantum computer must use a physical system as a programmable quantum register. Researchers are exploring several technologies as candidates for reliable qubit implementations.
+
+Superconducting quantum computing (qubit implemented by the state of nonlinear resonant superconducting circuits containing Josephson junctions)
+Trapped ion quantum computer (qubit implemented by the internal state of trapped ions)
+Neutral atom quantum computer (qubit implemented by internal states of neutral atoms trapped in an optical lattice or an array of dipole traps, i.e. optical tweezers)
+Quantum dot computer, spin-based (e.g. the Loss-DiVincenzo quantum computer) (qubit given by the spin states of trapped electrons)
+Quantum dot computer, spatial-based (qubit given by electron position in double quantum dot)
+Quantum computing using engineered quantum wells, which could in principle enable the construction of a quantum computer that operates at room temperature
+Coupled quantum wire (qubit implemented by a pair of quantum wires coupled by a quantum point contact)
+Nuclear magnetic resonance quantum computer (NMRQC) implemented with the nuclear magnetic resonance of molecules in solution, where qubits are provided by nuclear spins within the dissolved molecule and probed with radio waves
+Solid-state NMR Kane quantum computer (qubit realized by the nuclear spin state of phosphorus donors in silicon)
+Vibrational quantum computer (qubits realized by vibrational superpositions in cold molecules)
+Electrons-on-helium quantum computer (qubit is the electron spin)
+Cavity quantum electrodynamics (CQED) (qubit provided by the internal state of trapped atoms coupled to high-finesse cavities)
+Molecular magnet (qubit given by spin states)
+Fullerene-based ESR quantum computer (qubit based on the electronic spin of atoms or molecules encased in fullerenes)
+Nonlinear optical quantum computer (qubits realized by processing states of different modes of light through both linear and nonlinear elements)
+Linear optical quantum computer (LOQC) (qubits realized by processing states of different modes of light through linear elements e.g. mirrors, beam splitters and phase shifters). Quantum microprocessor based on laser photonics at room temperature made possible.
+Diamond-based quantum computer (qubit realized by the electronic or nuclear spin of nitrogen-vacancy centers in diamond)
+Bose–Einstein condensate-based quantum computer
+Transistor-based quantum computer (string quantum computers with entrainment of positive holes using an electrostatic trap)
+Rare-earth-metal-ion-doped inorganic crystal based quantum computer (qubit realized by the internal electronic state of dopants in optical fibers)
+Metallic-like carbon nanospheres-based quantum computer
+Cat qubit quantum computer (qubit given by cat states)
+
+## Related
+
+- [[Adiabatic quantum computation]]
+- [[Algorithmic qubits]]
+- [[Andrea Morello]]
+- [[Bacon–Shor code]]
+- [[BQP]]
+- [[Cat qubit quantum computer]]
+- [[Cirac–Zoller controlled-NOT gate]]
+- [[Circuit Layer Operations per Second]]
+- [[Classical shadow]]
+- [[Cloud-based quantum computing]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/List_of_proposed_quantum_registers

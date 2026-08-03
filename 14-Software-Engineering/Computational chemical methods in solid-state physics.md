@@ -1,0 +1,31 @@
+---
+title: "Computational chemical methods in solid-state physics"
+tags: ["cs", "software-engineering", "intermediate"]
+domain: Software Engineering
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Computational_chemical_methods_in_solid-state_physics"
+wikipedia_categories: ["Computational chemistry", "Computational chemistry stubs", "Computational physics", "Computational physics stubs", "Computational science", "Condensed matter physics", "Condensed matter stubs", "Theoretical chemistry"]
+related: ["[[Intracule]]", "[[Density matrix embedding theory]]", "[[Car–Parrinello molecular dynamics]]", "[[Centre for Theoretical and Computational Chemistry]]", "[[Computational chemistry]]", "[[Hartree–Fock method]]", "[[Linearized augmented-plane-wave method]]", "[[Monte Carlo method in statistical mechanics]]", "[[Projector augmented wave method]]", "[[Time-dependent density functional theory]]"]
+---
+
+# Computational chemical methods in solid-state physics
+
+Computational chemical methods in solid-state physics follow the same approach as they do for molecules, but with two differences. First, the translational symmetry of the solid has to be utilised, and second, it is possible to use completely delocalised basis functions such as plane waves as an alternative to the molecular atom-centered basis functions.  The electronic structure of a crystal is in general described by a band structure, which defines the energies of electron orbitals for each point in the Brillouin zone. Ab initio and semi-empirical calculations yield orbital energies, therefore they can be applied to band structure calculations. Since it is time-consuming to calculate the energy for a molecule, it is even more time-consuming to calculate them for the entire list of points in the Brillouin zone.
+Calculations can use the Hartree–Fock method, some post-Hartree–Fock methods, particularly Møller–Plesset perturbation theory to second order (MP2) and density functional theory (DFT).
+
+## Related
+
+- [[Intracule]]
+- [[Density matrix embedding theory]]
+- [[Car–Parrinello molecular dynamics]]
+- [[Centre for Theoretical and Computational Chemistry]]
+- [[Computational chemistry]]
+- [[Hartree–Fock method]]
+- [[Linearized augmented-plane-wave method]]
+- [[Monte Carlo method in statistical mechanics]]
+- [[Projector augmented wave method]]
+- [[Time-dependent density functional theory]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Computational_chemical_methods_in_solid-state_physics

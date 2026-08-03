@@ -1,0 +1,34 @@
+---
+title: "Interconnect bottleneck"
+tags: ["cs", "architecture-hardware", "intermediate"]
+domain: Architecture & Hardware
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Interconnect_bottleneck"
+wikipedia_categories: ["Digital electronics", "Fiber-optic communications", "Fiber optics", "Integrated circuits", "Microcomputers", "Microprocessors", "Optical communications", "Optoelectronics"]
+related: ["[[Microprocessor]]", "[[Microprocessor chronology]]", "[[Integrated circuit]]", "[[Altos 586]]", "[[AND gate]]", "[[Automatically switched optical network]]", "[[Behavior tree (artificial intelligence, robotics and control)]]", "[[Bus (computing)]]", "[[C-element]]", "[[Central processing unit]]"]
+---
+
+# Interconnect bottleneck
+
+The interconnect bottleneck comprises limits on integrated circuit (IC) performance due to limits on the speed of connections between components, versus the internal speed of components.
+In 2006 it was predicted to be a "looming crisis" by 2010.
+Improved performance of computer systems has been achieved, in large part, by downscaling the IC minimum feature size. This allows the basic IC building block, the transistor, to operate at a higher frequency, performing more computations per second. However, downscaling of the minimum feature size also results in tighter packing of the wires on a microprocessor, which increases parasitic capacitance and signal propagation delay. Consequently, the delay due to the communication between the parts of a chip becomes comparable to the computation delay itself. This phenomenon, known as an "interconnect bottleneck", is becoming a major problem in high-performance computer systems.
+Moreover, not only delay will cause the failure of interconnect communication. As the data rate climbs up to tens of gbps or even hundreds of gbps, the skin effect comes out. The high frequency part of the signal will degrade a lot when crossing a coaxial copper line.
+This interconnect bottleneck can be solved by using optical interconnects to replace the long metallic interconnects. Such hybrid optical/electronic interconnects promise better performance even with larger designs. Optics has widespread use in long-distance communications; still it has not yet been widely used in chip-to-chip or on-chip interconnections because they (in centimeter or micrometer range) are not yet industry-manufacturable owing to costlier technology and lack of fully mature technologies. As optical interconnections move from computer network applications to chip level interconnections, new requirements for high connection density and alignment reliability have become as critical for the effective use of these links. There are still many materials, fabrication, and packaging challenges in integrating optic and electronic technologies.
+
+## Related
+
+- [[Microprocessor]]
+- [[Microprocessor chronology]]
+- [[Integrated circuit]]
+- [[Altos 586]]
+- [[AND gate]]
+- [[Automatically switched optical network]]
+- [[Behavior tree (artificial intelligence, robotics and control)]]
+- [[Bus (computing)]]
+- [[C-element]]
+- [[Central processing unit]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Interconnect_bottleneck

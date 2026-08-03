@@ -1,0 +1,31 @@
+---
+title: "Metadatabase"
+tags: ["cs", "data-databases", "intermediate"]
+domain: Data & Databases
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Metadatabase"
+wikipedia_categories: ["Database management systems", "Databases"]
+related: ["[[Composite index (database)]]", "[[Concurrency control]]", "[[Data masking]]", "[[Data store]]", "[[Database design]]", "[[Database index]]", "[[Datasource]]", "[[Document-oriented database]]", "[[Foreign key]]", "[[Imieliński–Lipski algebra]]"]
+---
+
+# Metadatabase
+
+Metadatabase is a database model for (1) metadata management, (2) global query of independent databases, and (3) distributed data processing. The word metadatabase is an addition to the dictionary. Originally, metadata was only a common term referring simply to "data about data", such as tags, keywords, and markup headers. However, in this technology, the concept of metadata is extended to also include such data and knowledge representation as information models (e.g., relations, entities-relationships, and objects), application logic (e.g., production rules), and analytic models (e.g., simulation, optimization, and mathematical algorithms). In the case of analytic models, it is also referred to as a Modelbase.
+These classes of metadata are integrated with some modeling ontology to give rise to a stable set of meta-relations (tables of metadata). Individual models are interpreted as metadata and entered into these tables. As such, models are inserted, retrieved, updated, and deleted in the same manner as ordinary data do in an ordinary (relational) database. Users will also formulate global queries and requests for processing of local databases through the Metadatabase, using the globally integrated metadata. The Metadatabase structure can be implemented in any open technology for relational databases.
+
+## Related
+
+- [[Composite index (database)]]
+- [[Concurrency control]]
+- [[Data masking]]
+- [[Data store]]
+- [[Database design]]
+- [[Database index]]
+- [[Datasource]]
+- [[Document-oriented database]]
+- [[Foreign key]]
+- [[Imieliński–Lipski algebra]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Metadatabase

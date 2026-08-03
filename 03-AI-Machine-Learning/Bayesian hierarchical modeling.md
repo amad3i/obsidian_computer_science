@@ -1,0 +1,32 @@
+---
+title: "Bayesian hierarchical modeling"
+tags: ["cs", "ai-machine-learning", "intermediate"]
+domain: AI & Machine Learning
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling"
+wikipedia_categories: ["Bayesian networks"]
+related: ["[[Causal Markov condition]]", "[[Dynamic Bayesian network]]", "[[Influence diagram]]", "[[Junction tree algorithm]]", "[[Latent Dirichlet allocation]]", "[[Moral graph]]", "[[Neural network Gaussian process]]", "[[Plate notation]]", "[[Variable-order Bayesian network]]", "[[Variational message passing]]"]
+---
+
+# Bayesian hierarchical modeling
+
+Bayesian hierarchical modelling is a statistical model written in multiple levels (hierarchical form) that estimates the posterior distribution of model parameters using the Bayesian method. The sub-models combine to form the hierarchical model, and Bayes' theorem is used to integrate them with the observed data and account for all the uncertainty that is present. This integration enables calculation of updated posterior over the (hyper)parameters, effectively updating prior beliefs in light of the observed data.
+Frequentist statistics may yield conclusions seemingly incompatible with those offered by Bayesian statistics due to the Bayesian treatment of the parameters as random variables and its use of subjective information in establishing assumptions on these parameters. As the approaches answer different questions the formal results are not technically contradictory but the two approaches disagree over which answer is relevant to particular applications.  Bayesians argue that relevant information regarding decision-making and updating beliefs cannot be ignored and that hierarchical modeling has the potential to overrule classical methods in applications where respondents give multiple observational data. Moreover, the model has proven to be robust, with the posterior distribution less sensitive to the more flexible hierarchical priors.
+Hierarchical modeling, as its name implies, retains nested data structure, and is used when information is available at several different levels of observational units. For example, in epidemiological modeling to describe infection trajectories for multiple countries, observational units are countries, and each country has its own time-based profile of daily infected cases. In decline curve analysis to describe oil or gas production decline curve for multiple wells, observational units are oil or gas wells in a reservoir region, and each well has each own time-based profile of oil or gas production rates (usually, barrels per month). Hierarchical modeling is used to devise computation based strategies for multiparameter problems.
+
+## Related
+
+- [[Causal Markov condition]]
+- [[Dynamic Bayesian network]]
+- [[Influence diagram]]
+- [[Junction tree algorithm]]
+- [[Latent Dirichlet allocation]]
+- [[Moral graph]]
+- [[Neural network Gaussian process]]
+- [[Plate notation]]
+- [[Variable-order Bayesian network]]
+- [[Variational message passing]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling

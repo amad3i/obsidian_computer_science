@@ -1,0 +1,36 @@
+---
+title: "Car–Parrinello molecular dynamics"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Car–Parrinello_molecular_dynamics"
+wikipedia_categories: ["Algorithms", "Computational chemistry", "Computational chemistry software", "Computational physics", "Density functional theory", "Density functional theory software", "Electronic structure methods", "Mathematical chemistry"]
+related: ["[[Hartree–Fock method]]", "[[Linearized augmented-plane-wave method]]", "[[TeraChem]]", "[[Time-dependent density functional theory]]", "[[Variational method (quantum mechanics)]]", "[[Adiabatic connection fluctuation dissipation theorem]]", "[[Bond order potential]]", "[[CCPForge]]", "[[Cell lists]]", "[[Comparison of software for molecular mechanics modeling]]"]
+---
+
+# Car–Parrinello molecular dynamics
+
+Car–Parrinello molecular dynamics (CPMD) refers to either a method used in molecular dynamics (also known as the Car–Parrinello method) or the computational chemistry software package used to implement this method.
+The CPMD method is one of the major methods for calculating ab initio molecular dynamics (ab initio MD or AIMD).
+Ab initio molecular dynamics (AIMD) is a computational method that uses first principles through quantum mechanics to simulate the motion of atoms in a system. It is a type of molecular dynamics (MD) simulation that does not rely on empirical potentials or force fields to describe the interactions between atoms, but rather calculates these interactions entirely from the electronic structure of the system using quantum mechanics.
+In an ab initio MD simulation, the total energy of the system is calculated at each time step using density functional theory (DFT), Hartree-Fock (HF), or other electronic structure calculation methods. The forces acting on each atom are then determined from the gradient of the energy with respect to the atomic coordinates, and the equations of motion are solved to predict the trajectory of the atoms.
+AIMD permits chemical bond breaking and forming events to occur and accounts for electronic polarization effect. Therefore, Ab initio MD simulations can be used to study a wide range of phenomena, including the structural, thermodynamic, and dynamic properties of materials and chemical reactions. They are particularly useful for systems that are not well described by empirical potentials or force fields, such as systems with strong electronic correlation or systems with many degrees of freedom. However, ab initio MD simulations are computationally demanding and require significant computational resources.
+The CPMD method is related to the more common Born–Oppenheimer molecular dynamics (BOMD) method in that the quantum mechanical effect of the electrons is included in the calculation of energy and forces for the classical motion of the nuclei. CPMD and BOMD are different types of AIMD. However, whereas BOMD treats the electronic structure problem within the time-independent Schrödinger equation, CPMD explicitly includes the electrons as active degrees of freedom, via (fictitious) dynamical variables.
+The software is a parallelized plane wave / pseudopotential implementation of density functional theory, particularly designed for ab initio molecular dynamics.
+
+## Related
+
+- [[Hartree–Fock method]]
+- [[Linearized augmented-plane-wave method]]
+- [[TeraChem]]
+- [[Time-dependent density functional theory]]
+- [[Variational method (quantum mechanics)]]
+- [[Adiabatic connection fluctuation dissipation theorem]]
+- [[Bond order potential]]
+- [[CCPForge]]
+- [[Cell lists]]
+- [[Comparison of software for molecular mechanics modeling]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Car–Parrinello_molecular_dynamics

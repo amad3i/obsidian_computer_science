@@ -1,0 +1,32 @@
+---
+title: "Text mining"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Text_mining"
+wikipedia_categories: ["Applied data mining", "Computational linguistics", "Natural language processing", "Statistical natural language processing", "Text", "Text mining"]
+related: ["[[Noisy text analytics]]", "[[ACL Data Collection Initiative]]", "[[Adversarial stylometry]]", "[[Aggregation (linguistics)]]", "[[Arabic Ontology]]", "[[Artificial intelligence content detection]]", "[[Association for Computational Linguistics]]", "[[Automated essay scoring]]", "[[Automatic acquisition of sense-tagged corpora]]", "[[Automatic summarization]]"]
+---
+
+# Text mining
+
+Text mining, text data mining (TDM) or text analytics is the process of deriving high-quality information from text. It involves "the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources." Written resources may include websites, books, emails, reviews, and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning. According to Hotho et al. (2005), there are three perspectives of text mining: information extraction, data mining, and knowledge discovery in databases (KDD). Text mining usually involves the process of structuring the input text (usually parsing, along with the addition of some derived linguistic features and the removal of others, and subsequent insertion into a database), deriving patterns within the structured data, and finally evaluation and interpretation of the output. 'High quality' in text mining usually refers to some combination of relevance, novelty, and interest. Typical text mining tasks include text categorization, text clustering, concept/entity extraction, production of granular taxonomies, sentiment analysis, document summarization, and entity relation modeling (i.e., learning relations between named entities).
+Text analysis involves information retrieval, lexical analysis to study word frequency distributions, pattern recognition, tagging/annotation, information extraction, data mining techniques including link and association analysis, visualization, and predictive analytics. The overarching goal is, essentially, to turn text into data for analysis, via the application of natural language processing (NLP), different types of algorithms and analytical methods. An important phase of this process is the interpretation of the gathered information.
+A typical application is to scan a set of documents written in a natural language and either model the document set for predictive classification purposes or populate a database or search index with the information extracted. The document is the basic element when starting with text mining. Here, we define a document as a unit of textual data, which normally exists in many types of collections.
+
+## Related
+
+- [[Noisy text analytics]]
+- [[ACL Data Collection Initiative]]
+- [[Adversarial stylometry]]
+- [[Aggregation (linguistics)]]
+- [[Arabic Ontology]]
+- [[Artificial intelligence content detection]]
+- [[Association for Computational Linguistics]]
+- [[Automated essay scoring]]
+- [[Automatic acquisition of sense-tagged corpora]]
+- [[Automatic summarization]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Text_mining

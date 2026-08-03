@@ -1,0 +1,48 @@
+---
+title: "Kind (type theory)"
+tags: ["cs", "general-cs", "advanced"]
+domain: General CS
+level: advanced
+source: "https://en.wikipedia.org/wiki/Kind_(type_theory)"
+wikipedia_categories: ["Data types", "Type theory"]
+related: ["[[Abstract data type]]", "[[Algebraic data type]]", "[[Any type]]", "[[Bottom type]]", "[[Composite data type]]", "[[Enumerated type]]", "[[Flow-sensitive typing]]", "[[Function type]]", "[[Generalized algebraic data type]]", "[[Intersection type]]"]
+---
+
+# Kind (type theory)
+
+In the area of mathematical logic and computer science known as type theory, a kind is the type of a type constructor or, less commonly, the type of a higher-order type operator (type constructor). A kind system is essentially a simply typed lambda calculus "one level up", endowed with a primitive type, usually denoted 
+  
+    
+      
+      
+    
+    
+  
+ and called "type", which is the kind of any data type that does not need any type parameters.
+Syntactically, it is natural to consider polymorphic data types to be type constructors, thus non-polymorphic types to be nullary type constructors. But all nullary constructors, thus all monomorphic types, have the same, simplest kind; namely 
+  
+    
+      
+      
+    
+    
+  
+. This is essentially a stratified type theory approach, in the style of Leivant's stratified system F, a predicative variant of Girard's impredicative system F.
+Since higher-order type operators are uncommon in programming languages, in most programming practice, kinds are used to distinguish between data types and the types of constructors which are used to implement parametric polymorphism. Kinds appear, either explicitly or implicitly, in languages whose type systems account for parametric polymorphism in a programmatically accessible way, such as C++, Haskell, and Scala. ML-polymorphism coincides with rank-1 polymorphism in Leivant's stratification, thus kinds are not explicitly present in ML, although theoretical presentations of ML's type inference algorithm sometimes do use kinds. This is useful for instance when record types (and row polymorphism) are introduced, because the record type constructor is basically a partial function; it does not allow for instance labels to be repeated. This restriction can be expressed as the row kind being parametrized by a set of labels.
+
+## Related
+
+- [[Abstract data type]]
+- [[Algebraic data type]]
+- [[Any type]]
+- [[Bottom type]]
+- [[Composite data type]]
+- [[Enumerated type]]
+- [[Flow-sensitive typing]]
+- [[Function type]]
+- [[Generalized algebraic data type]]
+- [[Intersection type]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Kind_(type_theory)

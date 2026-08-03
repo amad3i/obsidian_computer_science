@@ -1,0 +1,30 @@
+---
+title: "Early access"
+tags: ["cs", "graphics-vision", "intermediate"]
+domain: Graphics & Vision
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Early_access"
+wikipedia_categories: ["Early access video games", "Software release", "Video game development", "Video game distribution"]
+related: ["[[Expansion pack]]", "[[Game demo]]", "[[Spawn installation]]", "[[Unofficial patch]]", "[[2.5D]]", "[[2022–2026 video game industry layoffs]]", "[[AAA (video game industry)]]", "[[AbleGamers]]", "[[Academy of Interactive Arts & Sciences]]", "[[Amazon Lumberyard]]"]
+---
+
+# Early access
+
+Early access, also known as alpha access, alpha founding, paid alpha, or game preview, is a funding model in the video game industry by which consumers can play a game in the various pre-release development cycles, such as pre-alpha, alpha, and/or beta, while the developer is able to use those funds to continue further development on the game. Those that pay to participate typically help to debug the game, provide feedback and suggestions, and may have access to special materials in the game. The early-access approach is a common way to obtain funding for indie games, and may also be used along with other funding mechanisms, including crowdfunding. Many crowdfunding projects promise to offer access to alpha and/or beta versions of the game as development progresses; however, unlike some of these projects which solicit funds but do not yet have a playable game, all early access games offer an immediately playable version of the unfinished game to players.
+
+## Related
+
+- [[Expansion pack]]
+- [[Game demo]]
+- [[Spawn installation]]
+- [[Unofficial patch]]
+- [[2.5D]]
+- [[2022–2026 video game industry layoffs]]
+- [[AAA (video game industry)]]
+- [[AbleGamers]]
+- [[Academy of Interactive Arts & Sciences]]
+- [[Amazon Lumberyard]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Early_access

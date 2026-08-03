@@ -1,0 +1,81 @@
+---
+title: "Art gallery problem"
+tags: ["cs", "algorithms-data-structures", "intermediate"]
+domain: Algorithms & Data Structures
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Art_gallery_problem"
+wikipedia_categories: ["Computational geometry", "Covering problems", "Polygons"]
+related: ["[[Polygon covering]]", "[[Art Gallery Theorems and Algorithms]]", "[[Polygon partition]]", "[[Polygonalization]]", "[[Source unfolding]]", "[[3SUM]]", "[[Algorithmic Geometry]]", "[[Alpha shape]]", "[[Arrangement (space partition)]]", "[[Badouel intersection algorithm]]"]
+---
+
+# Art gallery problem
+
+The art gallery problem or museum problem is a well-studied visibility problem in computational geometry.  It originates from the following real-world problem:
+
+ "In an art gallery, what is the minimum number of guards who together can observe the whole gallery?" 
+In the geometric version of the problem, the layout of the art gallery is represented by a simple polygon and each guard is represented by a point in the polygon.  A set 
+  
+    
+      
+        S
+      
+    
+    
+  
+ of points is said to guard a polygon if, for every point 
+  
+    
+      
+        p
+      
+    
+    
+  
+ in the polygon, there is some 
+  
+    
+      
+        q
+        ∈
+        S
+      
+    
+    
+  
+ such that the line segment between 
+  
+    
+      
+        p
+      
+    
+    
+  
+ and 
+  
+    
+      
+        q
+      
+    
+    
+  
+ does not leave the polygon.
+The art gallery problem can be applied in several domains such as in robotics, when artificial intelligences (AI) need to execute movements depending on their surroundings. Other domains, where this problem is applied, are in image editing, lighting problems of a stage or installation of infrastructures for the warning of natural disasters.
+
+## Related
+
+- [[Polygon covering]]
+- [[Art Gallery Theorems and Algorithms]]
+- [[Polygon partition]]
+- [[Polygonalization]]
+- [[Source unfolding]]
+- [[3SUM]]
+- [[Algorithmic Geometry]]
+- [[Alpha shape]]
+- [[Arrangement (space partition)]]
+- [[Badouel intersection algorithm]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Art_gallery_problem

@@ -1,0 +1,29 @@
+---
+title: "Antikythera mechanism"
+tags: ["cs", "foundations-math", "intermediate"]
+domain: Foundations & Math
+level: intermediate
+source: "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+wikipedia_categories: ["1902 archaeological discoveries", "1902 in Greece", "1st-century BC artifacts", "2nd-century BC artifacts", "3rd-century BC artifacts", "Analog computers", "Ancient Greek astronomy", "Ancient Greek mathematics"]
+related: ["[[Analog-to-digital converter]]", "[[Digital-to-analog converter]]", "[[Eucrates]]", "[[Nomogram]]", "[[Sand table]]", "[[Shadow square]]"]
+---
+
+# Antikythera mechanism
+
+The Antikythera mechanism ( AN-tik-ih-THEER-ə, US also  AN-ty-kih-) is an ancient Greek hand-powered orrery (model of the Solar System) built in the 2nd century BC and discovered in 1901. It is the oldest known example of an analogue computer. It could be used to predict astronomical positions and eclipses decades in advance. It could also be used to track the four-year cycle of athletic games similar to an olympiad, the cycle of the ancient Olympic Games.
+The artefact was among wreckage retrieved from a shipwreck off the coast of the Greek island Antikythera in 1901. In 1902, during a visit to the National Archaeological Museum in Athens, it was noticed by Greek politician Spyridon Stais as containing a gear, prompting the first study of the fragment by his cousin, Valerios Stais, the museum director. The device, housed in the remains of a wooden-framed case of (uncertain) overall size 34 cm × 18 cm × 9 cm (13.4 in × 7.1 in × 3.5 in), was found as one lump, later separated into three main fragments which are now divided into 82 separate fragments after conservation efforts. Four of these fragments contain gears, while inscriptions are found on many others. The largest gear is about 13 cm (5 in) in diameter and originally had 223 teeth. All these fragments of the mechanism are kept at the National Archaeological Museum, along with reconstructions and replicas, to demonstrate how it may have looked and worked.
+In 2005, a team from Cardiff University led by Mike Edmunds used computer X-ray tomography and high resolution scanning to image inside fragments of the crust-encased mechanism and read faint inscriptions that once covered the outer casing. These scans suggest that the mechanism had 37 meshing bronze gears enabling it to follow the movements of the Moon and the Sun through the zodiac, to predict eclipses and to model the irregular orbit of the Moon, where the Moon's velocity is higher in its perigee than in its apogee. This motion was studied in the 2nd century BC by astronomer Hipparchus of Rhodes, and he may have been consulted in the machine's construction. There is speculation that a portion of the mechanism is missing and it calculated the positions of the five classical planets. The inscriptions were further deciphered in 2016, revealing numbers connected with the synodic cycles of Venus and Saturn.
+The instrument is believed to have been designed and constructed by Hellenistic scientists and been variously dated to about 87 BC, between 150 and 100 BC, or 205 BC. It must have been constructed before the shipwreck, which has been dated by multiple lines of evidence to approximately 70–60 BC. In 2022, researchers proposed its initial calibration date, not construction date, could have been 23 December 178 BC. Other experts propose 204 BC as a more likely calibration date. Machines with similar complexity did not appear again until the 14th century in western Europe.
+
+## Related
+
+- [[Analog-to-digital converter]]
+- [[Digital-to-analog converter]]
+- [[Eucrates]]
+- [[Nomogram]]
+- [[Sand table]]
+- [[Shadow square]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/Antikythera_mechanism
